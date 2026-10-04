@@ -8,7 +8,7 @@ A timeline-first wiki of the core moments of Christianity, from the opening of G
 - **Events, people, places, sources and threads**, all cross-linked.
 - **Every claim cited** to a primary source at passage level, one click from the text.
 - **Every date labelled** firm, estimated, traditional or undated, with a note on how it is known.
-- **Also a book**: an EPUB for any e-reader and a PDF for large e-paper tablets, made from the same entries and made again with every change. [christwiki.org/book](https://christwiki.org/book/)
+- **Also a book**: an EPUB for any e-reader and a PDF for large e-paper tablets, with a map for every event, place and era, made from the same entries and made again with every change. [christwiki.org/book](https://christwiki.org/book/)
 - A static site: no server, no database, no trackers, no outside requests.
 
 The first release holds 361 events in sixteen eras, with 631 people, 254 places and 1,037 source records. Every event has been checked by a second pass that did not write it.

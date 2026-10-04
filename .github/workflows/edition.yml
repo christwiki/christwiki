@@ -7,6 +7,11 @@ on:
   schedule:
     - cron: '0 6 1 * *'
   workflow_dispatch:
+    inputs:
+      replace:
+        description: "Make this month's edition again and replace its files (after the book itself has changed, not for changes to entries)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -26,7 +31,11 @@ jobs:
           tag="edition-$(date -u +%Y-%m)"
           echo "tag=$tag" >> "$GITHUB_OUTPUT"
           echo "month=$(date -u +'%B %Y')" >> "$GITHUB_OUTPUT"
-          if [ -n "$(git tag --list "$tag")" ]; then
+          if [ -n "$(git tag --list "$tag")" ] && [ "${{ inputs.replace }}" = "true" ]; then
+            echo "This month's edition is made again."
+            echo "make=true" >> "$GITHUB_OUTPUT"
+            echo "replace=true" >> "$GITHUB_OUTPUT"
+          elif [ -n "$(git tag --list "$tag")" ]; then
             echo "There is already an edition for this month."
             echo "make=false" >> "$GITHUB_OUTPUT"
           elif [ -z "$last" ]; then
@@ -53,8 +62,15 @@ jobs:
           npm ci
           npm run build:release
 
+      - name: Replace the files of this month's edition
+        if: steps.changes.outputs.replace == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.changes.outputs.tag }}
+        run: gh release upload "$TAG" dist/book/christwiki.epub dist/book/christwiki.pdf --clobber
+
       - name: Publish the edition
-        if: steps.changes.outputs.make == 'true'
+        if: steps.changes.outputs.make == 'true' && steps.changes.outputs.replace != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           TAG: ${{ steps.changes.outputs.tag }}
