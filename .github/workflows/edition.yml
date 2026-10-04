@@ -1,0 +1,80 @@
+name: Edition of the book
+
+# The site always offers the current book. Once a month, if any entry has
+# changed, that month's book is also kept as a release: a dated edition that
+# stays as it is and can be cited.
+on:
+  schedule:
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Has anything changed since the last edition?
+        id: changes
+        run: |
+          last=$(git tag --list 'edition-*' --sort=-creatordate | head -n 1)
+          tag="edition-$(date -u +%Y-%m)"
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+          echo "month=$(date -u +'%B %Y')" >> "$GITHUB_OUTPUT"
+          if [ -n "$(git tag --list "$tag")" ]; then
+            echo "There is already an edition for this month."
+            echo "make=false" >> "$GITHUB_OUTPUT"
+          elif [ -z "$last" ]; then
+            echo "This is the first edition."
+            echo "make=true" >> "$GITHUB_OUTPUT"
+            echo "changed=all" >> "$GITHUB_OUTPUT"
+          else
+            changed=$(git diff --name-only "$last" HEAD -- src/content | wc -l | tr -d ' ')
+            echo "$changed entries changed since $last."
+            echo "changed=$changed" >> "$GITHUB_OUTPUT"
+            echo "last=$last" >> "$GITHUB_OUTPUT"
+            if [ "$changed" -gt 0 ]; then echo "make=true" >> "$GITHUB_OUTPUT"; else echo "make=false" >> "$GITHUB_OUTPUT"; fi
+          fi
+
+      - uses: actions/setup-node@v7
+        if: steps.changes.outputs.make == 'true'
+        with:
+          node-version: 22
+          cache: npm
+      - name: Build the site and the book
+        if: steps.changes.outputs.make == 'true'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
+          npm ci
+          npm run build:release
+
+      - name: Publish the edition
+        if: steps.changes.outputs.make == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.changes.outputs.tag }}
+          MONTH: ${{ steps.changes.outputs.month }}
+          CHANGED: ${{ steps.changes.outputs.changed }}
+          LAST: ${{ steps.changes.outputs.last }}
+        run: |
+          if [ "$CHANGED" = "all" ]; then
+            since="This is the first edition."
+          else
+            since="$CHANGED entries were added or changed since the last edition ([compare](https://github.com/${GITHUB_REPOSITORY}/compare/${LAST}...${TAG}))."
+          fi
+          {
+            echo "Christwiki as a book, as it stood at the start of ${MONTH}."
+            echo
+            echo "- **christwiki.epub** for any e-reader: Kindle, Kobo, PocketBook, tolino, and reading apps."
+            echo "- **christwiki.pdf** for large e-paper tablets: reMarkable, Kindle Scribe, Boox, Supernote."
+            echo
+            echo "$since"
+            echo
+            echo "The current book is always at https://christwiki.org/book/. The text is under CC BY-SA 4.0."
+          } > notes.md
+          gh release create "$TAG" dist/book/christwiki.epub dist/book/christwiki.pdf --title "Edition of ${MONTH}" --notes-file notes.md

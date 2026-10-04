@@ -8,6 +8,7 @@ A timeline-first wiki of the core moments of Christianity, from the opening of G
 - **Events, people, places, sources and threads**, all cross-linked.
 - **Every claim cited** to a primary source at passage level, one click from the text.
 - **Every date labelled** firm, estimated, traditional or undated, with a note on how it is known.
+- **Also a book**: an EPUB for any e-reader and a PDF for large e-paper tablets, made from the same entries and made again with every change. [christwiki.org/book](https://christwiki.org/book/)
 - A static site: no server, no database, no trackers, no outside requests.
 
 The first release holds 361 events in sixteen eras, with 631 people, 254 places and 1,037 source records. Every event has been checked by a second pass that did not write it.
@@ -68,6 +69,10 @@ The site is written in English and built to be read in any language. A translati
 ## Publishing
 
 Every push to `main` is checked and published to [christwiki.org](https://christwiki.org) by the workflow in `.github/workflows/deploy.yml`: the strict validation, the build, and the browser tests against that build.
+
+### The book
+
+The same build makes the wiki as a book: `dist/book/christwiki.epub` and `dist/book/christwiki.pdf`, offered at [christwiki.org/book](https://christwiki.org/book/). The site always has the current one. On the first of each month, if any entry has changed, `.github/workflows/edition.yml` also keeps that month's book as a [release](https://github.com/christwiki/christwiki/releases): a dated edition that stays as it is.
 
 To build it anywhere else, `npm run build:release` writes the complete site to `dist/`. To serve it from another address or a sub-path:
 

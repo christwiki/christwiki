@@ -23,6 +23,9 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      # A few sources have Chinese titles. The book's PDF needs a typeface that has those characters.
+      - name: Typefaces for the book
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
 
       - name: Every entry passes the release rules
         run: npm run validate:strict
