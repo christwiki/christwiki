@@ -1,0 +1,46 @@
+{
+  "name": "christwiki",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A timeline-first wiki of the core moments of Christianity, tied to primary sources.",
+  "license": "MIT",
+  "homepage": "https://christwiki.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christwiki/christwiki.git"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "chronowiki validate && astro build",
+    "build:site": "astro build",
+    "build:release": "chronowiki validate --strict && astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "e2e": "playwright test",
+    "validate": "chronowiki validate",
+    "validate:strict": "chronowiki validate --strict",
+    "check:links": "chronowiki check-links",
+    "i18n": "chronowiki i18n",
+    "seed": "tsx scripts/seed-content.ts"
+  },
+  "dependencies": {
+    "astro": "^7.3.5",
+    "chronowiki": "github:christwiki/chronowiki#v0.1.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "yaml": "^2.9.1"
+  },
+  "allowScripts": {
+    "esbuild": true
+  }
+}
