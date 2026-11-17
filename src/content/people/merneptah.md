@@ -6,7 +6,7 @@ died:
   start: -1203
   circa: true
   confidence: estimated
-summary: Son and successor of Ramesses II. A victory stele from his fifth year, found at Thebes, lists Israel among the peoples he claims to have subdued, the earliest known mention of Israel outside the Bible.
+summary: Son and successor of Ramesses II. A victory stele from his fifth year, found at Thebes, lists Israel among the peoples he claims to have subdued, the earliest undisputed mention of Israel outside the Bible.
 citations:
   record:
     source: merneptah-stele

@@ -1,6 +1,6 @@
 ---
 title: The Transfiguration
-summary: Mark, Matthew and Luke tell how three disciples on a high mountain see Jesus changed in appearance, his clothes shining white, with Moses and Elijah beside him, and hear a voice from a cloud call him "my beloved Son". The Gospels do not name the mountain.
+summary: Mark, Matthew and Luke tell how three disciples on a high mountain see Jesus changed in appearance, his clothes shining white, with Moses and Elijah beside him, and hear a voice from a cloud call him "my Son". The Gospels do not name the mountain.
 era: life-of-jesus
 date:
   start: 29

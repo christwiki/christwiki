@@ -16,7 +16,7 @@ links:
     url: https://www.loc.gov/exhibits/scrolls/scr4.html
 edition: "Translation by Solomon Schechter, Documents of Jewish Sectaries, vol. 1: Fragments of a Zadokite Work (Cambridge, 1910), public domain. Cited as CD by the page and line of the medieval Cairo manuscript, which Schechter prints in the margin."
 holding: Israel Antiquities Authority, Jerusalem (4Q266–273 and other Qumran fragments); Cambridge University Library (the Cairo Genizah copies, T-S 10K6 and T-S 16.311)
-summary: A work of exhortation and law from the community of the Dead Sea Scrolls. It tells of a "teacher of righteousness" raised up 390 years after Nebuchadnezzar and of a "new covenant in the land of Damascus". Known first from medieval copies, then from Qumran.
+summary: Exhortation and law from the community of the Dead Sea Scrolls. It dates the group's beginning 390 years after Nebuchadnezzar and a "teacher of righteousness" twenty years later, and speaks of a "new covenant in the land of Damascus". Known from medieval copies and from Qumran.
 ---
 
 Solomon Schechter found two medieval copies of this work among the manuscripts of the Cairo Genizah and published them in 1910 under the title *Fragments of a Zadokite Work*. He dated the longer copy to the tenth century and the shorter to the eleventh or twelfth. After 1947, fragments of the same work were found in the caves at Qumran, most of them in Cave 4. They showed that it was a thousand years older than the Cairo copies and belonged with the other writings of that community.

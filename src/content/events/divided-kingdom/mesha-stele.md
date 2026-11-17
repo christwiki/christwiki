@@ -1,6 +1,6 @@
 ---
 title: Moab's Revolt and the Mesha Stele
-summary: Mesha, king of Moab, throws off the rule of Israel after Ahab's death. Kings tells of the campaign sent against him; Mesha's own stele, found at Dibon, tells of the towns he took from Israel in the name of his god Chemosh.
+summary: Mesha, king of Moab, throws off the rule of Israel; Kings dates the revolt after Ahab's death and tells of the campaign sent against him; Mesha's own stele, found at Dibon, tells of the towns he took from Israel in the name of his god Chemosh.
 era: divided-kingdom
 date:
   start: -840

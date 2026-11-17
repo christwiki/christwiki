@@ -1,6 +1,6 @@
 ---
 title: The Martyrdom of Perpetua and Felicity
-summary: "A group of newly baptised Christians is put to death in the arena in Roman Africa, among them the young mother Perpetua and Felicity, who gave birth in prison. The account preserves Perpetua's own prison diary and her visions."
+summary: "A group of newly baptised Christians is put to death in the arena in Roman Africa, among them the young mother Perpetua and Felicity, who gave birth in prison. The account includes a prison diary and visions that it presents as Perpetua's own."
 era: church-under-rome
 date:
   start: 203

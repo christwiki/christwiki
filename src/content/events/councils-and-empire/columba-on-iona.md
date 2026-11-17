@@ -62,7 +62,7 @@ dating: |
   The same sources bear on his death. Adomnán gives him thirty-four years in Britain [[cite:thirty-years]] and says that he died at midnight as Sunday began [[cite:death]]; the annals give the day as 9 June but enter it under 595 [[cite:annals-death]]. Counting thirty-four years from 563 gives 597, and 9 June fell on a Sunday in that year, which is why 597 is the date usually given.
 ---
 
-[[person:columba]], called Colum Cille in Irish, was a priest and abbot who had already founded the monastery of Durrow in Ireland [[cite:bede]]. About two years after the battle of Cúl Dreimne, which the annals say was won through his prayers, he sailed from Ireland to Britain [[cite:sailing]] [[cite:annals-battle]]. The Irish annals put the voyage in 563, when he was in his forty-second year [[cite:annals-563]].
+[[person:columba]], called Colum Cille in Irish, was a priest and abbot who, Bede says, had founded the monastery of Durrow in Ireland before he crossed to Britain [[cite:bede]]. About two years after the battle of Cúl Dreimne, which the annals say was won through his prayers, he sailed from Ireland to Britain [[cite:sailing]] [[cite:annals-battle]]. The Irish annals put the voyage in 563, when he was in his forty-second year [[cite:annals-563]].
 
 He settled on [[place:iona]], a small island off the west coast of what is now Scotland. The sources disagree about who gave it to him. Bede says that Columba came to preach to the northern Picts, converted them, and received the island from them [[cite:bede]]. The Annals of Ulster say that it was granted by Conall son of Comgall [[cite:annals-conall]], and Adomnán shows Columba staying in Britain with this King Conall soon after he arrived [[cite:sailing]].
 

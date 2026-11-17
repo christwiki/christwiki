@@ -1,6 +1,6 @@
 ---
 title: The Farewell and Death of Moses
-summary: In the plains of Moab Moses renews the covenant with the generation born in the wilderness, writes down the law and hands the leadership to Joshua. He sees the promised land from Mount Nebo and dies there without entering it.
+summary: Deuteronomy tells how in the plains of Moab Moses renews the covenant with the generation born in the wilderness, writes down the law and hands the leadership to Joshua. He sees the promised land from Mount Nebo and dies there without entering it.
 era: exodus-and-conquest
 date:
   start: -1406

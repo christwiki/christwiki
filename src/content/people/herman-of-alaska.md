@@ -1,6 +1,6 @@
 ---
 name: Herman of Alaska
-altNames: [German of Alaska, Herman of Valaam]
+altNames: [German of Alaska]
 role: Monk of Valaam, missionary on Kodiak and Spruce Island
 born:
   start: 1757

@@ -14,7 +14,7 @@ links:
   - label: Chapters 1–9, Justin's account of his conversion (New Advent)
     url: https://www.newadvent.org/fathers/01281.htm
 edition: "Translation by Marcus Dods and George Reith, Ante-Nicene Fathers vol. 1 (1885), public domain."
-summary: "Justin's account of a long debate with a Jew named Trypho about whether Jesus is the Messiah foretold in the Scriptures. Its opening chapters are the only source for Justin's own path from Greek philosophy to Christianity."
+summary: "Justin's account of a long debate with a Jew named Trypho about whether Jesus is the Messiah foretold in the Scriptures. Its opening chapters are the fullest account of Justin's own path from Greek philosophy to Christianity."
 ---
 
 The *Dialogue* is the longest of Justin's surviving works. Its setting is the aftermath of a war: Trypho introduces himself as a Hebrew who has escaped from "the war lately carried on" (1), which is taken to be the Bar Kokhba revolt. The book was written later than the *First Apology*, to which it refers. Eusebius says the debate took place at Ephesus (*Church History* 4.18).

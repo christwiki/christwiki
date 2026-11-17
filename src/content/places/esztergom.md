@@ -21,4 +21,4 @@ citations:
 
 Esztergom stands on the right bank of the Danube, north-west of Budapest. The older Life of [[person:stephen-i-of-hungary]] says that he divided his lands into ten bishoprics and made the church of Esztergom, in Latin *Strigonium*, their metropolis and mistress, with the consent and subscription of the Roman see [[cite:metropolis]].
 
-Hartvic, rewriting that Life about a century later, has Stephen's envoy ask the pope to confirm Esztergom as the metropolis, and names a monk Sebastian whom the king set over its archbishopric [[cite:hartvic]]. The timeline places [[event:stephen-of-hungary|Stephen's coronation]] here by convention; the sources read for that entry do not say where he was crowned.
+Hartvic, rewriting that Life a generation later, about a century after Stephen's coronation, has Stephen's envoy ask the pope to confirm Esztergom as the metropolis, and names a monk Sebastian whom the king set over its archbishopric [[cite:hartvic]]. The timeline places [[event:stephen-of-hungary|Stephen's coronation]] here by convention; the sources read for that entry do not say where he was crowned.
