@@ -1,6 +1,6 @@
 ---
 title: The Feeding of the Five Thousand
-summary: In a lonely place by the Sea of Galilee, all four Gospels relate, Jesus feeds a crowd of about five thousand with five loaves and two fish. John adds that the crowd wanted to make him king, and the discourse on the bread of life.
+summary: By the Sea of Galilee, all four Gospels relate, Jesus feeds a crowd of about five thousand with five loaves and two fish. John adds that the crowd wanted to make him king, and the discourse on the bread of life.
 era: life-of-jesus
 reviewed: 2026-10-03
 date:

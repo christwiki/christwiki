@@ -1,6 +1,6 @@
 ---
 title: Israel Named on the Merneptah Stele
-summary: A granite stele set up at Thebes for Pharaoh Merneptah celebrates his victory over Libya. Its closing lines name Israel, beside Ashkelon, Gezer and Yanoam, among the defeated. It is the earliest known mention of Israel outside the Bible.
+summary: A granite stele set up at Thebes for Pharaoh Merneptah celebrates his victory over Libya. Its closing lines name Israel, beside Ashkelon, Gezer and Yanoam, among the defeated. It is the earliest undisputed mention of Israel outside the Bible.
 era: exodus-and-conquest
 date:
   start: -1208

@@ -4,9 +4,9 @@ altNames: [Saul of Tarsus, Paul of Tarsus, Paul the Apostle]
 role: Apostle to the Gentiles
 died:
   start: 64
-  end: 67
+  end: 68
   circa: true
-  display: "c. AD 64–67"
+  display: "c. AD 64–68"
   confidence: traditional
 summary: A Pharisee from Tarsus who persecuted the first believers and then became a missionary to the Gentiles. His letters are, on the usual dating, older than the Gospels. Early tradition says he was put to death at Rome under Nero.
 citations:

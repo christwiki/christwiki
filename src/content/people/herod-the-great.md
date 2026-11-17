@@ -53,4 +53,4 @@ Herod was the son of Antipater, an Idumean who rose to power beside the high pri
 
 Josephus calls his rebuilding of the temple "a very great work" [[cite:temple]]; see [[event:herod-rebuilds-the-temple]]. Josephus, almost the only source for his reign, says that he was about seventy in his last illness [[cite:age]] and that he died thirty-four years after the death of Antigonus and thirty-seven after the Romans declared him king. He calls him a man "of great barbarity towards all men equally" [[cite:death]]. For the date see [[event:death-of-herod]].
 
-Matthew places the birth of Jesus "in the days of King Herod" and says that Herod, hearing of a child born to be king, had the boys of Bethlehem under two years old killed [[bible:Matt 2:1-16]]. Matthew is the only Gospel that tells of it.
+Matthew places the birth of Jesus "in the days of King Herod" and says that Herod, hearing of a child born to be king, had the boys of Bethlehem and its neighbourhood killed, from two years old and under [[bible:Matt 2:1-16]]. Matthew is the only Gospel that tells of it.

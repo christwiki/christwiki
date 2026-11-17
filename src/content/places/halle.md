@@ -7,7 +7,7 @@ lon: 11.971
 kind: city
 region: central-and-northern-europe
 location: known
-summary: A city on the Saale in central Germany. In its suburb of Glaucha August Hermann Francke founded his schools and orphan house from 1695, and the missionaries sent to Tranquebar in 1706 studied at its university.
+summary: A city on the Saale in central Germany. In its suburb of Glaucha August Hermann Francke founded his schools and orphan house from 1695, and the missionaries who reached Tranquebar in 1706 studied at its university.
 citations:
   building:
     source: francke-footsteps-of-divine-providence

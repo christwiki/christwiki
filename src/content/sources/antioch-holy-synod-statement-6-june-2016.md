@@ -12,6 +12,6 @@ edition: "English version published by the patriarchate on its own site, followe
 summary: "The statement in which the synod of the Orthodox Patriarchate of Antioch asked for the council on Crete to be postponed and resolved not to take part while its communion with the Patriarchate of Jerusalem remained broken."
 ---
 
-The synod met under Patriarch John X. Its statement lists what it had observed in the other churches and then its own grievances: that Antioch had not signed the council's rules or the primates' decisions of January 2016, and that its dispute with the Patriarchate of Jerusalem over jurisdiction had not been settled. It ends with three unanimous decisions.
+The synod met under Patriarch John X. Its statement lists what it had observed in the other churches and then its own grievances: that Antioch had not signed the council's rules or the primates' decisions of January 2016, and that its dispute with the Patriarchate of Jerusalem over jurisdiction had not been settled. It ends with five unanimous decisions.
 
 It is the Antiochian church's own account of why it stayed away from the council (see [[event:holy-and-great-council]]), and gives one side of the dispute with Jerusalem.

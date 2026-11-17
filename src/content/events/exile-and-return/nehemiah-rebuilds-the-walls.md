@@ -33,4 +33,4 @@ Nehemiah was governor for twelve years. When the poor complained that they were 
 
 Most of this is told in the first person, in what reads as Nehemiah's own report. A papyrus from Egypt names two of the people in it. In 407 BC the Jewish garrison at Elephantine wrote to the governor of Judah for help in rebuilding its temple. The letter mentions Johanan the high priest in Jerusalem and says that the writers had also appealed to the sons of Sanballat, governor of Samaria [[cite:elephantine]].
 
-About 180 BC Ben Sira praised Nehemiah as the one "who raised up for us the walls that were fallen" [[bible:Sir 49:13]]. Jerusalem was again a walled city with a governor of its own, and the book sets [[event:ezra-and-the-law|the public reading of the law]] in the month after the wall was finished [[bible:Neh 8:1-2]].
+About 180 BC Ben Sira praised Nehemiah, who "raised up for us fallen walls" [[bible:Sir 49:13]]. Jerusalem was again a walled city with a governor of its own, and the book sets [[event:ezra-and-the-law|the public reading of the law]] in the month after the wall was finished [[bible:Neh 8:1-2]].

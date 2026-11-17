@@ -4,7 +4,7 @@ role: Cardinal, papal legate to England, archbishop of Canterbury 1556–1558
 died:
   start: 1558
   confidence: firm
-summary: Cardinal sent by Pope Julius III as legate to Mary I. He absolved the realm of schism in November 1554, succeeded Thomas Cranmer as archbishop of Canterbury, and died within days of the queen in November 1558.
+summary: Cardinal sent by Pope Julius III as legate to Mary I. He absolved the realm of schism in November 1554, succeeded Thomas Cranmer as archbishop of Canterbury, and died in November 1558, close upon the queen's death.
 citations:
   repeal:
     source: second-act-of-repeal-1554

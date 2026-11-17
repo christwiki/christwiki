@@ -25,7 +25,7 @@ citations:
     url: https://archive.org/details/ancientrecordsof03brea/page/263/mode/1up
 reviewed: 2026-10-03
 dating: |
-  No Egyptian text or monument that mentions the exodus is known. The only account is the biblical one, and both the date of the event and how far it can be treated as history are disputed. Those who hold to a historical exodus defend one of two dates.
+  No Egyptian text or monument that mentions the exodus is known. The only account is the biblical one, and both the date of the event and how far it can be treated as history are disputed. Most of those who hold to a historical exodus defend one of two dates.
 
   The first takes the figure in Kings literally: Solomon began the temple in his fourth year, "in the four hundred and eightieth year" after Israel came out of Egypt [[bible:1 Kgs 6:1]]. With Solomon's fourth year at about 966 BC this gives about 1446 BC, and Jephthah's "three hundred years" of Israelite settlement east of the Jordan is cited in support [[bible:Judg 11:26]]. See Bryant G. Wood, "The Rise and Fall of the 13th-Century Exodus-Conquest Theory", *Journal of the Evangelical Theological Society* 48 (2005), pp. 475–489.
 

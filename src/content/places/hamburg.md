@@ -7,7 +7,7 @@ lon: 9.993
 kind: city
 region: central-and-northern-europe
 location: known
-summary: Frankish stronghold beyond the Elbe where Louis the Pious founded an archbishopric for the mission to the north, with Ansgar as its first archbishop. Burned by raiders, the see was joined to Bremen.
+summary: Frankish stronghold beyond the Elbe where, according to Rimbert, Louis the Pious founded an archbishopric for the mission to the north, with Ansgar as its first archbishop. Burned by raiders, the see was joined to Bremen.
 citations:
   founded:
     source: rimbert-life-of-anskar

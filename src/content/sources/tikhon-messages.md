@@ -12,6 +12,6 @@ edition: "Russian texts at azbyka.ru, each with its printed source: Tserkovnye v
 summary: The pastoral letters and addresses of Tikhon, Patriarch of Moscow from 1917, among them his address on taking the patriarchal seat, his message of 19 January 1918 and his message of February 1922 on the church's valuables.
 ---
 
-[[person:tikhon-of-moscow]] addressed the Russian church in pastoral letters and addresses. Those cited in [[event:russian-revolution-and-the-church]] are his address in the Dormition Cathedral on 21 November 1917, his letter of 18 December 1917 announcing his accession, his message of 19 January 1918, and his message of 15 February 1922 on famine relief and the removal of church valuables. The dates of 1917 and 1918 are in the Julian calendar.
+[[person:tikhon-of-moscow]] addressed the Russian church in pastoral letters and addresses. Those cited in [[event:russian-revolution-and-the-church]] are his address in the Dormition Cathedral on 21 November 1917, his letter of 18 December 1917 announcing his accession, his message of 19 January 1918, and his message of 15 (28) February 1922 on famine relief and the removal of church valuables. The dates of 1917 and 1918, and the first of the two given for 1922, are in the Julian calendar.
 
 They give the Patriarch's own account of what was being done to the church and of what he asked of its members. The message of 1922 is reproduced on the page linked from a reprint of 1970, where it follows an editor's introduction.

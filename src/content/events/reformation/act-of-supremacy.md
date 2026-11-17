@@ -1,6 +1,6 @@
 ---
 title: England Breaks with Rome
-summary: Parliament forbids appeals to Rome and in 1534 declares Henry VIII the only supreme head on earth of the Church of England. John Fisher and Thomas More, who deny the title, are beheaded in 1535.
+summary: Parliament forbids appeals to Rome and in 1534 declares Henry VIII the only supreme head on earth of the Church of England. John Fisher and Thomas More, who will not acknowledge the title, are beheaded in 1535.
 era: reformation
 date:
   start: 1534
