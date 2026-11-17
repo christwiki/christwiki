@@ -18,6 +18,9 @@ export default defineWiki({
    */
   locales: [english({ messages: en }), german({ status: 'preview', messages: de })],
 
+  /** Christwiki is a website. The theme can also make a wiki as a book for e-readers; that is switched off. */
+  book: false,
+
   /** Map regions, in the order filters and the places index list them. */
   regions: [
     { id: 'levant', name: { en: 'Levant and Arabia', de: 'Levante und Arabien' } },

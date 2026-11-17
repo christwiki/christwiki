@@ -51,18 +51,12 @@ test.describe('site', () => {
     await expect(page.locator('.event-list')).toContainText('The Edict of Cyrus');
   });
 
-  test('the wiki is offered as a book', async ({ page, request, isMobile }) => {
-    await page.goto('/book/');
-    await expect(page.getByRole('heading', { level: 1 })).toHaveText('The book');
-    await expect(page.locator('[data-book="epub"]')).toHaveAttribute('href', '/book/christwiki.epub');
-    await expect(page.locator('[data-book="pdf"]')).toHaveAttribute('href', '/book/christwiki.pdf');
-    test.skip(isMobile, 'The files are the same on every viewport.');
-    const epub = await request.get('/book/christwiki.epub');
-    expect(epub.status()).toBe(200);
-    expect((await epub.body()).subarray(30, 58).toString()).toBe('mimetypeapplication/epub+zip');
-    const pdf = await request.get('/book/christwiki.pdf');
-    expect(pdf.status()).toBe(200);
-    expect((await pdf.body()).subarray(0, 5).toString()).toBe('%PDF-');
+  test('the wiki is a website and offers no book', async ({ page, request }) => {
+    await page.goto('/');
+    await expect(page.locator('a[href$="/book/"]')).toHaveCount(0);
+    expect((await request.get('/book/')).status()).toBe(404);
+    expect((await request.get('/book/christwiki.epub')).status()).toBe(404);
+    expect((await request.get('/book/christwiki.pdf')).status()).toBe(404);
   });
 
   test('an unknown address gives the 404 page', async ({ page }) => {
