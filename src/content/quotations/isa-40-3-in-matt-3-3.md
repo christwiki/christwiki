@@ -1,6 +1,6 @@
 ---
 title: "The voice of one crying in the wilderness"
-summary: "Matthew says that John the Baptist is the one of whom Isaiah spoke, the voice crying in the wilderness. In Isaiah 40 the voice calls for a road to be made through the desert for God, who is coming to the cities of Judah."
+summary: "Matthew says that John the Baptist is the one of whom Isaiah spoke, the voice crying in the wilderness. In Isaiah 40 the voice calls for a highway in the desert for God, and the cities of Judah are told that their God is coming."
 kind: applied
 earlier:
   bible: "Isa 40:3"
@@ -24,11 +24,11 @@ citations:
     url: https://ebible.org/eng-Brenton/ISA40.htm
   rule:
     source: community-rule
-    at: "4Q258, translated by E. Qimron (compare 1QS 9.19–20)"
+    at: "the passage on the time for clearing the way, translated by E. Qimron"
     url: https://www.loc.gov/exhibits/scrolls/trans3.html
 ---
 
-Matthew introduces [[person:john-the-baptist]] preaching in the wilderness of Judea and says: "this is he who was spoken of by Isaiah the prophet" [[bible:Matt 3:1-3]]. He does not say here that anything was fulfilled [[bible:Matt 3:3]]. Mark and Luke apply the same verse to John the Baptist, and in John he says it of himself [[bible:Mark 1:2-4; Luke 3:2-6; John 1:23]]. Each of those has its own entry: [[quotation:isa-40-3-in-mark-1-3|Mark]], [[quotation:isa-40-3-in-luke-3-4|Luke]], [[quotation:isa-40-3-in-john-1-23|John]].
+Matthew introduces [[person:john-the-baptist]] preaching in the wilderness of Judea and says: "this is he who was spoken of by Isaiah the prophet" [[bible:Matt 3:1-3]]. He does not say here that anything was fulfilled [[bible:Matt 3:3]]. Mark and Luke apply the same verse to John the Baptist, and in John he says it of himself [[bible:Mark 1:2-4; Luke 3:2-6; John 1:19-23]]. Each of those has its own entry: [[quotation:isa-40-3-in-mark-1-2|Mark]], [[quotation:isa-40-3-in-luke-3-4|Luke]], [[quotation:isa-40-3-in-john-1-23|John]].
 
 In Isaiah 40 the voice is not described. It calls for the way of the Lord to be prepared in the wilderness and for a highway in the desert for God: valleys are to be raised and hills made low, and the glory of the Lord will be revealed [[bible:Isa 40:3-5]]. The chapter opens with comfort for [[place:jerusalem]], and goes on to tell the cities of Judah that their God is coming [[bible:Isa 40:1-2, 9-10]].
 

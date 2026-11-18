@@ -5,11 +5,11 @@ kind: applied
 earlier:
   bible: "Isa 29:13"
   text: |
-    Because this people draws near with their mouth and honors me with their lips, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught
+    … Because this people draws near with their mouth and honors me with their lips, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught
 later:
   bible: "Mark 7:6-7"
   text: |
-    Well did Isaiah prophesy of you hypocrites, as it is written,
+    … Well did Isaiah prophesy of you hypocrites, as it is written,
     'This people honors me with their lips,
     but their heart is far from me.
     But they worship me in vain,
@@ -23,4 +23,4 @@ citations:
 
 Mark tells how Pharisees and scribes who have come from [[place:jerusalem]] see some of the disciples of [[person:jesus]] eating with unwashed hands. He explains that the Pharisees and all the Jews do not eat without washing, holding to the tradition of the elders [[bible:Mark 7:1-5]]. Jesus answers: "Well did Isaiah prophesy of you hypocrites, as it is written". After the quotation he charges them with leaving the commandment of God for the tradition of men [[bible:Mark 7:6-9]]. In Matthew the charge comes before the quotation [[bible:Matt 15:3-9]].
 
-As in Matthew, the last line has the "in vain" of the ancient Greek translation of Isaiah [[bible:Mark 7:7]] [[cite:lxx]]. The passage in its own setting is described under [[quotation:isa-29-13-in-matt-15-7]].
+As in Matthew, the close of the quotation has the "in vain" of the ancient Greek translation of Isaiah [[bible:Mark 7:7]] [[cite:lxx]]. The passage in its own setting is described under [[quotation:isa-29-13-in-matt-15-7]].

@@ -8,7 +8,7 @@ earlier:
     …
     for my house will be called a house of prayer for all peoples.
 
-    Has this house, which is called by my name, become a den of robbers in your eyes?
+    Has this house, which is called by my name, become a den of robbers in your eyes? …
 later:
   bible: "Luke 19:46"
   event: cleansing-of-the-temple

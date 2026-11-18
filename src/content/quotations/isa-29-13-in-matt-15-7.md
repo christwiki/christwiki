@@ -5,7 +5,7 @@ kind: applied
 earlier:
   bible: "Isa 29:13"
   text: |
-    Because this people draws near with their mouth and honors me with their lips, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught
+    … Because this people draws near with their mouth and honors me with their lips, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught
 later:
   bible: "Matt 15:7-9"
   text: |
@@ -26,6 +26,6 @@ Matthew tells how Pharisees and scribes from [[place:jerusalem]] ask [[person:je
 
 In [[person:isaiah]] the words are the Lord's charge against "this people", in a chapter that opens with a woe on Ariel, the city where David encamped [[bible:Isa 29:1, 13]]. Because the people honour him with their lips while their heart is far from him, he will do a marvellous thing among them, and the wisdom of their wise men will perish [[bible:Isa 29:13-14]].
 
-The last line of the quotation follows the ancient Greek translation. The Hebrew text, as modern translations render it, says that the people's fear or worship of God is a human commandment that has been taught. The Greek says that they worship "in vain", teaching the commandments and doctrines of men [[bible:Isa 29:13]] [[cite:lxx]]. Matthew's quotation has "in vain" [[bible:Matt 15:9]].
+The close of the quotation agrees with the ancient Greek translation in having "in vain". The Hebrew text, as modern translations render it, says that the people's fear or worship of God is a human commandment that has been taught. The Greek says that they worship "in vain", teaching the commandments and doctrines of men [[bible:Isa 29:13]] [[cite:lxx]]. Matthew's quotation has "in vain" [[bible:Matt 15:9]].
 
 The translations of Matthew differ on how the quotation begins. The World English Bible has a line about drawing near with the mouth, which is left out of the words given above; the New Revised Standard Version Updated Edition, to which the links here lead, does not have it [[bible:Matt 15:8]]. Mark tells of the same exchange: [[quotation:isa-29-13-in-mark-7-6]].

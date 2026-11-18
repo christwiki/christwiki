@@ -21,7 +21,7 @@ citations:
     url: https://ebible.org/eng-Brenton/PSA008.htm
 ---
 
-Matthew tells that after [[person:jesus]] had driven the traders from the temple, the blind and the lame came to him there and he healed them. The chief priests and the scribes are indignant at what he does and at the children who cry in the temple, "Hosanna to the son of David", and ask whether he hears what they are saying. He answers, "Yes", and asks whether they never read the line about babes [[bible:Matt 21:12-16]].
+Matthew tells how [[person:jesus]] drove the traders from the temple, and next that the blind and the lame came to him there and he healed them. The chief priests and the scribes are indignant at what he does and at the children who cry in the temple, "Hosanna to the son of David", and ask whether he hears what they are saying. He answers, "Yes", and asks whether they never read the line about babes [[bible:Matt 21:12-16]].
 
 The line is from a psalm that begins with the majesty of the Lord's name in all the earth [[bible:Ps 8:1-2]]. In the Hebrew text, as modern translations render it, what God has founded out of the mouth of babes and infants is strength, or a bulwark, because of his adversaries, to silence the enemy [[bible:Ps 8:2]]. The ancient Greek translation has "perfected praise" in its place [[cite:lxx]], and Matthew's quotation has praise [[bible:Matt 21:16]].
 

@@ -10,9 +10,10 @@ earlier:
     "Prepare the way of Yahweh in the wilderness!
     Make a level highway in the desert for our God.
 later:
-  bible: "Mark 1:3"
+  bible: "Mark 1:2-3"
   event: ministry-of-john-the-baptist
   text: |
+    …
     the voice of one crying in the wilderness,
     'Make ready the way of the Lord!
     Make his paths straight!'
