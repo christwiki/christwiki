@@ -20,6 +20,17 @@ citations:
   sailing:
     source: adomnan-life-of-columba
     at: "1.7"
+  durrow:
+    source: adomnan-life-of-columba
+    at: "1.3"
+  annals-macnisse:
+    source: annals-of-ulster
+    at: "585, 591"
+    url: https://celt.ucc.ie/published/T100001A.html#p93
+  annals-alither:
+    source: annals-of-ulster
+    at: "599"
+    url: https://celt.ucc.ie/published/T100001A.html#p99
   annals-563:
     source: annals-of-ulster
     at: "563"
@@ -60,9 +71,11 @@ dating: |
   The Annals of Ulster enter Columba's voyage to Iona under 563, in the forty-second year of his age [[cite:annals-563]], and the battle of Cúl Dreimne under 561 [[cite:annals-battle]]; Adomnán says that he sailed about two years after that battle [[cite:sailing]]. Bede, writing in 731, gives 565 and the ninth year of the Pictish king Bridei [[cite:bede]]. The timeline follows the annals.
 
   The same sources bear on his death. Adomnán gives him thirty-four years in Britain [[cite:thirty-years]] and says that he died at midnight as Sunday began [[cite:death]]; the annals give the day as 9 June but enter it under 595 [[cite:annals-death]]. Counting thirty-four years from 563 gives 597, and 9 June fell on a Sunday in that year, which is why 597 is the date usually given.
+
+  Bede and Adomnán differ on when Durrow was founded. Bede puts it before Columba crossed to Britain [[cite:bede]]. Adomnán has him founding it at a time when Alither was abbot of Clonmacnoise [[cite:durrow]]. The Annals of Ulster enter the death of Mac Nisse, abbot of Clonmacnoise, under 585, and again under 591 [[cite:annals-macnisse]], and the death of Alither as abbot under 599 [[cite:annals-alither]]. If Alither followed Mac Nisse, Adomnán's account puts the founding of Durrow after 585, some twenty years after the voyage to Iona.
 ---
 
-[[person:columba]], called Colum Cille in Irish, was a priest and abbot who, Bede says, had founded the monastery of Durrow in Ireland before he crossed to Britain [[cite:bede]]. About two years after the battle of Cúl Dreimne, which the annals say was won through his prayers, he sailed from Ireland to Britain [[cite:sailing]] [[cite:annals-battle]]. The Irish annals put the voyage in 563, when he was in his forty-second year [[cite:annals-563]].
+[[person:columba]], called Colum Cille in Irish, was a priest and abbot who, Bede says, had founded the monastery of Durrow in Ireland before he crossed to Britain [[cite:bede]]. Adomnán tells it differently: Columba was founding Durrow, during a stay of a few months in the midlands of Ireland, when he visited Clonmacnoise and was received by its abbot Alither [[cite:durrow]]. About two years after the battle of Cúl Dreimne, which the annals say was won through his prayers, he sailed from Ireland to Britain [[cite:sailing]] [[cite:annals-battle]]. The Irish annals put the voyage in 563, when he was in his forty-second year [[cite:annals-563]].
 
 He settled on [[place:iona]], a small island off the west coast of what is now Scotland. The sources disagree about who gave it to him. Bede says that Columba came to preach to the northern Picts, converted them, and received the island from them [[cite:bede]]. The Annals of Ulster say that it was granted by Conall son of Comgall [[cite:annals-conall]], and Adomnán shows Columba staying in Britain with this King Conall soon after he arrived [[cite:sailing]].
 

@@ -71,10 +71,26 @@ citations:
     source: augustine-grace-of-christ-and-original-sin
     at: "2.10"
     url: https://www.newadvent.org/fathers/15062.htm
+  zosimus-caelestius:
+    source: zosimus-of-rome-letters
+    at: "Magnum pondus (Collectio Avellana 45) 2–8"
+    url: https://archive.org/details/epistulaeimperat01gnth/page/99/mode/1up
+  zosimus-pelagius:
+    source: zosimus-of-rome-letters
+    at: "Postquam a nobis (Collectio Avellana 46) 1–7"
+    url: https://archive.org/details/epistulaeimperat01gnth/page/103/mode/1up
   zosimus:
     source: augustine-grace-of-christ-and-original-sin
     at: "2.7–8"
     url: https://www.newadvent.org/fathers/15062.htm
+  zosimus-circular:
+    source: augustine-grace-of-christ-and-original-sin
+    at: "2.8–9, 2.24"
+    url: https://www.newadvent.org/fathers/15062.htm
+  rescript:
+    source: honorius-rescript-against-pelagius-418
+    at: "(PL 56, cols 490–492)"
+    url: https://archive.org/details/patrologiaecur56mign/page/n249/mode/1up
   canons:
     source: council-of-carthage-418
     at: "canons 109–113"
@@ -102,6 +118,8 @@ citations:
 dating: |
   The end of the range is fixed. The canons of Carthage are dated to the Kalends of May in the consulship of Honorius for the twelfth time and Theodosius for the eighth, 1 May 418 [[cite:date418]], and Prosper enters the general condemnation under the same year [[cite:prosper418]].
 
+  The steps of 417 and 418 are dated by the documents themselves. Zosimus's first letter keeps the consuls of 417 but has lost its day [[cite:zosimus-caelestius]]; his second is dated 21 September, with no year [[cite:zosimus-pelagius]]. The emperor's rescript is dated at Ravenna on the day before the Kalends of May in the consulship that also dates the canons, 30 April 418 [[cite:rescript]], one day before the date the canons carry [[cite:date418]]. The collection that preserves the rescript heads it as given after the acts of the synod that precedes it there, which is this council, had been received [[cite:rescript]], and Possidius has the emperor act after the bishops of Rome had judged [[cite:honorius]]. The heading and the two dates do not fit as they stand, and each document is entered here under its own date. None of the sources read for this entry dates Zosimus's circular letter; Augustine places it after an African council's answer to Zosimus, without saying which council [[cite:zosimus-circular]].
+
   The beginning is less exact. Augustine says that Pelagius passed through Africa while he himself was preparing for the conference with the Donatists, and that the trial of Caelestius at Carthage followed [[cite:africa]]. That conference met in 411 (see [[event:donatist-schism]]), so the trial belongs to 411 or 412. Prosper enters the rise of Pelagius's teaching under 413 [[cite:briton]]. Augustine places the acquittal of Pelagius in Palestine "a few years" after the trial of Caelestius [[cite:acquittal]].
 ---
 
@@ -111,6 +129,8 @@ Pelagius passed through Africa and sailed on [[cite:africa]]. His disciple Caele
 
 Augustine then wrote against the teaching, at first without naming Pelagius. Human nature, he argued, was created sound, but as it is now born from Adam it "wants the Physician, because it is not sound"; the grace of Christ that heals it is not a reward for merit but is given freely [[cite:physician]].
 
-A few years later a synod of fourteen bishops in Palestine heard Pelagius and, on his answers, declared him to be in the communion of the church [[cite:acquittal]]. The African bishops wrote to Innocent of Rome, who replied that Pelagius had evaded the charges [[cite:innocent]]. Innocent's successor Zosimus at first gave Caelestius a hearing and time to clear himself [[cite:zosimus]]. On 1 May 418 a council at Carthage under Aurelius issued canons against anyone who says that Adam would have died even without sin, that infants have no original sin to be remitted in baptism, that grace only forgives past sins or only teaches what is commanded, or that the commandments could be kept without grace, though less easily [[cite:canons]]. Zosimus accepted the decrees, the emperor Honorius legislated against the Pelagians, and Prosper could write that the heresy was condemned throughout the world [[cite:prosper418]] [[cite:honorius]].
+A few years later a synod of fourteen bishops in Palestine heard Pelagius and, on his answers, declared him to be in the communion of the church [[cite:acquittal]]. The African bishops wrote to Innocent of Rome, who replied that Pelagius had evaded the charges [[cite:innocent]]. Innocent's successor Zosimus heard Caelestius at Rome in 417 and had his written statement read. He passed no final sentence, but he wrote to the African bishops that their case had been pressed in haste, and he gave two months for accusers to come to Rome, after which no doubt about Caelestius was to remain [[cite:zosimus-caelestius]]. In a second letter, dated 21 September, he reported that a letter and a statement of faith from Pelagius had been read in public and agreed with what Caelestius had said; he wrote that men of faultless faith had been defamed, and told the Africans that it did not become bishops to hang on the letters of Heros and Lazarus, two accusers whom Rome had put out of communion [[cite:zosimus-pelagius]]. Augustine tells it more gently: Zosimus chose to question Caelestius and not to condemn him at once, did not release him from excommunication, and allowed two months until an answer came from Africa [[cite:zosimus]].
+
+On 30 April 418 the emperor Honorius ordered that Caelestius and Pelagius be driven from Rome and that those who held their teaching be exiled [[cite:rescript]]. On 1 May a council at Carthage under Aurelius issued canons against anyone who says that Adam would have died even without sin, that infants have no original sin to be remitted in baptism, that grace only forgives past sins or only teaches what is commanded, or that the commandments could be kept without grace, though less easily [[cite:canons]]. Augustine reports that Zosimus then condemned both men, in a letter written for the whole church, after the answer of an African council had reached him [[cite:zosimus-circular]]. Prosper writes that the decrees of a council at Carthage were brought to Zosimus and approved, and that the heresy was condemned throughout the world [[cite:prosper418]]. Possidius has the bishops of Rome give judgment first and the emperor's laws follow [[cite:honorius]].
 
 In 431 the Council of Ephesus named the teaching of Caelestius beside that of Nestorius [[cite:ephesus]]. The argument did not end there: in his last years Augustine was still writing on predestination for Christians who accepted original sin and the need of grace but could not follow him further [[cite:predestination]].
