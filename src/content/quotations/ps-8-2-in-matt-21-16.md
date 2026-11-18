@@ -19,6 +19,7 @@ citations:
     source: septuagint
     at: "Psalm 8:3 (8:2 in English Bibles)"
     url: https://ebible.org/eng-Brenton/PSA008.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how [[person:jesus]] drove the traders from the temple, and next that the blind and the lame came to him there and he healed them. The chief priests and the scribes are indignant at what he does and at the children who cry in the temple, "Hosanna to the son of David", and ask whether he hears what they are saying. He answers, "Yes", and asks whether they never read the line about babes [[bible:Matt 21:12-16]].

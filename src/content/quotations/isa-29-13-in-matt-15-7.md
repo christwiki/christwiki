@@ -20,6 +20,7 @@ citations:
     source: septuagint
     at: "Isaiah 29:13"
     url: https://ebible.org/eng-Brenton/ISA29.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how Pharisees and scribes from [[place:jerusalem]] ask [[person:jesus]] why his disciples break the tradition of the elders by eating with unwashed hands. He answers that they break the commandment of God for the sake of their tradition, calls them hypocrites and says, "Well did Isaiah prophesy of you" [[bible:Matt 15:1-9]].

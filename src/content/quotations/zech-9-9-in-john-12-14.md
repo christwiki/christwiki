@@ -17,6 +17,7 @@ later:
   text: |
     Jesus, having found a young donkey, sat on it. As it is written,
     "Don't be afraid, daughter of Zion. Behold, your King comes, sitting on a donkey's colt."
+reviewed: 2026-11-18
 ---
 
 In John a great crowd that has come to the feast takes palm branches, goes out to meet [[person:jesus]] and hails him as the King of Israel. Jesus finds a young donkey and sits on it, "As it is written", and the quotation follows. John does not say here that anything was fulfilled [[bible:John 12:12-15]]. He says that the disciples did not understand these things at first, but that when Jesus was glorified they remembered that these things were written about him and that they had done these things to him [[bible:John 12:16]].

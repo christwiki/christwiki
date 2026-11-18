@@ -19,6 +19,7 @@ citations:
     source: septuagint
     at: "Psalm 77:24 (78:24 in English Bibles)"
     url: https://ebible.org/eng-Brenton/PSA077.htm
+reviewed: 2026-11-18
 ---
 
 In John, on the day after the feeding, the crowd comes to [[place:capernaum]] looking for [[person:jesus]]. He tells them to work for the food that remains to eternal life and to believe in him whom God has sent. They ask what sign he does, that they may see and believe: "Our fathers ate the manna in the wilderness. As it is written, 'He gave them bread out of heaven to eat.'" [[bible:John 6:22-31]] Here it is the crowd that quotes Scripture, in asking for a sign.

@@ -22,6 +22,7 @@ citations:
     source: septuagint
     at: "Isaiah 40:3"
     url: https://ebible.org/eng-Brenton/ISA40.htm
+reviewed: 2026-11-18
 ---
 
 The verse is the second of two quotations at the opening of Mark, under an introduction that the translations give differently: "in the prophets" in the World English Bible, with Isaiah named in the New Revised Standard Version Updated Edition, to which the links here lead [[bible:Mark 1:2-3]]. The first quotation, about a messenger, has its own entry: [[quotation:mal-3-1-in-mark-1-2]]. Mark goes on to tell that [[person:john-the-baptist|John]] appeared in the wilderness, preaching a baptism of repentance [[bible:Mark 1:4]].

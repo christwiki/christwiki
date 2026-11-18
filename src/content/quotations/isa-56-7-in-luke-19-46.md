@@ -16,6 +16,7 @@ later:
     saying to them,
     "It is written, 'My house is a house of prayer,'
     but you have made it a 'den of robbers'!"
+reviewed: 2026-11-18
 ---
 
 Luke tells that [[person:jesus]] entered the temple and began to drive out the sellers, saying to them, "It is written", with the words about the house of prayer and the charge about the den of robbers [[bible:Luke 19:45-46]]. He was teaching daily in the temple, Luke continues, and the chief priests, the scribes and the leading men of the people sought to destroy him [[bible:Luke 19:47]].

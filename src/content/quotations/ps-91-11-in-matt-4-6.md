@@ -16,6 +16,7 @@ later:
     and said to him, "If you are the Son of God, throw yourself down, for it is written, 'He will put his angels in charge of you.' and,
     'On their hands they will bear you up,
     so that you don't dash your foot against a stone.'"
+reviewed: 2026-11-18
 ---
 
 In Matthew's account of the testing in the wilderness, the devil takes [[person:jesus]] to the holy city, sets him on the pinnacle of the temple and says: "If you are the Son of God, throw yourself down, for it is written", and quotes words from two verses of a psalm [[bible:Matt 4:1, 5-6; Ps 91:11-12]]. Here it is the tempter who quotes Scripture. Jesus answers, "Again, it is written", with the command not to test the Lord [[bible:Matt 4:7; Deut 6:16]].

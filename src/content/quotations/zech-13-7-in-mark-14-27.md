@@ -15,6 +15,7 @@ later:
   text: |
     Jesus said to them,
     "All of you will be made to stumble … for it is written, 'I will strike the shepherd, and the sheep will be scattered.'
+reviewed: 2026-11-18
 ---
 
 Mark tells that after the hymn [[person:jesus]] and the disciples went out to the [[place:mount-of-olives]], and that he told them that all of them would fall away, "for it is written", with the words about the shepherd. After he is raised, he says, he will go before them into Galilee. [[person:peter]] answers that he will not fall away, and Jesus tells him that he will deny him three times that night [[bible:Mark 14:26-31]]. When Jesus is seized, Mark says, they all left him and fled [[bible:Mark 14:50]].

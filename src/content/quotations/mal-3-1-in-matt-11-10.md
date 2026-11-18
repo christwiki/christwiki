@@ -17,6 +17,7 @@ citations:
     source: septuagint
     at: "Exodus 23:20"
     url: https://ebible.org/eng-Brenton/EXO23.htm
+reviewed: 2026-11-18
 ---
 
 In Matthew, when the disciples whom [[person:john-the-baptist|John]] sent from prison have gone, [[person:jesus]] speaks to the crowds about John. He calls him a prophet and more than a prophet, "for this is he, of whom it is written", and the quotation follows [[bible:Matt 11:2, 7-10]]. Jesus goes on to say that John, if they are willing to receive it, is Elijah who is to come [[bible:Matt 11:14]].

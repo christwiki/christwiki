@@ -18,6 +18,7 @@ later:
   text: |
     For I tell you that this which is written must still be fulfilled in me: 'He was counted with transgressors.'
     …
+reviewed: 2026-11-18
 ---
 
 In Luke, after the supper, [[person:jesus]] reminds the disciples that when he sent them out without purse or bag they lacked nothing, and tells them that now whoever has none should sell his cloak and buy a sword. "For I tell you that this which is written must still be fulfilled in me", he says, and quotes the line about being counted with transgressors [[bible:Luke 22:14, 20, 35-37]]. The sentence that follows the quotation is left out of the words given above, because the translations render it differently: in the World English Bible, "that which concerns me has an end"; in the New Revised Standard Version Updated Edition, what is written about him "is being fulfilled" [[bible:Luke 22:37]]. The disciples answer that they have two swords [[bible:Luke 22:38]].

@@ -16,6 +16,7 @@ later:
     He taught, saying to them,
     "Isn't it written, 'My house will be called a house of prayer for all the nations?'
     But you have made it a den of robbers!"
+reviewed: 2026-11-18
 ---
 
 Mark tells how [[person:jesus]] enters the temple, begins to drive out those who sell and those who buy, overturns the tables of the money changers and the seats of the dove sellers, and stops people carrying things through the temple. He teaches, "Isn't it written", with the words about the house of prayer, and adds the charge about the den of robbers. The chief priests and the scribes hear it and look for a way to destroy him [[bible:Mark 11:15-18]].

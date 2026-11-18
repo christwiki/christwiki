@@ -34,6 +34,7 @@ citations:
     source: septuagint
     at: "Isaiah 40:3–5"
     url: https://ebible.org/eng-Brenton/ISA40.htm
+reviewed: 2026-11-18
 ---
 
 Luke dates the coming of the word of God to [[person:john-the-baptist|John]] in the wilderness, tells that he went through the region around the Jordan preaching a baptism of repentance, and adds: "As it is written in the book of the words of Isaiah the prophet" [[bible:Luke 3:1-4]]. His quotation is three verses long. Matthew, Mark and John quote the one verse about the voice [[bible:Luke 3:4-6; Matt 3:3; Mark 1:3; John 1:23]].

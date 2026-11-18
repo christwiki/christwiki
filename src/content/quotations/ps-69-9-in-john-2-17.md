@@ -17,6 +17,7 @@ citations:
     source: septuagint
     at: "Psalm 68:10 (69:9 in English Bibles)"
     url: https://ebible.org/eng-Brenton/PSA068.htm
+reviewed: 2026-11-18
 ---
 
 John tells that at a Passover [[person:jesus]] went up to [[place:jerusalem]], found traders and money changers in the temple, made a whip of cords, drove out the sheep and the oxen, poured out the changers' money and told the dove sellers not to make his Father's house a marketplace. "His disciples remembered that it was written", John says, and quotes the line about zeal [[bible:John 2:13-17]]. Of the saying about the temple that follows, he says that the disciples remembered it when Jesus was raised from the dead, and believed the Scripture [[bible:John 2:19-22]].

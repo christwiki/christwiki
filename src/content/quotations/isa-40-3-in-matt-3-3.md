@@ -26,6 +26,7 @@ citations:
     source: community-rule
     at: "the passage on the time for clearing the way, translated by E. Qimron"
     url: https://www.loc.gov/exhibits/scrolls/trans3.html
+reviewed: 2026-11-18
 ---
 
 Matthew introduces [[person:john-the-baptist]] preaching in the wilderness of Judea and says: "this is he who was spoken of by Isaiah the prophet" [[bible:Matt 3:1-3]]. He does not say here that anything was fulfilled [[bible:Matt 3:3]]. Mark and Luke apply the same verse to John the Baptist, and in John he says it of himself [[bible:Mark 1:2-4; Luke 3:2-6; John 1:19-23]]. Each of those has its own entry: [[quotation:isa-40-3-in-mark-1-2|Mark]], [[quotation:isa-40-3-in-luke-3-4|Luke]], [[quotation:isa-40-3-in-john-1-23|John]].

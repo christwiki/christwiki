@@ -14,6 +14,7 @@ later:
     …
     Behold, I send my messenger before your face,
     who will prepare your way …
+reviewed: 2026-11-18
 ---
 
 Mark begins, "The beginning of the Good News of Jesus Christ", and goes straight to a quotation. Two passages follow one another under one introduction: the messenger sent ahead, and the voice in the wilderness. After them Mark tells of [[person:john-the-baptist|John]] in the wilderness, preaching a baptism of repentance [[bible:Mark 1:1-4]]. The second passage has its own entry: [[quotation:isa-40-3-in-mark-1-2]].

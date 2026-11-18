@@ -14,6 +14,7 @@ later:
     "Isn't it written in your law, 'I said, you are gods?'
     If he called them gods, to whom the word of God came (and the Scripture can't be broken),
     do you say of him whom the Father sanctified and sent into the world, 'You blaspheme,' because I said, 'I am the Son of God?'
+reviewed: 2026-11-18
 ---
 
 In John, at the feast of the Dedication in [[place:jerusalem]], [[person:jesus]] says, "I and the Father are one", and the Jews take up stones to stone him: for blasphemy, they say, because he, being a man, makes himself God. He answers with a question: "Isn't it written in your law, 'I said, you are gods?'" If those to whom the word of God came were called gods, and the Scripture cannot be broken, how can they say that he whom the Father sanctified and sent into the world blasphemes when he says, "I am the Son of God"? [[bible:John 10:22-23, 30-36]]

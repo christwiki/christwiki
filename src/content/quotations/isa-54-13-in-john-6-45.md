@@ -19,6 +19,7 @@ citations:
     source: septuagint
     at: "Isaiah 54:13"
     url: https://ebible.org/eng-Brenton/ISA54.htm
+reviewed: 2026-11-18
 ---
 
 In John, the Jews murmur because [[person:jesus]] has said that he is the bread that came down out of heaven, though they know his father and mother. He answers that no one can come to him unless the Father who sent him draws him. "It is written in the prophets, 'They will all be taught by God.'" So, he says, everyone who has heard and learned from the Father comes to him [[bible:John 6:41-45]].

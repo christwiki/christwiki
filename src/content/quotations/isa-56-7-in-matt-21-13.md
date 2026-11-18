@@ -16,6 +16,7 @@ later:
     He said to them,
     "It is written, 'My house shall be called a house of prayer,'
     but you have made it a den of robbers!"
+reviewed: 2026-11-18
 ---
 
 Matthew tells how [[person:jesus]] enters the temple, drives out those who sell and buy there, overturns the tables of the money changers and says to them, "It is written", with the words about the house of prayer. The den of robbers follows as his own charge against them: "you have made it" one in the World English Bible, with a present tense in the New Revised Standard Version Updated Edition, to which the links here lead [[bible:Matt 21:12-13]].

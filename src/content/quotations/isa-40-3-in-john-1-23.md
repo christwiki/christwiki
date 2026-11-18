@@ -14,6 +14,7 @@ later:
   event: ministry-of-john-the-baptist
   text: |
     He said, "I am the voice of one crying in the wilderness, 'Make straight the way of the Lord,' as Isaiah the prophet said."
+reviewed: 2026-11-18
 ---
 
 In John, priests and Levites are sent from [[place:jerusalem]] to ask [[person:john-the-baptist|John]] who he is. He declares that he is not the Christ, and says no when they ask whether he is Elijah or the prophet. Asked for an answer to take back, he says: "I am the voice of one crying in the wilderness, 'Make straight the way of the Lord,' as Isaiah the prophet said" [[bible:John 1:19-23]]. In the other three Gospels it is the evangelist who applies the verse to John [[bible:Matt 3:3; Mark 1:2-4; Luke 3:2-4]].

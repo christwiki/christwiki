@@ -20,6 +20,7 @@ citations:
     source: septuagint
     at: "Zechariah 13:7"
     url: https://ebible.org/eng-Brenton/ZEC13.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells that after the supper [[person:jesus]] and the disciples sang a hymn and went out to the [[place:mount-of-olives]], and that he said to them that all of them would fall away because of him that night, "for it is written", with the words about the shepherd. He adds that after he is raised he will go before them into Galilee [[bible:Matt 26:26, 30-32]]. When Jesus is arrested, Matthew says, all the disciples left him and fled [[bible:Matt 26:56]].

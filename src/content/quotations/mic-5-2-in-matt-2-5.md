@@ -23,6 +23,7 @@ citations:
     source: septuagint
     at: "Micah 5:1 (5:2 in English Bibles)"
     url: https://ebible.org/eng-Brenton/MIC05.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how [[person:herod-the-great|Herod]], troubled by the question of the wise men, gathers the chief priests and scribes and asks where the Christ is to be born. They answer, "In [[place:bethlehem]] of Judea", and give the words of the prophet as their reason [[bible:Matt 2:1-6]]. The quotation is spoken by them, not by the narrator, and nothing is said here to be fulfilled [[bible:Matt 2:5-6]].

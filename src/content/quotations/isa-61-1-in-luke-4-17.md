@@ -33,6 +33,7 @@ citations:
     source: septuagint
     at: "Isaiah 61:1–2"
     url: https://ebible.org/eng-Brenton/ISA61.htm
+reviewed: 2026-11-18
 ---
 
 Luke tells how [[person:jesus]] comes to [[place:nazareth]], where he had been brought up, goes into the synagogue on the Sabbath and stands up to read. The book of the prophet Isaiah is given to him and he finds the place. When he has read he gives the book back, sits down and says: "Today, this Scripture has been fulfilled in your hearing" [[bible:Luke 4:16-21]]. Here the words about fulfilment are spoken by Jesus, of what he has just read. Luke goes on to tell that those in the synagogue wondered at his words, and in the end were filled with anger and drove him out of the town [[bible:Luke 4:22, 28-30]].
