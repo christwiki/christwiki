@@ -44,6 +44,7 @@ citations:
     source: septuagint
     at: "Joel 3:1–5 (2:28–32 in English Bibles)"
     url: https://ebible.org/eng-Brenton/JOL03.htm
+reviewed: 2026-11-18
 ---
 
 Acts tells that on the day of Pentecost those who were together in one place were all filled with the Holy Spirit and began to speak in other languages, and that some who heard them said they were full of new wine. [[person:peter]], standing with the eleven, answers that these people are not drunk: "this is what has been spoken through the prophet Joel", and five verses follow [[bible:Acts 2:1-4, 13-21]]. He does not say that it is fulfilled. Later in the speech he says that [[person:jesus]], raised and exalted, has poured out what they see and hear [[bible:Acts 2:32-33]].

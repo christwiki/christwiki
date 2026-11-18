@@ -19,6 +19,7 @@ citations:
     source: septuagint
     at: "Isaiah 55:3"
     url: https://ebible.org/eng-Brenton/ISA55.htm
+reviewed: 2026-11-18
 ---
 
 In his speech at Antioch of Pisidia [[person:paul]] says that God raised [[person:jesus]] from the dead, no more to return to corruption, and that he has spoken thus, and one sentence follows [[bible:Acts 13:14-16, 33-34]].

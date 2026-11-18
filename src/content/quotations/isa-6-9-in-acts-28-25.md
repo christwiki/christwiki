@@ -28,6 +28,7 @@ citations:
     source: septuagint
     at: "Isaiah 6:9–10"
     url: https://ebible.org/eng-Brenton/ISA06.htm
+reviewed: 2026-11-18
 ---
 
 Acts ends in [[place:rome]]. [[person:paul]], living there with a soldier who guards him, calls together the leaders of the Jews, and on an appointed day speaks to those who come to his lodging, from morning until evening, about the kingdom of God and about [[person:jesus]], from the law of Moses and from the prophets. Some are persuaded and some do not believe. As they leave, disagreeing among themselves, Paul says one thing more: the Holy Spirit spoke rightly through Isaiah the prophet, and the passage about hearing without understanding follows. He adds that the salvation of God is sent to the Gentiles, and that they will listen [[bible:Acts 28:16-17, 23-28, 30-31]].

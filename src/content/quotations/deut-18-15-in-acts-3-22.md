@@ -14,6 +14,7 @@ later:
   text: |
     … 'The Lord God will raise up a prophet for you from among your brothers, like me. You shall listen to him in all things whatever he says to you.
     It will be that every soul that will not listen to that prophet will be utterly destroyed from among the people.'
+reviewed: 2026-11-18
 ---
 
 Acts tells that after a man lame from birth was healed at the gate of the temple, the people ran together to [[person:peter]] and [[person:john-the-apostle|John]] in the porch called Solomon's, and Peter spoke to them [[bible:Acts 3:1-12]]. He says that God has fulfilled what he announced through all the prophets, that the Christ should suffer, and calls on them to repent. Moses said, he goes on, that God would raise up a prophet like him from among their brothers, and the quotation follows [[bible:Acts 3:17-23]]. The translations differ on the words that introduce it, which are left out above: the World English Bible has Moses say it "to the fathers", and the New Revised Standard Version Updated Edition, to which the links here lead, does not. The quotation itself opens "The Lord God" in the first and with the Lord "your God" in the second [[bible:Acts 3:22]].

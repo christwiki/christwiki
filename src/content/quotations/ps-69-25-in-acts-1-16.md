@@ -22,6 +22,7 @@ citations:
     source: septuagint
     at: "Psalm 68:26 (69:25 in English Bibles)"
     url: https://ebible.org/eng-Brenton/PSA068.htm
+reviewed: 2026-11-18
 ---
 
 Acts tells that after [[person:jesus]] had been taken up, [[person:peter]] stood up among the disciples, about a hundred and twenty of them, and said that the Scripture had to be fulfilled which the Holy Spirit spoke through [[person:david]] about [[person:judas-iscariot|Judas]], who guided those who seized Jesus. After words about the field that Judas got with his reward, the speech goes on, "For it is written in the book of Psalms", and two quotations follow, joined by "and" [[bible:Acts 1:9, 15-20]].

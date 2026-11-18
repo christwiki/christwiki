@@ -19,6 +19,7 @@ citations:
     source: septuagint
     at: "Habakkuk 1:5"
     url: https://ebible.org/eng-Brenton/HAB01.htm
+reviewed: 2026-11-18
 ---
 
 [[person:paul]] ends his speech in the synagogue at Antioch of Pisidia with a warning: let his hearers beware that what is said in the prophets does not come upon them. The quotation follows, about a work done in their days that they will not believe [[bible:Acts 13:14-16, 38-41]]. He names no prophet. The words are in the book of Habakkuk [[bible:Hab 1:5]].

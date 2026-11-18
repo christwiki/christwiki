@@ -25,6 +25,7 @@ citations:
     source: septuagint
     at: "Amos 9:11–12"
     url: https://ebible.org/eng-Brenton/AMO09.htm
+reviewed: 2026-11-18
 ---
 
 Acts tells that when the apostles and elders met in [[place:jerusalem]] over the Gentile believers, [[person:peter]] spoke, [[person:barnabas]] and [[person:paul]] reported what God had done among the nations through them, and [[person:james-the-just|James]] answered. Simeon, he says, has told how God first visited the nations to take from them a people for his name. "This agrees with the words of the prophets. As it is written", and the quotation follows. His judgment is that those of the Gentiles who turn to God are not to be troubled [[bible:Acts 15:1-19]].

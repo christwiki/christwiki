@@ -14,6 +14,7 @@ later:
     For David didn't ascend into the heavens, but he says himself,
     'The Lord said to my Lord, "Sit by my right hand,
     until I make your enemies a footstool for your feet."'
+reviewed: 2026-11-18
 ---
 
 At Pentecost [[person:peter]] says that God raised [[person:jesus]], that he has been exalted at the right hand of God, or by it, as the World English Bible has, and that he has poured out what the crowd sees and hears. "For David didn't ascend into the heavens, but he says himself", and the opening of the psalm follows. Let the whole house of Israel know, Peter ends, that God has made this Jesus, whom they crucified, both Lord and Christ [[bible:Acts 2:1, 14, 32-36]].

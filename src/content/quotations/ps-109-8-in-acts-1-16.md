@@ -22,6 +22,7 @@ citations:
     source: septuagint
     at: "Psalm 108:8 (109:8 in English Bibles)"
     url: https://ebible.org/eng-Brenton/PSA108.htm
+reviewed: 2026-11-18
 ---
 
 This is the second of two quotations that [[person:peter]] gives from the Psalms after saying that the Scripture about [[person:judas-iscariot|Judas]] had to be fulfilled [[bible:Acts 1:15-16, 20]]. From it he draws what is to be done: one of the men who went about with them, from the baptism of John to the day [[person:jesus]] was taken up, must become a witness with them of his resurrection. Two are put forward, lots are cast, and Matthias is counted with the eleven apostles [[bible:Acts 1:21-26]].

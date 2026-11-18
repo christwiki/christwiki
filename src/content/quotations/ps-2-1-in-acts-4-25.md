@@ -19,6 +19,7 @@ later:
     The kings of the earth take a stand,
     and the rulers take council together,
     against the Lord, and against his Christ.'
+reviewed: 2026-11-18
 ---
 
 Acts tells that [[person:peter]] and [[person:john-the-apostle|John]], released by the council with threats, went to their own people and reported what had been said to them, and that all raised their voice to God together. Their prayer quotes the opening of a psalm as words that God spoke through [[person:david]], and applies it: in this city [[person:herod-antipas|Herod]] and [[person:pontius-pilate]], with the Gentiles and the people of Israel, were gathered against God's holy servant [[person:jesus]], whom he anointed [[bible:Acts 4:13-28]]. The prayer names Herod and Pontius Pilate, the Gentiles and the people of Israel, where the psalm names kings, rulers, nations and peoples [[bible:Acts 4:25-27; Ps 2:1-2]].

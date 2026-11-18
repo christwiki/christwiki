@@ -17,6 +17,7 @@ later:
     For so has the Lord commanded us, saying,
     'I have set you as a light for the Gentiles,
     that you should bring salvation to the uttermost parts of the earth.'
+reviewed: 2026-11-18
 ---
 
 Acts tells that on the next Sabbath almost the whole city gathered to hear the word, that the Jews contradicted what was said by [[person:paul]], and that Paul and [[person:barnabas]] answered boldly. The word of God had to be spoken to them first; since they thrust it away, "behold, we turn to the Gentiles. For so has the Lord commanded us", and the quotation follows. The Gentiles were glad when they heard it [[bible:Acts 13:44-48]]. Here the words are applied to the two speakers, as a command to them [[bible:Acts 13:47]].

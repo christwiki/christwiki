@@ -16,6 +16,7 @@ citations:
     source: septuagint
     at: "Genesis 22:18"
     url: https://ebible.org/eng-Brenton/GEN22.htm
+reviewed: 2026-11-18
 ---
 
 At the end of his speech in Solomon's porch [[person:peter]] tells his hearers that they are the children of the prophets and of the covenant that God made with their fathers, "saying to Abraham", and the promise follows. God raised up his servant, he says, and sent him to them first, to bless them [[bible:Acts 3:11-12, 25-26]]. The fathers are "our fathers" in the World English Bible and "your" ancestors in the New Revised Standard Version Updated Edition, to which the links here lead; those words are left out above [[bible:Acts 3:25]].

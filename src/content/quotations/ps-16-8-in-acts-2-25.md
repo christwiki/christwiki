@@ -22,6 +22,7 @@ citations:
     source: septuagint
     at: "Psalm 15:8–11 (16:8–11 in English Bibles)"
     url: https://ebible.org/eng-Brenton/PSA015.htm
+reviewed: 2026-11-18
 ---
 
 In the speech at Pentecost [[person:peter]] says that God raised [[person:jesus]] of Nazareth, whom they had crucified, because it was not possible that death should hold him. "For David says concerning him", and four verses of a psalm follow [[bible:Acts 2:1, 14, 22-28]]. Peter then argues from the tomb. [[person:david]] died and was buried, and his tomb is with them to this day; being a prophet, he spoke of the resurrection of the Christ, who, he says, was not left in Hades [[bible:Acts 2:29-31]].

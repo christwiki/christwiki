@@ -28,6 +28,7 @@ citations:
     source: septuagint
     at: "Isaiah 53:7–8"
     url: https://ebible.org/eng-Brenton/ISA53.htm
+reviewed: 2026-11-18
 ---
 
 Acts tells how [[person:philip-the-evangelist|Philip]] is sent to the road that goes down from [[place:jerusalem]] to [[place:gaza]], and meets a man of Ethiopia, a eunuch and an official of the queen, sitting in his chariot and reading the prophet Isaiah. Philip asks whether he understands what he is reading. Acts gives the passage, two verses. The official asks whether the prophet says this about himself or about someone else, and Philip, beginning from this Scripture, tells him about [[person:jesus]] [[bible:Acts 8:26-35]]. Of Philip's answer Acts reports only that [[bible:Acts 8:35]].
