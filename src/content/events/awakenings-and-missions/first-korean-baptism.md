@@ -67,6 +67,10 @@ citations:
     source: cbck-history-of-the-catholic-church-in-korea
     at: "'Development of the Early Catholic Church in Korea', sections 1–2"
     url: https://cbck.or.kr/en/CatholicChurchInKorea/History/1176
+  cbck-yi-byeok:
+    source: cbck-133-servants-of-god-short-lives
+    at: "no. 1, Yi Byeok John the Baptist"
+    url: https://cbck.or.kr/koreanmartyrs/133-Martyrs/1
   yun-ji-chung:
     source: cbck-124-korean-martyr-blesseds
     at: "no. 1, Paul Yun Ji-chung"
@@ -80,6 +84,8 @@ citations:
     at: "3"
 dating: |
   The year is fixed by a letter written at Beijing on 25 November 1784: the Korean embassy visited the church at the end of the previous year, and the envoy's son was baptized before it left for home [[cite:ventavon]]. Dallet has Yi Seung-hun back in Seoul in the spring of 1784 [[cite:dallet-return]] and places his baptism of Yi Byeok about the ninth lunar month of that year [[cite:dallet-baptisms]]. The Korean bishops' conference gives September 1784 for the baptism of Yi Byeok in one account [[cite:cbck-development]] and October 1784 for the founding of the community in another [[cite:cbck-dawn]].
+
+  Two other years in the entry rest on Dallet alone. He puts the scholars' study meeting in 1777 [[cite:dallet-1777]] and the death of Yi Byeok in the spring of 1786 [[cite:dallet-1785]]. The short life of Yi Byeok that the Korean bishops published in 2018 for the cause of his beatification says that he discussed Catholic doctrine with his teacher and fellow scholars in the winter of 1779, without naming a place or mentioning 1777, and gives 1785 as the year of his death [[cite:cbck-yi-byeok]].
 ---
 
 Christian books written in Chinese by European missionaries were brought home to Korea by the embassies that went each year to [[place:beijing]] [[cite:dallet-1777]]. Charles Dallet's history of 1874, which for this period follows the memoirs of Bishop Daveluy, themselves for the most part a literal translation of Korean documents [[cite:dallet-sources]], tells how in 1777 a group of scholars, [[person:yi-byeok]] among them, withdrew to a mountain temple to study, examined these books, and began to pray morning and evening and to set apart every seventh day [[cite:dallet-1777]].
@@ -88,6 +94,6 @@ In the winter of 1783 Yi Byeok's friend [[person:yi-seung-hun]] was to accompany
 
 Yi Seung-hun came back to [[place:seoul]] in the spring of 1784 with books, crosses and images, and Yi Byeok studied them and began to teach others [[cite:dallet-return]]. Yi Seung-hun then baptized Yi Byeok, who took the name John the Baptist, and Kwon Il-sin, who took the name Francis Xavier [[cite:dallet-baptisms]]. The Catholic bishops of Korea date the beginning of their church from this baptism and say that it was established by Koreans themselves and not by European missionaries [[cite:cbck-development]] [[cite:cbck-dawn]].
 
-Early in 1785 a convert was arrested, tortured and exiled, and Dallet records that under pressure from their families Yi Seung-hun burned his books and Yi Byeok gave way; Yi Byeok died in 1786 [[cite:dallet-1785]]. About 1787, having no priests, the leaders chose a bishop and priests from among themselves, Yi Seung-hun among them, who preached, baptized, heard confessions and celebrated mass [[cite:dallet-hierarchy]]. In 1789 their reading made them doubt that this was valid; they stopped, and Yi Seung-hun and Kwon Il-sin wrote to the bishop of Beijing in a letter that Paul Yun Yu-il carried, disguised as a merchant [[cite:dallet-letter]]. The bishop judged what they had done to be illegitimate but done in good faith, and promised a priest [[cite:cbck-development]]. The Chinese priest James Zhou Wen-mo entered Korea in December 1794 [[cite:zhou]].
+Early in 1785 a convert was arrested, tortured and exiled, and Dallet records that under pressure from their families Yi Seung-hun burned his books and Yi Byeok gave way, and that Yi Byeok died in the spring of 1786 [[cite:dallet-1785]]. The Korean bishops' short life of Yi Byeok says that his father could not make him give up his faith and that he died in 1785 [[cite:cbck-yi-byeok]]. About 1787, having no priests, the leaders chose a bishop and priests from among themselves, Yi Seung-hun among them, who preached, baptized, heard confessions and celebrated mass [[cite:dallet-hierarchy]]. In 1789 their reading made them doubt that this was valid; they stopped, and Yi Seung-hun and Kwon Il-sin wrote to the bishop of Beijing in a letter that Paul Yun Yu-il carried, disguised as a merchant [[cite:dallet-letter]]. The bishop judged what they had done to be illegitimate but done in good faith, and promised a priest [[cite:cbck-development]]. The Chinese priest James Zhou Wen-mo entered Korea in December 1794 [[cite:zhou]].
 
 In 1790 the bishop of Beijing forbade Catholics to perform the ancestral rites, and Paul Yun Ji-chung, whom Yi Seung-hun had baptized in 1787, burned his family's ancestral tablet and was beheaded at Jeonju on 8 December 1791 [[cite:yun-ji-chung]]. Yi Seung-hun was beheaded with five others outside the West Gate of the capital on 8 April 1801; Dallet judges that he died without retracting his denials of the faith [[cite:dallet-1801]]. At the canonization of Korean martyrs in Seoul in 1984 John Paul II called this first community unique in the history of the Church because it was founded entirely by laypeople [[cite:jp2]].

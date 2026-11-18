@@ -4,7 +4,7 @@ author: The Church of England
 cite: "Church of England, Calendar"
 kind: liturgy
 language: English
-url: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar
+url: https://www.churchofengland.org/liturgy/common-worship/calendar-and-date-easter-and-other-variable-dates
 edition: "The calendar of holy days in Common Worship, as published on the Church of England's website. Cited by the day of the month."
 summary: The Church of England's authorised calendar of festivals and commemorations. It is cited to show whom that church commemorates and on what day.
 ---
