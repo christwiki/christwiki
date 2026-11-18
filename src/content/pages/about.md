@@ -48,7 +48,7 @@ A quotation is recorded only where the words quoted, or most of them, can be fou
 
 The words of both passages are given as the World English Bible has them. Where that translation and the one the links open differ in substance, the words are left out, in whole or for the line concerned, and the entry says which reads what.
 
-So far the page holds the quotations that Matthew and John give where they say that Scripture is fulfilled, including one that John attaches to such a saying without repeating the word. Their other quotations, and those in the rest of the New Testament, are still to be added.
+So far the page holds the quotations that Matthew and John give where they say that Scripture is fulfilled, including two that John attaches to such a saying without repeating the word [[bible:John 12:39-40]] [[bible:John 19:37]]. Their other quotations, and those in the rest of the New Testament, are still to be added.
 
 ## [bible] Bible references
 

@@ -1,6 +1,6 @@
 ---
 title: "Behold, the virgin shall be with child"
-summary: "Matthew says that the conception of Jesus fulfils what was spoken through the prophet: the sign Isaiah announces to King Ahaz, a child named Immanuel. His quotation has the word of the Greek translation, \"virgin\". How to render it has been disputed since the second century."
+summary: "Matthew says that the conception of Jesus fulfils words spoken through the prophet. They are the sign Isaiah announces to King Ahaz. Matthew has \"virgin\", as the Greek translation does; whether that renders Isaiah rightly has been disputed since the second century."
 kind: stated
 earlier:
   bible: "Isa 7:14"

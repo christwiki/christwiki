@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "astro": "^7.3.5",
-    "chronowiki": "github:christwiki/chronowiki#99ba54b664fed6e35943ededb655cbeadd4c8bf5"
+    "chronowiki": "github:christwiki/chronowiki#d5947e463090b8c7fdab24516b79a98067883cc4"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.10",

@@ -1,5 +1,5 @@
 ---
-source: "7bbd3a4e3cf0"
+source: "ae4c47dbe6d8"
 translated: 2026-10-04
 title: "Methode und Quellen"
 summary: "Christwiki erzählt die Geschichte des Christentums als einen einzigen Zeitstrahl, vom Anfang der Genesis bis in die Gegenwart. Es will eines gut machen: zeigen, wann und wo etwas geschah, wie es mit dem Übrigen zusammenhängt und worauf sich das Wissen darüber stützt."
@@ -45,7 +45,7 @@ Ein Zitat wird nur verzeichnet, wo sich die zitierten Worte oder die meisten von
 
 Die Worte beider Stellen stehen in den englischen Einträgen so, wie die World English Bible sie hat. Wo diese Übersetzung und die, zu der die Verweise führen, in der Sache voneinander abweichen, fehlen die Worte ganz oder in der betreffenden Zeile, und der Eintrag sagt, welche was liest.
 
-Bisher enthält die Seite die Zitate, die Matthäus und Johannes dort anführen, wo sie sagen, die Schrift sei erfüllt, darunter eines, das Johannes an eine solche Aussage anschließt, ohne das Wort zu wiederholen. Ihre übrigen Zitate und die im übrigen Neuen Testament kommen noch hinzu.
+Bisher enthält die Seite die Zitate, die Matthäus und Johannes dort anführen, wo sie sagen, die Schrift sei erfüllt, darunter zwei, die Johannes an eine solche Aussage anschließt, ohne das Wort zu wiederholen [[bible:John 12:39-40]] [[bible:John 19:37]]. Ihre übrigen Zitate und die im übrigen Neuen Testament kommen noch hinzu.
 
 ## [bible] Bibelstellen
 
