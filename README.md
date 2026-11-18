@@ -6,6 +6,7 @@ A timeline-first wiki of the core moments of Christianity, from the opening of G
 
 - **Timeline** grouped by era, with a linked map that follows what you read.
 - **Events, people, places, sources and threads**, all cross-linked.
+- **Quotations**: where the New Testament quotes the Old and says that it is fulfilled, the two passages side by side, with how the earlier words read in their own setting.
 - **Every claim cited** to a primary source at passage level, one click from the text.
 - **Every date labelled** firm, estimated, traditional or undated, with a note on how it is known.
 - A static site: no server, no database, no trackers, no outside requests.
@@ -24,6 +25,7 @@ astro.config.mjs          the site's address, and the line that adds the theme
 src/content/
   eras/<id>.md            events/<era>/<id>.md    people/<id>.md
   places/<id>.md          sources/<id>.md         threads/<id>.md
+  quotations/<id>.md      where the New Testament quotes the Old
   pages/about.md          i18n/<language>/<collection>/<id>.md
 src/messages/             Christwiki's own wording, laid over the theme's
 scripts/seed/outline.yaml the outline of events

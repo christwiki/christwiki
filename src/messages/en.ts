@@ -1,7 +1,7 @@
 /**
  * Christwiki's own wording in English, laid over the theme's: what the wiki is
- * about, and the examples that explain its date labels. Everything else comes
- * from the theme.
+ * about, the examples that explain its date labels, and what its page of
+ * quotations records. Everything else comes from the theme.
  */
 import type { MessageOverrides } from 'chronowiki/config';
 
@@ -58,5 +58,32 @@ export const en: MessageOverrides = {
   },
   map: {
     description: 'Where the events of the timeline happened. Step through the eras and watch the story move from the Near East across the world.',
+  },
+  quotations: {
+    title: 'How the New Testament reads the Old',
+    description:
+      'Where the New Testament quotes the Scriptures of Israel and says that they are fulfilled: the two passages side by side, and how the earlier words read in their own setting.',
+    lead: {
+      one: '{count} place where a Gospel quotes the Scriptures of Israel and says that they are fulfilled. The entry sets the two passages side by side and says how the earlier words read in their own setting.',
+      other:
+        '{count} quotations of the Scriptures of Israel in Matthew and John, given where the Gospel says that Scripture is fulfilled. Each line joins two passages; each entry sets them side by side and says how the earlier words read in their own setting. The rest of the New Testament is still to be added.',
+    },
+    earlier: 'Old Testament',
+    later: 'New Testament',
+    method: 'What is recorded here, and what is not',
+  },
+  quotationKind: {
+    stated: {
+      label: 'Stated fulfilment',
+      description: 'The New Testament text itself says that this happened to fulfil the Scripture, and quotes it.',
+    },
+    applied: {
+      label: 'Applied quotation',
+      description: 'The New Testament text quotes the words and applies them, without saying that they are fulfilled.',
+    },
+    later: {
+      label: 'Later reading',
+      description: 'The New Testament does not make the link. A later Christian writer quotes the words and reads them in this sense.',
+    },
   },
 };
