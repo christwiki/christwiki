@@ -22,6 +22,10 @@ citations:
     source: first-clement
     at: "1"
     url: https://www.newadvent.org/fathers/1010.htm#chapter1
+  opening-lightfoot:
+    source: first-clement
+    at: "1.1 (Lightfoot's translation)"
+    url: https://www.earlychristianwritings.com/text/1clement-lightfoot.html
   examples:
     source: first-clement
     at: "5–6"
@@ -85,7 +89,7 @@ dating: |
   The usual date of about 96 rests on reading the "sudden and successive calamitous events" of the opening [[cite:opening]] as a persecution under Domitian, who died in that year. The letter does not say what the events were. L. L. Welborn, "On the Date of First Clement", *Biblical Research* 29 (1984), concludes only that it falls between 80 and 140. Thomas J. Herron, *Clement and the Early Church of Rome: On the Dating of Clement's First Epistle to the Corinthians* (2008), argues for a date before 70.
 ---
 
-The letter names no writer. It is addressed from "the church of God which sojourns at Rome" to the church at [[place:corinth]], and it begins by apologising that troubles at [[place:rome]] have delayed an answer on matters the Corinthians had raised [[cite:opening]]. A few headstrong people, it says, had stirred up a revolt in the Corinthian church, and men who had served blamelessly had been put out of their ministry [[cite:opening]] [[cite:succession]].
+The letter names no writer. It is addressed from "the church of God which sojourns at Rome" to the church at [[place:corinth]], and it begins by apologising that troubles at [[place:rome]] have made the writers slow to turn to affairs at Corinth [[cite:opening]]. The translations differ on what those affairs were. The one linked here has "the points respecting which you consulted us" [[cite:opening]]; J. B. Lightfoot's has "the matters of dispute that have arisen among you" [[cite:opening-lightfoot]], with no mention of a request from Corinth. Further on, the letter says that a report of the trouble at Corinth had reached Rome [[cite:paul]]. A few headstrong people, it says, had stirred up a revolt in the Corinthian church, and men who had served blamelessly had been put out of their ministry [[cite:opening]] [[cite:succession]].
 
 Most of the long letter is a sermon against jealousy and for humility, argued from the Scriptures. Among its examples it names [[person:peter]] and [[person:paul]], who suffered and died "in our own generation", and a great number of others [[cite:examples]]. It then turns to order. As Israel had its high priest, priests and Levites, each with an appointed service, so in the church God sent Christ, Christ sent the apostles, and the apostles appointed their first converts as bishops and deacons [[cite:order]]. Foreseeing strife over this office, they also arranged that when those men died other approved men should succeed them. To depose such men is therefore a serious sin [[cite:succession]]. The letter calls the office from which men were removed the "episcopate" and the revolt a sedition against the presbyters [[cite:succession]] [[cite:paul]], and it names no single bishop at Corinth or at Rome. It recalls that Paul once wrote to Corinth about parties [[cite:paul]], tells the leaders of the revolt to submit to the presbyters [[cite:submit]], and warns that those who disobey what God has said "through us" put themselves in danger [[cite:warning]]. Three envoys carried it and were to bring back word of peace [[cite:envoys]].
 
