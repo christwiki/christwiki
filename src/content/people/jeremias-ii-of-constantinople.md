@@ -15,7 +15,7 @@ citations:
     at: "speech of Jeremias"
   synod:
     source: constantinople-synodal-charter-1590
-    at: "in Muravyov, under June 1590"
+    at: "in Muravyov, section on the coming of Metropolitan Dionysius of Tarnovo"
 ---
 
 Jeremias wrote to the tsar from Smolensk in June 1588. In the letter, as the Russian record gives it, he says that he had been imprisoned by the unbeliever, had lately been released, and had come to seek help for his church [[cite:arrival]]. In Moscow he declined the tsar's proposal that he stay as patriarch at Vladimir, and on 26 January 1589 he installed [[person:job-of-moscow]] as patriarch of [[place:moscow]] [[cite:talks]].

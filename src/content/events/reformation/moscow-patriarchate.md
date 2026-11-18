@@ -44,9 +44,15 @@ citations:
     at: "closing section"
   synod-1590:
     source: constantinople-synodal-charter-1590
-    at: "in Muravyov, under June 1590"
+    at: "in Muravyov, section on the coming of Metropolitan Dionysius of Tarnovo"
+  records-departure:
+    source: muravyov-relations-of-russia-with-the-east
+    at: "May 1589"
+  records-dionysius:
+    source: muravyov-relations-of-russia-with-the-east
+    at: "coming of Metropolitan Dionysius of Tarnovo, printed under May 1590"
 dating: |
-  The Russian court record gives the days: the council met on 19 January 1589, the election was held on Thursday 23 January, and Job was installed on Sunday 26 January [[cite:records-council]]. These are dates of the Julian calendar used in Russia; 26 January 1589 is 5 February by the Gregorian calendar. The charter is dated May of the year 7097 from the creation of the world, which is 1589 [[cite:charter]], and the confirmation of Constantinople May 7098, which is 1590 [[cite:synod-1590]]. The editor of Philotheus's letter dates it to the end of 1523 or the beginning of 1524 [[cite:philotheus]].
+  The Russian court record gives the days: the council met on 19 January 1589, the election was held on Thursday 23 January, and Job was installed on Sunday 26 January [[cite:records-council]]. These are dates of the Julian calendar used in Russia; 26 January 1589 is 5 February by the Gregorian calendar. The charter is dated May of the year 7097 from the creation of the world, which is 1589 [[cite:charter]], and the confirmation of Constantinople May 7098, which is 1590 [[cite:synod-1590]]. The record's digest prints "May 1590" for the arrival at Smolensk of Dionysius of Tarnovo, who brought that confirmation, but in the same sentence puts it two years after the patriarch's departure; it has the tsar receive him on 20 June and order his dismissal in the middle of February, and gives a letter to one of his companions under March 1592 [[cite:records-dionysius]]. Jeremias had left in May 1589 [[cite:records-departure]], so the year of the reception is 1591. Makary (Bulgakov), *History of the Russian Church* (1857–1883), [part 5, section 1, chapter 1](https://azbyka.ru/otechnik/Makarij_Bulgakov/istorija-russkoj-tserkvi/5_1), also dates the arrival to May 1591, and recounts a further council at Constantinople on 12 February 1593, with Meletius of Alexandria present, which again placed Moscow fifth; the act of 1593 was not opened for this entry. The editor of Philotheus's letter dates it to the end of 1523 or the beginning of 1524 [[cite:philotheus]].
 ---
 
 In June 1588 [[person:jeremias-ii-of-constantinople]], patriarch of [[place:constantinople]], reached the Russian frontier at Smolensk, and in July Tsar Fyodor received him in [[place:moscow]]. No patriarch of Constantinople, the tsar told his nobles, had come to Russia in the time of his forefathers [[cite:records-arrival]] [[cite:records-talks]].
@@ -57,4 +63,4 @@ In May the decisions were set down in a charter in the tsar's name. Jeremias, it
 
 The image was not new. About 1523 the monk Philotheus of Pskov, in a letter to a local official against astrology, had written that all Christian realms had come together in that of his sovereign: two Romes had fallen, a third stood, and a fourth there would not be [[cite:philotheus]]. That was one monk's letter of counsel to a layman [[cite:philotheus]]. In 1589 the phrase stood in a document sealed by the tsar and by both patriarchs [[cite:charter]].
 
-In May 1590 a council at Constantinople confirmed what Jeremias had done. Its charter, as translated in the Russian record, says that Job is to be named and honoured with the patriarchs, with his place in the prayers after the patriarch of Jerusalem and with the see of Constantinople as his head, and that his successors may be installed by the council of Moscow. Jeremias, the patriarchs of Antioch and Jerusalem and eighty-one metropolitans, archbishops and bishops signed it [[cite:synod-1590]].
+In May 1590 a council at Constantinople confirmed what Jeremias had done. Its charter, as translated in the Russian record, says that Job is to be named and honoured with the patriarchs, with his place in the prayers after the patriarch of Jerusalem and with the see of Constantinople as his head, and that his successors may be installed by the council of Moscow. The record names as its signers Jeremias, the patriarchs of Antioch and Jerusalem and eighty-one metropolitans, archbishops and bishops [[cite:synod-1590]]. Dionysius, metropolitan of Tarnovo, brought it to Russia, and the tsar received him on 20 June 1591 [[cite:records-dionysius]].
