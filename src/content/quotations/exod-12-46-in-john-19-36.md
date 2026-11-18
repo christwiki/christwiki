@@ -21,6 +21,6 @@ John tells how, after a request to [[person:pontius-pilate|Pilate]] that the bod
 
 John does not say which Scripture he means [[bible:John 19:36]]. The ordinance of the Passover, for which each household takes a lamb, says, "Do not break any of its bones", and Numbers repeats the rule [[bible:Exod 12:3, 43-46; Num 9:12]]. A psalm says of the righteous man that the Lord protects all his bones: "Not one of them is broken" [[bible:Ps 34:19-20]]. In that psalm the New Revised Standard Version Updated Edition, to which the links here lead, has the plural, "their bones", where the World English Bible has "his" [[bible:Ps 34:20]].
 
-Elsewhere in John, [[person:john-the-baptist]] calls Jesus "the Lamb of God" [[bible:John 1:29]], and Pilate brings him out for judgment on the Preparation Day of the Passover, at about the sixth hour [[bible:John 19:13-14]]. [[person:paul]] writes to the Corinthians that "Christ, our Passover, has been sacrificed" [[bible:1 Cor 5:7]].
+Elsewhere in John, [[person:john-the-baptist]] calls Jesus "the Lamb of God" [[bible:John 1:28-29]], and Pilate brings him out for judgment on the Preparation Day of the Passover, at about the sixth hour, "about noon" in the New Revised Standard Version Updated Edition [[bible:John 19:13-14]]. [[person:paul]] writes to the Corinthians that "Christ, our Passover, has been sacrificed" [[bible:1 Cor 5:7]].
 
 John joins a second Scripture to this one: [[quotation:zech-12-10-in-john-19-37]].

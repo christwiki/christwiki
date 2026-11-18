@@ -1,6 +1,6 @@
 ---
 title: "By hearing you will hear, and will in no way understand"
-summary: "In Matthew, Jesus says that the prophecy of Isaiah is fulfilled in the crowds who hear his parables without understanding. In the Hebrew text the prophet is ordered to dull the people's heart. The Greek translation, which Matthew quotes, describes the people instead."
+summary: "In Matthew, Jesus says that the prophecy of Isaiah is fulfilled in the crowds who hear his parables without understanding. In the Hebrew text the prophet is ordered to dull the people's heart. The Greek translation describes the people instead, as Matthew's quotation does."
 kind: stated
 earlier:
   bible: "Isa 6:9-10"
@@ -28,7 +28,7 @@ citations:
     url: https://ebible.org/eng-Brenton/ISA06.htm
 ---
 
-In Matthew the disciples ask [[person:jesus]] why he speaks to the crowds in parables. He answers that the crowds see without seeing and hear without hearing, and that in them the prophecy of Isaiah is fulfilled [[bible:Matt 13:10-15]]. Here the words about fulfilment are spoken by Jesus, not by the narrator [[bible:Matt 13:11, 14]]. Mark and Luke have the saying in a shorter form, without the name of Isaiah and without the word "fulfilled" [[bible:Mark 4:11-12; Luke 8:10]].
+In Matthew the disciples ask [[person:jesus]] why he speaks to the crowds in parables. He answers that the crowds see without seeing and hear without hearing, and that in them the prophecy of Isaiah is fulfilled [[bible:Matt 13:2, 10-15]]. Here the words about fulfilment are spoken by Jesus, not by the narrator [[bible:Matt 13:11, 14]]. Mark and Luke have the saying in a shorter form, without the name of Isaiah and without the word "fulfilled" [[bible:Mark 4:11-12; Luke 8:10]].
 
 The words come from the vision in which [[person:isaiah]] is sent to his people [[bible:Isa 6:8-10]]. In the Hebrew text, as modern translations render it, verse 10 is a command to the prophet: he is to make the people's heart dull, stop their ears and shut their eyes [[bible:Isa 6:10]]. The ancient Greek translation has a description of the people instead: their heart "has become gross" and they have closed their own eyes [[cite:lxx]]. Matthew's quotation has that form [[bible:Matt 13:15]]. In Isaiah the prophet asks how long this is to last, and is told: until the cities lie waste and the land is deserted [[bible:Isa 6:11-12]]. The words of Isaiah are not given above, because the translations differ on verse 9: in the World English Bible the people are told that they hear without understanding, and in the New Revised Standard Version Updated Edition, to which the links here lead, they are told to go on listening without understanding [[bible:Isa 6:9]].
 
