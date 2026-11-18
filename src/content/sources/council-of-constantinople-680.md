@@ -12,7 +12,9 @@ url: https://ccel.org/ccel/schaff/npnf214/npnf214.xiii.html
 links:
   - label: The same extracts on one page (New Advent)
     url: https://www.newadvent.org/fathers/3813.htm
-edition: "Extracts translated by Henry R. Percival, The Seven Ecumenical Councils, Nicene and Post-Nicene Fathers, second series, vol. 14 (1900), public domain. Percival gives the letter of Pope Agatho, the sentence of the thirteenth session, the definition of faith, the council's address to the emperor and its letter to the pope, with short extracts from other sessions."
+  - label: "The full acts in Greek and Latin: J. D. Mansi, Sacrorum conciliorum nova et amplissima collectio, vol. 11 (facsimile reprint, Paris: H. Welter, 1901)"
+    url: https://archive.org/details/sacrorumconcilio0000vari_m7f6/page/n114/mode/2up
+edition: "Extracts translated by Henry R. Percival, The Seven Ecumenical Councils, Nicene and Post-Nicene Fathers, second series, vol. 14 (1900), public domain. Percival gives the letter of Pope Agatho, the sentence of the thirteenth session, the definition of faith, the council's address to the emperor and its letter to the pope, with short extracts from other sessions. The headings of the sessions, with their dates, and the emperor's letter to the patriarch George that stands before the minutes are not in Percival; they are cited from the Greek and Latin of J. D. Mansi, Sacrorum conciliorum nova et amplissima collectio, vol. 11 (facsimile reprint, Paris: H. Welter, 1901), public domain, by column, and paraphrased."
 summary: "The minutes and documents of the council that met in the imperial palace at Constantinople in 680–681 and defined that Christ has two wills and two operations, divine and human. They include the sentence that condemned Pope Honorius by name."
 ---
 
