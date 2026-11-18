@@ -34,6 +34,12 @@ citations:
   commission:
     source: paul-vi-humanae-vitae
     at: "5–6"
+  schema:
+    source: papal-birth-control-commission-schema-1966
+    at: "Part I, chapter II"
+  leak:
+    source: christianity-today-catholic-dilemma-1967
+    at: "the paragraphs on the commission's papers, and the note 'Coup in Catholic Reporting'"
   parenthood:
     source: paul-vi-humanae-vitae
     at: "10"
@@ -77,7 +83,7 @@ citations:
 
 In 1930 the Anglican bishops at Lambeth resolved, by 193 votes to 67, that where there is a clearly felt moral obligation to limit or avoid parenthood, and a morally sound reason for avoiding complete abstinence, other methods may be used [[cite:lambeth-1930]]. On 31 December of that year [[person:pius-xi]] wrote that some, departing from "the uninterrupted Christian tradition", had recently judged it possible to declare another doctrine; he proclaimed anew that any use of marriage in which the act is deliberately frustrated in its natural power to generate life is an offence against the law of God and of nature [[cite:casti]].
 
-The Second Vatican Council taught in 1965 that the parents themselves, and no one else, should ultimately make the judgment, before God, about having children, with a conscience conformed to the divine law and submissive to the church's teaching office [[cite:gs-50]]. It added that Catholics may not use methods of birth control found blameworthy by that teaching authority, and noted that certain questions had been handed to a papal commission, so that the council did not intend to propose concrete solutions at once [[cite:gs-51]]. [[person:paul-vi]] says that he confirmed and enlarged the commission, set up by [[person:john-xxiii]] in March 1963, but could not treat its conclusions as definitive, because it was not in complete agreement and because some of its criteria departed from the moral doctrine constantly taught by the church [[cite:commission]].
+The Second Vatican Council taught in 1965 that the parents themselves, and no one else, should ultimately make the judgment, before God, about having children, with a conscience conformed to the divine law and submissive to the church's teaching office [[cite:gs-50]]. It added that Catholics may not use methods of birth control found blameworthy by that teaching authority, and noted that certain questions had been handed to a papal commission, so that the council did not intend to propose concrete solutions at once [[cite:gs-51]]. [[person:paul-vi]] says that he confirmed and enlarged the commission, set up by [[person:john-xxiii]] in March 1963, but could not treat its conclusions as definitive, because it was not in complete agreement and because some of its criteria departed from the moral doctrine constantly taught by the church [[cite:commission]]. The commission's draft on responsible parenthood, of June 1966, held that the morality of sexual acts between spouses does not depend on the direct fecundity of each particular act [[cite:schema]]. In April 1967 it was printed without official approval, together with a paper of the minority that called the church's teaching irreformable; a report of the time speaks of it as the opinion of the commission's majority [[cite:leak]].
 
 His reply is dated from St Peter's in [[place:rome]] on 25 July 1968 [[cite:foreseen]]. Married love, it says, calls for responsible parenthood, exercised both by those who decide to have more children and by those who for serious reasons decide to have no more, for a set or an indefinite time [[cite:parenthood]]. But "each and every marital act must of necessity retain its intrinsic relationship to the procreation of human life", because the unitive and the procreative significance of the act are joined by God and may not be separated [[cite:each-act]]. Excluded therefore are direct abortion, direct sterilization, and any action before, during or after intercourse that is specifically intended to prevent procreation [[cite:excluded]]. Where there are well-grounded reasons for spacing births, couples may confine intercourse to the infertile times [[cite:infertile]]. The pope expected that perhaps "not everyone will easily accept this particular teaching" [[cite:foreseen]].
 
