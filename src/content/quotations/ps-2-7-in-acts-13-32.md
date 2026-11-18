@@ -24,4 +24,4 @@ In the psalm the speaker tells of the Lord's decree, "You are my son", and the n
 
 The translations render the second half of the line differently, in the psalm and in Acts alike. The World English Bible has "Today I have become your father"; the New Revised Standard Version Updated Edition, to which the links here lead, has "begotten" [[bible:Ps 2:7; Acts 13:33]].
 
-Hebrews quotes the same line twice [[bible:Heb 1:5; 5:5]]. Paul's speech goes on with two more quotations, [[quotation:isa-55-3-in-acts-13-34]] and [[quotation:ps-16-10-in-acts-13-35]], and ends with a third: [[quotation:hab-1-5-in-acts-13-40]].
+Hebrews quotes the same line twice [[bible:Heb 1:5; 5:5]]. Paul's speech goes on with two more quotations and ends with a third [[bible:Acts 13:34-35, 40-42]]: [[quotation:isa-55-3-in-acts-13-34]], [[quotation:ps-16-10-in-acts-13-35]] and [[quotation:hab-1-5-in-acts-13-40]].

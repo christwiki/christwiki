@@ -18,4 +18,4 @@ later:
 
 At Pentecost [[person:peter]] says that God raised [[person:jesus]], that he has been exalted at the right hand of God, or by it, as the World English Bible has, and that he has poured out what the crowd sees and hears. "For David didn't ascend into the heavens, but he says himself", and the opening of the psalm follows. Let the whole house of Israel know, Peter ends, that God has made this Jesus, whom they crucified, both Lord and Christ [[bible:Acts 2:1, 14, 32-36]].
 
-In Matthew, Mark and Luke, Jesus quotes the verse to ask how the Christ can be the son of [[person:david]] [[bible:Matt 22:41-45; Mark 12:35-37; Luke 20:41-44]]. In Acts it is quoted for his exaltation [[bible:Acts 2:33-35]]. The psalm is described under [[quotation:ps-110-1-in-matt-22-43]].
+In Matthew, Mark and Luke, Jesus quotes the verse to ask how the Christ can be the son of [[person:david]] [[bible:Matt 22:41-45; Mark 12:35-37; Luke 20:34, 41-44]]. In Acts it is quoted for his exaltation [[bible:Acts 2:33-35]]. The psalm is described under [[quotation:ps-110-1-in-matt-22-43]].

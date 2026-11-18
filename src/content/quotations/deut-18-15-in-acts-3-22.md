@@ -20,6 +20,6 @@ Acts tells that after a man lame from birth was healed at the gate of the temple
 
 In Deuteronomy [[person:moses]] tells Israel that the Lord will raise up for them a prophet like him from among their brothers, and that they are to listen to him. The people had asked at Horeb not to hear the voice of God again. The Lord says that he will put his words in the prophet's mouth, and that he himself will call to account whoever does not listen [[bible:Deut 18:15-19]].
 
-The close of the quotation differs from Deuteronomy. There God will require it of the one who does not listen; in Acts that one will be destroyed out of the people [[bible:Deut 18:19; Acts 3:23]]. Leviticus says of anyone who does not humble himself on the day of atonement that he will be cut off from his people [[bible:Lev 23:27-29]].
+The close of the quotation differs from Deuteronomy. There God will require it of the one who does not listen; in Acts that one will be destroyed out of the people [[bible:Deut 18:19; Acts 3:23]]. Leviticus says of anyone who does not deny himself on the day of atonement that he will be cut off from the people; the New Revised Standard Version Updated Edition has "humble themselves" [[bible:Lev 23:27-29]].
 
-[[person:stephen]] quotes the promise of the prophet in his speech [[bible:Acts 6:8; 7:2, 37]]. In John's Gospel [[person:john-the-baptist|John the Baptist]] is asked whether he is "the prophet", and people in the crowd say it of [[person:jesus]] [[bible:John 1:19-21; 7:40]].
+[[person:stephen]] quotes the promise of the prophet in his speech [[bible:Acts 6:8; 7:2, 37]]. In John's Gospel [[person:john-the-baptist|John the Baptist]] is asked whether he is "the prophet", and people in the crowd say it of [[person:jesus]] [[bible:John 1:19-21; 7:37-40]].

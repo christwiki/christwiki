@@ -27,4 +27,4 @@ In the psalm the nations and their kings set themselves against the Lord and his
 
 The translations of Acts differ on the words that introduce the quotation, which are left out above. The World English Bible has "by the mouth of your servant, David"; the New Revised Standard Version Updated Edition, to which the links here lead, adds that God spoke by the Holy Spirit, and puts the verbs of the quotation in the past [[bible:Acts 4:25-26]]. In the psalm the nations "rage" in the World English Bible and "conspire" in the other [[bible:Ps 2:1]].
 
-The decree that follows in the psalm, "You are my son", is quoted in the speech of [[person:paul]] at Antioch of Pisidia [[bible:Ps 2:7; Acts 13:14, 33]]: [[quotation:ps-2-7-in-acts-13-32]].
+The decree that follows in the psalm, "You are my son", is quoted in the speech of [[person:paul]] at Antioch of Pisidia [[bible:Ps 2:7; Acts 13:14-16, 33]]: [[quotation:ps-2-7-in-acts-13-32]].

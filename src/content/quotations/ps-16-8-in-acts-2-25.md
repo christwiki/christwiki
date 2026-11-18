@@ -30,4 +30,4 @@ In the psalm a speaker who takes refuge in God says that he keeps the Lord alway
 
 The words of the psalm are not given above, because the translations differ on the line that Peter's argument turns on. The World English Bible has "neither will you allow your holy one to see corruption". The New Revised Standard Version Updated Edition, to which the links here lead, has "the Pit" where that has "corruption", and "faithful one" where it has "holy one" [[bible:Ps 16:10]]. The ancient Greek translation has "to see corruption" [[cite:lxx]], and in Acts the Holy One is not to see decay, or corruption [[bible:Acts 2:27]]. In the verse before, where Acts and the Greek have the tongue rejoicing, the New Revised Standard Version Updated Edition has the soul in the psalm [[bible:Ps 16:9; Acts 2:26]] [[cite:lxx]].
 
-In Acts, [[person:paul]] uses the same line in his speech at [[place:pisidian-antioch|Antioch of Pisidia]] [[bible:Acts 13:14, 35]]: [[quotation:ps-16-10-in-acts-13-35]].
+In Acts, [[person:paul]] uses the same line in his speech at [[place:pisidian-antioch|Antioch of Pisidia]] [[bible:Acts 13:14-16, 35]]: [[quotation:ps-16-10-in-acts-13-35]].
