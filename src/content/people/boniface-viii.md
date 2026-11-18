@@ -4,6 +4,8 @@ altNames: [Benedetto Caetani, Benedetto Gaetani]
 role: Pope, 1294–1303
 died:
   start: 1303
+  month: 10
+  day: 11
   confidence: firm
 summary: Benedetto Caetani of Anagni, canon lawyer and cardinal, pope from 1294. He issued Clericis laicos and Unam sanctam in his conflict with Philip IV of France, was seized at Anagni in September 1303 and died a month later.
 citations:
@@ -19,6 +21,10 @@ citations:
     source: villani-chronicle
     at: "8.64"
     url: https://www.gutenberg.org/cache/epub/33022/pg33022-images.html#VIII_64
+  gui-death:
+    source: bernard-gui-flores-chronicorum
+    at: "Life of Boniface VIII (Muratori, vol. 3, p. 672)"
+    url: https://archive.org/details/RerumItalicarumScriptores3/page/n731/mode/1up
   bull:
     source: boniface-viii-unam-sanctam
     at: "pp. 435–437"
@@ -26,4 +32,4 @@ citations:
 
 The Florentine chronicler Giovanni Villani, who lived through his pontificate, says that Cardinal Benedetto Caetani of Anagni was elected in 1294 after Celestine V laid down the papacy, a resignation Villani says the cardinal had himself advised [[cite:elected]]. Villani calls him learned in Scripture and in canon law, great-hearted, proud and cruel to his enemies, and credits him with the Sixth Book of the Decretals [[cite:character]].
 
-His bull [[event:unam-sanctam]] of 1302 states that it is necessary for salvation for every human creature to be subject to the Roman pontiff [[cite:bull]]. In September 1303 men in the pay of [[person:philip-iv-of-france]] seized him in his palace at Anagni. He was freed by the townspeople after three days, returned to [[place:rome]] and died there in October 1303, on the 12th by Villani's account [[cite:anagni]].
+His bull [[event:unam-sanctam]] of 1302 states that it is necessary for salvation for every human creature to be subject to the Roman pontiff [[cite:bull]]. In September 1303 men in the pay of [[person:philip-iv-of-france]] seized him in his palace at Anagni. He was freed by the townspeople after three days, returned to [[place:rome]] and died there in October 1303 [[cite:anagni]]. The Dominican Bernard Gui, who finished his catalogue of the popes within thirty years, says that he died on the fifth day before the ides of October, which is the 11th, the thirty-fifth day from his capture, and was buried in St Peter's the next day [[cite:gui-death]]; Villani gives the 12th [[cite:anagni]].

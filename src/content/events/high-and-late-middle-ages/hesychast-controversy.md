@@ -1,6 +1,6 @@
 ---
 title: Gregory Palamas and the Hesychast Councils
-summary: Councils at Constantinople in 1341 and 1351 uphold the monk Gregory Palamas against Barlaam. God's essence is beyond reach, they teach, but his uncreated energies, seen as the light of Tabor, are shared by the saints. The Orthodox Church holds this teaching as its own.
+summary: Councils at Constantinople in 1341, 1347 and 1351 uphold Gregory Palamas against Barlaam and others. God's essence is beyond reach, they teach, but his uncreated energies, seen as the light of Tabor, are shared by the saints. The Orthodox Church holds this teaching as its own.
 era: high-and-late-middle-ages
 date:
   start: 1341
@@ -50,6 +50,14 @@ citations:
     source: synodal-tome-1351
     at: "§§2–6"
     url: https://ubipetrusibiecclesia.com/2022/06/21/the-dogmatic-definitions-of-the-palamite-councils/
+  tome1351-kalekas:
+    source: synodal-tome-1351
+    at: "§§3–4"
+    url: https://ubipetrusibiecclesia.com/2022/06/21/the-dogmatic-definitions-of-the-palamite-councils/
+  tome1347-date:
+    source: synodal-tome-1347
+    at: "closing clause (PG 152, cols 1283–1284)"
+    url: https://archive.org/details/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1866_152/page/n641/mode/1up
   tome1351-first-tome:
     source: synodal-tome-1351
     at: "§46"
@@ -71,7 +79,7 @@ citations:
     source: catholic-encyclopedia-hesychasm
 reviewed: 2026-10-03
 dating: |
-  The tome of the first council is dated August of the ninth indiction, the Byzantine year that ended on 31 August 1341 [[cite:tome1341-verdict]]. The translation of the tome of 1351 used here carries no date in its text; the year is the one given in the list of these councils in the encyclical of the Orthodox council of 2016 [[cite:crete]].
+  The tome of the first council is dated August of the ninth indiction, the Byzantine year that ended on 31 August 1341 [[cite:tome1341-verdict]]. The tome of the synod that deposed Patriarch John, which the tome of 1351 quotes [[cite:tome1351-kalekas]], says at its close that it was written and signed in February of the fifteenth indiction, the Byzantine year that ran from September 1346 to August 1347 [[cite:tome1347-date]]; where the tome of 1351 tells of that synod and of the earlier one against Akindynos, it gives no date for either [[cite:tome1351-kalekas]]. The translation of the tome of 1351 used here carries no date in its text; the year is the one given in the list of these councils in the encyclical of the Orthodox council of 2016 [[cite:crete]].
 ---
 
 Monks who followed the "life of stillness", in Greek *hesychia*, repeated continually the prayer "Lord Jesus Christ, Son of God, have mercy on me" and taught that the pure in heart receive a divine illumination [[cite:tome1341-charge]] [[cite:tome1341-prayer]]. [[person:barlaam-of-calabria]], a monk from Calabria versed in secular philosophy, attacked them in writing [[cite:tome1341-charge]]. According to the tome of the council that judged him, he ridiculed their breathing exercises and charged them with claiming to share in God's very essence; when they answered that they shared not in the essence but in the uncreated grace of the Spirit, he accused them of believing in two gods [[cite:tome1341-charge]] [[cite:tome1341-prayer]].
@@ -80,6 +88,6 @@ Monks who followed the "life of stillness", in Greek *hesychia*, repeated contin
 
 In 1341 a council met in Hagia Sophia in [[place:constantinople]] in the presence of the emperor [[cite:tome1341-verdict]], whom the later tome names as Andronikos Palaiologos [[cite:tome1351-first-tome]]. It found that Barlaam had spoken "blasphemously and heretically" about the light of Tabor and about the prayer, and ruled that he must repent or be cut off from the church; Patriarch John signed the tome that August and forbade further argument [[cite:tome1341-verdict]].
 
-The argument went on. The tome of 1351 relates that Akindynos took up Barlaam's charges and that some bishops still opposed Palamas. In that year the emperor John Kantakouzenos presided over a council in the Blachernae palace at which Palamas, by now metropolitan of [[place:thessalonica]], answered his critics [[cite:tome1351-history]]. The council held that the Fathers distinguish God's essence from his energy, that the energy is uncreated, that this puts no composition in God, and that creatures partake of the energy and not of the essence. It declared the light of the Transfiguration uncreated yet not the essence of God, placed Barlaam and Akindynos under anathema, and named Palamas a defender of the faith [[cite:tome1351-decisions]].
+The argument went on. The tome of 1351 relates that Akindynos took up Barlaam's charges [[cite:tome1351-history]] and was condemned by a second synod, at which, it says, John Kantakouzenos presided [[cite:tome1351-kalekas]]. Patriarch John, the same who had signed against Barlaam, then held with Akindynos, the tome says, and wrote and plotted against those it calls adherents of the true faith, taking the civil war as his opportunity [[cite:tome1351-kalekas]]. A synod deposed and excommunicated him, and its tome, signed by thirty bishops, declared Palamas and the monks with him defenders of the church [[cite:tome1351-kalekas]]. That tome is dated February of the fifteenth indiction, which is 1347 [[cite:tome1347-date]]. Some bishops still opposed Palamas, the tome of 1351 goes on, and the emperor John Kantakouzenos presided over a council in the Blachernae palace at which Palamas, by now metropolitan of [[place:thessalonica]], answered his critics [[cite:tome1351-history]]. The council held that the Fathers distinguish God's essence from his energy, that the energy is uncreated, that this puts no composition in God, and that creatures partake of the energy and not of the essence. It declared the light of the Transfiguration uncreated yet not the essence of God, placed Barlaam and Akindynos under anathema, and named Palamas a defender of the faith [[cite:tome1351-decisions]].
 
 The Orthodox Church receives these councils: the encyclical of the Holy and Great Council held on Crete in 2016 lists the councils of 1341, 1351 and 1368 among those "of universal authority" [[cite:crete]]. Latin theology spoke differently. [[person:thomas-aquinas]] had taught that God's action and power are not distinct from his essence [[cite:aquinas]], and in 1336 Pope Benedict XII had defined that the blessed see the divine essence itself, face to face [[cite:benedictus]]. In 1910 the article on hesychasm in the Catholic Encyclopedia called the distinction "fundamentally opposed" to the scholastic idea of God [[cite:fortescue]].
