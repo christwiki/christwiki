@@ -41,8 +41,28 @@ citations:
     url: https://www.dmgh.de/mgh_epp_sel_2_1/index.htm#page/263/mode/1up
   henry:
     source: henry-iv-letters
-    at: "to Hildebrand (1076)"
+    at: "no. 12, to Hildebrand (1076)"
     url: https://avalon.law.yale.edu/medieval/inv02.asp
+  henry-latin:
+    source: henry-iv-letters
+    at: "no. 12 (Erdmann, pp. 15–17)"
+    url: https://www.dmgh.de/mgh_dt_ma_1/index.htm#page/15/mode/1up
+  henry-worms:
+    source: henry-iv-letters
+    at: "no. 11 (Erdmann, pp. 13–15)"
+    url: https://www.dmgh.de/mgh_dt_ma_1/index.htm#page/13/mode/1up
+  henry-romans:
+    source: henry-iv-letters
+    at: "no. 10 (Erdmann, pp. 12–13)"
+    url: https://www.dmgh.de/mgh_dt_ma_1/index.htm#page/12/mode/1up
+  erdmann-intro:
+    source: henry-iv-letters
+    at: "Erdmann's introduction, p. 3"
+    url: https://www.dmgh.de/mgh_dt_ma_1/index.htm#page/3/mode/1up
+  lampert-worms:
+    source: lampert-of-hersfeld-annals
+    at: "1076 (pp. 252–254)"
+    url: https://www.dmgh.de/mgh_ss_rer_germ_38/index.htm#page/252/mode/1up
   deposition:
     source: gregory-vii-register
     at: "3.10a"
@@ -90,6 +110,8 @@ citations:
 dating: |
   The documents date themselves. The Dictatus papae stands in the register after a letter of 3 March 1075, without a number or a date of its own [[cite:dictatus-latin]]. Gregory's sentence on Henry stands in the register's record of the Roman Lenten synod of 1076 [[cite:deposition-latin]], and Henry's oath is dated at Canossa on 28 January 1077 [[cite:canossa-oath]]. Gregory's letter of rebuke carries the date 8 January in the register; its editor Erich Caspar corrects this to 8 December 1075 as a copyist's slip [[cite:rebuke-latin]].
 
+  Henry's two letters to "Hildebrand" are the exception. Their editor Carl Erdmann (*Die Briefe Heinrichs IV.*, Monumenta Germaniae Historica, 1937) says that all of Henry's letters are undated [[cite:erdmann-intro]] and assigns both simply to 1076 [[cite:henry-worms]] [[cite:henry-latin]]. Lampert puts the assembly at Worms on Septuagesima Sunday [[cite:lampert-worms]], which in 1076 was 24 January; that is the date printed over the longer letter in Henderson's translation, whose text has none [[cite:henry]]. The shorter letter is the one Henry passed on to the Romans in a letter of his own [[cite:henry-romans]]. For the longer, Gerold Meyer von Knonau, *Jahrbücher des Deutschen Reiches unter Heinrich IV. und Heinrich V.*, vol. 2 (1894), pp. 662–663, following Carl Mirbt, held it most probable that it went out from Utrecht at Easter 1076, after Henry had learned of Gregory's sentence, while noting that the chronicler Bruno gives it with the Worms letters. The narrative therefore does not place it before the Lenten synod.
+
   The register does not say what the Dictatus papae was written for [[cite:dictatus-latin]]. Caspar, in his edition of the register (Monumenta Germaniae Historica, 1920), held that Gregory's authorship is secured by the list's place in the original register and by its agreement with his letters, noted its kinship with the canon-law collections of the time, and wrote that how it was put together can only be guessed at [[cite:dictatus-latin]].
 
   On Canossa the two accounts differ. Gregory speaks of three days before the gate; Lampert has Henry admitted on the fourth day. Oswald Holder-Egger, editing Lampert in 1894, judged that Lampert had read Gregory's letter and that the details he adds to it are his own [[cite:lampert-canossa]].
@@ -97,7 +119,7 @@ dating: |
 
 Under the year 1075 the register of Pope [[person:gregory-vii]] holds a list of twenty-seven sentences headed *Dictatus papae* [[cite:dictatus-latin]]. Among them: the pope alone can depose or reinstate bishops, he may depose emperors, he may absolve subjects from their fealty to wicked men, and he himself may be judged by no one [[cite:dictatus]]. The list as it stands there names no addressee and gives no reason for its making [[cite:dictatus]].
 
-In December 1075 Gregory wrote to the German king [[person:henry-iv-emperor]]. He rebuked him for keeping company with excommunicated men and for giving the churches of Fermo and Spoleto to persons unknown to the pope, and held up to him the decrees of that year's Roman synod [[cite:rebuke]]. Henry replied in a letter addressed to "Hildebrand, at present not pope but false monk", which ends by ordering him, in the name of the king and all his bishops, to come down from the apostolic chair [[cite:henry]]. At his Lenten synod of 1076 in [[place:rome]] Gregory answered in the form of a prayer to St Peter [[cite:deposition-latin]]. He withdrew from Henry the rule of the kingdom of the Germans and of Italy, released all Christians from their oaths to him, and bound him with anathema [[cite:deposition]].
+In December 1075 Gregory wrote to the German king [[person:henry-iv-emperor]]. He rebuked him for keeping company with excommunicated men and for giving the churches of Fermo and Spoleto to persons unknown to the pope, and held up to him the decrees of that year's Roman synod [[cite:rebuke]]. Lampert of Hersfeld says that Henry called the bishops and abbots of his kingdom to Worms, where they declared that Gregory could not be pope and sent a letter to Rome telling him to abdicate [[cite:lampert-worms]]. A letter of the king to "Hildebrand" tells him that an assembly of the chief men of the kingdom has found that he cannot remain in the apostolic see, and orders him to come down from the see of Rome [[cite:henry-worms]]. A second and sharper letter in the king's name is addressed to "Hildebrand, at present not pope but false monk" and ends by ordering him, in the name of the king and all his bishops, to come down from the apostolic chair; it carries no date, and whether it was written at Worms or only after Gregory's sentence is not settled [[cite:henry]] (see the dating note). At his Lenten synod of 1076 in [[place:rome]] Gregory answered in the form of a prayer to St Peter [[cite:deposition-latin]]. He withdrew from Henry the rule of the kingdom of the Germans and of Italy, released all Christians from their oaths to him, and bound him with anathema [[cite:deposition]].
 
 The chronicler Lampert of Hersfeld reports that later in 1076 the German princes told Henry that he would lose the kingdom for good unless he was absolved before the anniversary of his excommunication, and that they asked the pope to judge the case at Augsburg in February. Henry, he says, hurried over the Alps in a hard winter; the queen and her women were let down the icy slopes on ox-hides. Gregory, on his way north, turned aside at the urging of [[person:matilda-of-tuscany]] to the fortress of [[place:canossa]] [[cite:lampert-princes]] [[cite:lampert-journey]].
 

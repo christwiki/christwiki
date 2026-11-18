@@ -65,6 +65,18 @@ citations:
     source: julian-letters
     at: "22"
     url: https://www.tertullian.org/fathers/julian_apostate_letters_1_trans.htm#C22
+  arsacius-note:
+    source: julian-letters
+    at: "22, Wright's note 1 (vol. 3, p. 66)"
+    url: https://archive.org/details/worksofemperorj03juli/page/66/mode/2up
+  soz-arsacius:
+    source: sozomen-church-history
+    at: "5.16"
+    url: https://ccel.org/ccel/schaff/npnf202/npnf202.iii.x.xvi.html
+  priest:
+    source: julian-letter-to-a-priest
+    at: "pp. 337–339"
+    url: https://www.tertullian.org/fathers/julian_apostate_letter_to_a_priest.htm#p337
   law:
     source: theodosian-code
     at: "13.3.5"
@@ -91,13 +103,15 @@ citations:
     url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Excerpta_Valesiana/1*.html#33
 dating: |
   Socrates dates the death of Constantius II to 3 November in the consulship of Taurus and Florentius, 361 [[cite:soc-youth]], and Ammianus puts Julian's entry into Constantinople on 11 December [[cite:amm-entry]]. The law on teachers is dated 17 June in the consulship of Mamertinus and Nevitta, 362 [[cite:law]]. Ammianus says that Julian was wounded and died at midnight [[cite:amm-death]] and that the next dawn was that of 27 June [[cite:amm-date]]; Socrates gives 26 June, in his fourth consulship, 363 [[cite:soc-death]].
+
+  The letter to Arsacius is not found in any manuscript of Julian's letters; Sozomen quotes it in full as the emperor's own [[cite:arsacius-note]] [[cite:soz-arsacius]]. Its authenticity is disputed. Peter Van Nuffelen, "Deux fausses lettres de Julien l'Apostat", *Vigiliae Christianae* 56 (2002), pp. 131–150, argues that it betrays the hand of a Christian of the first half of the fifth century. Jean Bouffartigue, "L'authenticité de la Lettre 84 de l'empereur Julien", *Revue de philologie* 79 (2005), pp. 231–242, answers that it is prudent to go on treating it as genuine; 84 is the letter's number in Bidez's edition. The narrative therefore gives it as Sozomen's quotation and rests Julian's call for charity on the letter to a priest.
 ---
 
 [[person:julian]] was a nephew of [[person:constantine]] [[cite:soc-youth]]. After Constantine's death, Socrates says, the soldiers killed the emperor's brother Dalmatius, and the lives of Julian and his brother Gallus were in danger; Julian, then eight years old, was spared. He was brought up as a Christian and served as a reader in the church of Nicomedia [[cite:soc-youth]]. Ammianus Marcellinus, a pagan officer who served under him and admired him, says that he had been drawn to the old gods from boyhood and practised their rites in secret [[cite:amm-temples]]. Even after the army in Gaul had proclaimed him emperor, he attended church at Epiphany to conceal it [[cite:amm-secret]].
 
 On the death of his cousin Constantius II he became sole emperor [[cite:soc-youth]] and entered [[place:constantinople]] in December 361 [[cite:amm-entry]]. He then ordered, in Ammianus's words, "the temples to be opened, victims brought to the altars, and the worship of the gods restored". He called the quarrelling Christian bishops to the palace and told each to follow his own belief without fear. Ammianus thought he expected freedom to deepen their divisions [[cite:amm-temples]]. Julian himself wrote that he had recalled those exiled under his predecessor and restored their property, and that he allowed no one to be dragged to the altars against his will [[cite:bostra]]. Among those who came home was Athanasius [[cite:athanasius-return]].
 
-In June 362 a law required teachers to be approved by their city councils and by the emperor [[cite:law]]. A rescript explained the purpose: those who expound Homer and Hesiod must honour the gods those poets honoured, and anyone who thinks them mistaken should "betake themselves to the churches of the Galilaeans to expound Matthew and Luke" [[cite:rescript]]. Ammianus called the ban on Christian teachers "inhumane" [[cite:amm-teachers]]. Julian also urged the pagan priests to match the Christians in works of charity. He told the high priest of Galatia to found hostels for strangers, since "the impious Galilaeans support not only their own poor but ours as well" [[cite:arsacius]].
+In June 362 a law required teachers to be approved by their city councils and by the emperor [[cite:law]]. A rescript explained the purpose: those who expound Homer and Hesiod must honour the gods those poets honoured, and anyone who thinks them mistaken should "betake themselves to the churches of the Galilaeans to expound Matthew and Luke" [[cite:rescript]]. Ammianus called the ban on Christian teachers "inhumane" [[cite:amm-teachers]]. Julian also urged the pagan priests to care for the poor: writing to a priest, he said that the Galilaeans had turned to works of charity when the priests neglected the needy, and that a priest must share what he has with those in need [[cite:priest]]. A letter to the high priest of Galatia, which the church historian Sozomen quotes about eighty years later as Julian's and which is not in the manuscripts of his letters [[cite:soz-arsacius]] [[cite:arsacius-note]], tells him to found hostels for strangers in every city, since "the impious Galilaeans support not only their own poor but ours as well" [[cite:arsacius]].
 
 In 362 he moved to [[place:antioch]] to prepare a war against Persia [[cite:amm-antioch]]. When the temple of Apollo at Daphne burned, he suspected the Christians and closed the city's great church [[cite:amm-daphne]]. He gave orders to rebuild the Jewish Temple in [[place:jerusalem]]; the work was abandoned when, Ammianus reports, balls of fire burst out near the foundations [[cite:amm-temple]]. Socrates, a Christian historian, tells it as a series of miracles [[cite:soc-temple]].
 
