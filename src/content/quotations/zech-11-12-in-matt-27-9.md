@@ -18,6 +18,7 @@ citations:
     source: septuagint
     at: "Zechariah 11:13"
     url: https://ebible.org/eng-Brenton/ZEC11.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how [[person:judas-iscariot|Judas]], seeing that [[person:jesus]] is condemned, brings the thirty pieces of silver back to the chief priests and elders, throws them down in the sanctuary and hangs himself. The priests say that the price of blood may not go into the treasury, and buy the potter's field with it as a burial place for strangers. Matthew says that what was spoken through Jeremiah the prophet was then fulfilled [[bible:Matt 27:3-10]].

@@ -27,6 +27,7 @@ citations:
     source: irenaeus-against-heresies
     at: "3.21.1"
     url: https://www.newadvent.org/fathers/0103321.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how an angel explains to [[person:joseph-of-nazareth|Joseph]] in a dream that [[person:mary]] has conceived by the Holy Spirit, and says that all this happened to fulfil what the Lord had spoken through the prophet [[bible:Matt 1:20-23]]. He does not name the prophet. The words are those of the sign that [[person:isaiah]] announces to King [[person:ahaz]] [[bible:Isa 7:10-14]].

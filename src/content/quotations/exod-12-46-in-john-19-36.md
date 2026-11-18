@@ -15,6 +15,7 @@ later:
   event: crucifixion
   text: |
     For these things happened, that the Scripture might be fulfilled, "A bone of him will not be broken."
+reviewed: 2026-11-18
 ---
 
 John tells how, after a request to [[person:pontius-pilate|Pilate]] that the bodies should not stay on the crosses over the Sabbath, the soldiers break the legs of the two men crucified with [[person:jesus]], find Jesus already dead and do not break his, and how one of them pierces his side with a spear. These things happened, he says, so that the Scripture might be fulfilled [[bible:John 19:31-36]].

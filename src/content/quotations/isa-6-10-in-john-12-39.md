@@ -26,6 +26,7 @@ citations:
     source: septuagint
     at: "Isaiah 6:10"
     url: https://ebible.org/eng-Brenton/ISA06.htm
+reviewed: 2026-11-18
 ---
 
 John has just said that the unbelief of those who saw the signs of [[person:jesus]] fulfilled a word of Isaiah. He goes on, "For this cause they couldn't believe, for Isaiah said again", and quotes a second passage [[bible:John 12:37-40]]. The word "fulfilled" stands before the first quotation. The second has an introduction of its own, without that word [[bible:John 12:38-39]]. John then says that Isaiah saw his glory and spoke of him [[bible:John 12:41]].

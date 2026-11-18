@@ -20,6 +20,7 @@ later:
     the people who sat in darkness saw a great light,
     to those who sat in the region and shadow of death,
     to them light has dawned."
+reviewed: 2026-11-18
 ---
 
 Matthew tells how [[person:jesus]], after [[person:john-the-baptist|John]] has been arrested, leaves [[place:nazareth]] and settles at [[place:capernaum]] by the sea, "in the region of Zebulun and Naphtali", and says that this was to fulfil what was spoken through [[person:isaiah]] the prophet [[bible:Matt 4:12-16]]. His quotation is shorter than the passage in Isaiah. It keeps the names of the lands and the image of light [[bible:Isa 9:1-2; Matt 4:15-16]].

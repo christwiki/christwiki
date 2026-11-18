@@ -22,6 +22,7 @@ later:
     Rachel weeping for her children;
     she wouldn't be comforted,
     because they are no more."
+reviewed: 2026-11-18
 ---
 
 After telling how [[person:herod-the-great|Herod]] has the children of [[place:bethlehem]] killed, Matthew says that what was spoken by [[person:jeremiah]] the prophet was fulfilled, and quotes the lament of Rachel [[bible:Matt 2:16-18]]. Here he names the prophet. He writes "was fulfilled", where his two earlier fulfilment sayings have "that it might be fulfilled" [[bible:Matt 1:22; 2:15, 17]].

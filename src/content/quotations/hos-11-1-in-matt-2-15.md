@@ -18,6 +18,7 @@ citations:
     source: septuagint
     at: "Hosea 11:1"
     url: https://ebible.org/eng-Brenton/HOS11.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how [[person:joseph-of-nazareth|Joseph]] takes the child and his mother to Egypt by night and stays there until the death of [[person:herod-the-great|Herod]], and says that this was to fulfil what the Lord had spoken through the prophet [[bible:Matt 2:13-15]]. He does not name the prophet. The words are in [[person:hosea]] [[bible:Hos 11:1]].

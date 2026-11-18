@@ -13,6 +13,7 @@ later:
   event: last-supper
   text: |
     I don't speak concerning all of you. I know whom I have chosen. But that the Scripture may be fulfilled, 'He who eats bread with me has lifted up his heel against me.'
+reviewed: 2026-11-18
 ---
 
 In John, when [[person:jesus]] has washed the disciples' feet and taken his place again, he says that he is not speaking of all of them. He knows whom he has chosen, but the Scripture is to be fulfilled, and he quotes a line about one who eats bread with him [[bible:John 13:12, 18]]. He adds that he tells them before it happens, so that when it happens they may believe [[bible:John 13:19]]. After this he says that one of them will betray him [[bible:John 13:21]]. In Mark's account of the supper Jesus says that the betrayer is one who is eating with him, without a quotation [[bible:Mark 14:18]].

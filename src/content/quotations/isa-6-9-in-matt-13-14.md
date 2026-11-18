@@ -26,6 +26,7 @@ citations:
     source: septuagint
     at: "Isaiah 6:9–10"
     url: https://ebible.org/eng-Brenton/ISA06.htm
+reviewed: 2026-11-18
 ---
 
 In Matthew the disciples ask [[person:jesus]] why he speaks to the crowds in parables. He answers that the crowds see without seeing and hear without hearing, and that in them the prophecy of Isaiah is fulfilled [[bible:Matt 13:2, 10-15]]. Here the words about fulfilment are spoken by Jesus, not by the narrator [[bible:Matt 13:11, 14]]. Mark and Luke have the saying in a shorter form, without the name of Isaiah and without the word "fulfilled" [[bible:Mark 4:11-12; Luke 8:10]].

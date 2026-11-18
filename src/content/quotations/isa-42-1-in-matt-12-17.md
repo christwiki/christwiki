@@ -38,6 +38,7 @@ citations:
     source: septuagint
     at: "Isaiah 42:1–4"
     url: https://ebible.org/eng-Brenton/ISA42.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how the Pharisees plan to destroy [[person:jesus]], and how he withdraws, heals the many who follow him and orders them not to make him known. He says that this was to fulfil what was spoken through Isaiah the prophet [[bible:Matt 12:14-17]]. The quotation runs to four verses and ends with the nations hoping in the servant's name [[bible:Matt 12:18-21]].

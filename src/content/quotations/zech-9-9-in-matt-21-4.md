@@ -25,6 +25,7 @@ citations:
     source: septuagint
     at: "Zechariah 9:10"
     url: https://ebible.org/eng-Brenton/ZEC09.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how [[person:jesus]], coming near to [[place:jerusalem]], sends two disciples to fetch a donkey and her colt, and says that all this was done to fulfil what was spoken through the prophet [[bible:Matt 21:1-5]]. He does not name the prophet. The opening words, an order to tell the daughter of Zion, match a line of Isaiah [[bible:Isa 62:11]]. The rest is from the book of Zechariah, where the verse opens with a call to her to rejoice [[bible:Zech 9:9]]. John quotes the passage more briefly for the same event, and adds that the disciples did not understand these things at first [[bible:John 12:14-16]].

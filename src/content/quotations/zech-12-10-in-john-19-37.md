@@ -15,6 +15,7 @@ citations:
     source: septuagint
     at: "Zechariah 12:10"
     url: https://ebible.org/eng-Brenton/ZEC12.htm
+reviewed: 2026-11-18
 ---
 
 John says, after telling how the legs of [[person:jesus]] were left unbroken and how his side was pierced with a spear, that "these things happened" so that the Scripture might be fulfilled [[bible:John 19:32-36]]. He adds, "Again another Scripture says", and quotes a line about looking on one who was pierced [[bible:John 19:37]]. To the spear thrust, he says, one who saw it has testified [[bible:John 19:34-35]].

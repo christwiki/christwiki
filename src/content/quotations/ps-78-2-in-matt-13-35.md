@@ -18,6 +18,7 @@ citations:
     source: septuagint
     at: "Psalm 77:1–2 (78:1–2 in the Hebrew numbering)"
     url: https://ebible.org/eng-Brenton/PSA077.htm
+reviewed: 2026-11-18
 ---
 
 After a series of parables Matthew says that [[person:jesus]] spoke all these things to the crowds in parables and said nothing to them without one, and that this was to fulfil what was spoken through the prophet [[bible:Matt 13:34-35]]. The quotation is the second verse of a psalm [[bible:Ps 78:2]]. The psalm carries the name of Asaph in its heading, in the Hebrew and in the ancient Greek translation alike [[bible:Ps 78:1]] [[cite:lxx]]. Chronicles calls Asaph "the seer" [[bible:2 Chr 29:30]].

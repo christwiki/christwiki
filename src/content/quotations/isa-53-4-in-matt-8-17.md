@@ -20,6 +20,7 @@ citations:
     source: septuagint
     at: "Isaiah 53:4"
     url: https://ebible.org/eng-Brenton/ISA53.htm
+reviewed: 2026-11-18
 ---
 
 Matthew tells how [[person:jesus]], at [[place:capernaum]], heals the mother of [[person:peter]]'s wife of a fever, and how that evening he casts out spirits with a word and heals all who are sick. He says that this was to fulfil what was spoken through Isaiah the prophet [[bible:Matt 8:5, 14-17]]. The line comes from the passage about the servant who is despised and who suffers [[bible:Isa 52:13; 53:3-5]].

@@ -19,6 +19,7 @@ citations:
     source: septuagint
     at: "Isaiah 53:1"
     url: https://ebible.org/eng-Brenton/ISA53.htm
+reviewed: 2026-11-18
 ---
 
 John tells how [[person:jesus]] departs and hides himself, and says that although he had done so many signs before them they did not believe in him, so that the word of Isaiah the prophet might be fulfilled [[bible:John 12:36-38]]. The quotation agrees with the ancient Greek translation, which opens by addressing the Lord [[cite:lxx]]. The Hebrew text, as modern translations render it, has no such address [[bible:Isa 53:1]].
