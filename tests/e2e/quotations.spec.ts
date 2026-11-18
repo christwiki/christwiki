@@ -83,7 +83,10 @@ test.describe('quotations', () => {
     await page.goto('/events/amos-and-hosea/');
     const later = page.locator('section[aria-labelledby="quotations-title"]');
     await expect(later.getByRole('heading', { level: 3 })).toHaveText('Words from here, quoted later');
-    await expect(later.locator('.quotation-list__passages')).toContainText('Hosea 11:1 in Matthew 2:15');
+    // The event may list other quotations too; this one names both passages.
+    await expect(later.locator('.quotation-list__item', { hasText: 'Out of Egypt I called my son' }).locator('.quotation-list__passages')).toContainText(
+      'Hosea 11:1 in Matthew 2:15',
+    );
   });
 
   test('in German the page is in German and the entries say that they are not translated yet', async ({ page }) => {
