@@ -305,11 +305,14 @@ An entry is made where a New Testament text introduces words as Scripture, or as
 
 Each place where a passage is quoted gets its own entry, so a saying told in three Gospels has three. Write the passage's own setting once, in the entry for the Gospel that comes first, and let the others say what is particular to them and link to it.
 
-Three kinds of quotation are not recorded:
+Four kinds of quotation are not recorded:
 
 - **Scripture quoted as a rule of conduct**: the Decalogue, the two great commandments, the answers of Jesus to the tempter, "I desire mercy, and not sacrifice".
 - **Scripture quoted to settle a question of law or teaching**: the dispute about divorce (Genesis 1:27; 2:24), the argument about the resurrection from Exodus 3:6.
-- **Words of Scripture used without being introduced as Scripture**: the cry from the cross, the crowd's "Blessed is he who comes", the saying about seeing and not perceiving in Mark 4:12.
+- **Words of Scripture used without being introduced as Scripture**: the cry from the cross, the crowd's "Blessed is he who comes", the saying about seeing and not perceiving in Mark 4:12, Peter's "the stone which was regarded as worthless" in Acts 4:11.
+- **Scripture quoted in retelling the history of Israel**: the speech of Stephen in Acts 7, the opening of Paul's speech in Acts 13:17–22.
+
+In Acts the quotations stand in speeches. Report them as Acts does: "In Acts, Peter says", not "Peter said". Where one sentence that says "fulfilled" governs the quotation (Acts 1:16 with 1:20; Acts 13:32–33), the entry is `stated` and its later passage includes that sentence.
 
 A quotation is recorded only where the words quoted can be found. Where a Gospel says that Scripture is fulfilled, or has said something, and quotes no words that can be identified (Matthew 2:23; 26:54, 56; Mark 14:49; John 7:38; 17:12; 19:28), there is no entry. A verse that the linked translation does not have (Mark 15:28) gets no entry either. Allusions and typology are not recorded.
 

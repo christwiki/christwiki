@@ -66,7 +66,7 @@ export const en: MessageOverrides = {
     lead: {
       one: '{count} place where a Gospel quotes the Scriptures of Israel and says that they are fulfilled. The entry sets the two passages side by side and says how the earlier words read in their own setting.',
       other:
-        '{count} quotations of the Scriptures of Israel in the four Gospels: those given where a Gospel says that Scripture is fulfilled, and those it applies to Jesus and the people around him. Each line joins two passages; each entry sets them side by side and says how the earlier words read in their own setting. Acts and the letters are still to be added.',
+        '{count} quotations of the Scriptures of Israel in the four Gospels and Acts: those given where the text says that Scripture is fulfilled, and those it applies to Jesus, to the people around him and to the first Christians. Each line joins two passages; each entry sets them side by side and says how the earlier words read in their own setting. The letters are still to be added.',
     },
     earlier: 'Old Testament',
     later: 'New Testament',
