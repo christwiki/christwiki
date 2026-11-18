@@ -1,5 +1,5 @@
 ---
-source: "9912156c6616"
+source: "6a6daefdcee0"
 translated: 2026-10-04
 title: "Methode und Quellen"
 summary: "Christwiki erzählt die Geschichte des Christentums als einen einzigen Zeitstrahl, vom Anfang der Genesis bis in die Gegenwart. Es will eines gut machen: zeigen, wann und wo etwas geschah, wie es mit dem Übrigen zusammenhängt und worauf sich das Wissen darüber stützt."
@@ -34,6 +34,18 @@ Die Website ist so geschrieben, dass sie katholischen, orthodoxen und evangelisc
 Jede Ereignisseite nennt die früheren Ereignisse, aus denen sie hervorgeht, und die späteren, zu denen sie führt. Diese Verbindungen sind, wie die Leitfäden, die sich durch den Zeitstrahl ziehen, die Lesart der Redaktion, wie die Geschichte zusammenhängt. Sie sind eine Hilfe für die Leserinnen und Leser und keine Aussagen, die einer Quelle entnommen sind.
 
 Schon die Auswahl dessen, was als "zentraler" Moment gilt, ist ein Urteil. Die Auswahl will das Alte und das Neue Testament abdecken, dann den lateinischen Westen, den griechischen und slawischen Osten, die Kirchen Afrikas und Asiens außerhalb des Römischen Reiches sowie die Kirchen der Reformation und des heutigen globalen Südens.
+
+## [quotations] Das Alte Testament im Neuen
+
+Das Neue Testament zitiert die Schriften Israels immer wieder und sagt von vielen Stellen, sie seien in Jesus und in dem, was um ihn geschah, erfüllt. Die Seite zählt keine Prophezeiungen. Unter „Zitate“ verzeichnet sie etwas Engeres, das sich nachprüfen lässt: dass ein neutestamentlicher Text eine Stelle zitiert, was er über sie sagt und wie die Stelle dort zu lesen ist, wo sie zuerst steht. Zurzeit sind es {quotations} solche Einträge.
+
+Jedes Zitat trägt eine von drei Kennzeichnungen. Eine *ausdrückliche Erfüllung* liegt vor, wo der neutestamentliche Text selbst sagt, dies sei geschehen, um die Schrift zu erfüllen, wie Matthäus es vom Aufenthalt in Ägypten sagt [[bible:Matt 2:15]]. Ein *angewandtes Zitat* liegt vor, wo der Text die Worte zitiert und anwendet, ohne zu sagen, dass sie erfüllt sind. Eine *spätere Lesart* ist eine, die nicht das Neue Testament herstellt, sondern ein späterer Autor. Die Kennzeichnung beschreibt, was der spätere Text tut. Sie ist kein Urteil darüber, ob der frühere Text das Ereignis vorhergesagt hat. Dazu berichtet jeder Eintrag, wie die Stelle in ihrem eigenen Zusammenhang zu lesen ist und, wo ein Dokument erhalten ist, wie andere sie gelesen haben: siehe [[quotation:isa-7-14-in-matt-1-22]].
+
+Ein Zitat wird nur verzeichnet, wo sich die zitierten Worte oder die meisten von ihnen finden lassen. Stellen, an denen ein Evangelium sagt, die Schrift sei erfüllt, und keine solchen Worte anführt, fehlen deshalb: „Er soll Nazarenus heißen“, was Matthäus „den Propheten“ zuschreibt, ohne einen zu nennen, und wofür die Verfasser dieser Einträge keine Stelle mit diesen Worten gefunden haben [[bible:Matt 2:23]]; ferner Aussagen bei Matthäus, Markus und Johannes, die keine Worte der Schrift zitieren [[bible:Matt 26:54, 56]] [[bible:Mark 14:49]] [[bible:John 17:12]] [[bible:John 19:28]]. Anspielungen werden nicht verzeichnet, ebenso wenig die Entsprechungen, die spätere Leser zwischen Personen und Einrichtungen der beiden Testamente gesehen haben.
+
+Die Worte beider Stellen stehen in den englischen Einträgen so, wie die World English Bible sie hat. Wo diese Übersetzung und die, zu der die Verweise führen, in der Sache voneinander abweichen, fehlen die Worte ganz oder in der betreffenden Zeile, und der Eintrag sagt, welche was liest.
+
+Bisher enthält die Seite die Zitate, die Matthäus und Johannes dort anführen, wo sie sagen, die Schrift sei erfüllt. Ihre übrigen Zitate und die im übrigen Neuen Testament kommen noch hinzu.
 
 ## [bible] Bibelstellen
 

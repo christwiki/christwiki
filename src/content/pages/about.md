@@ -38,6 +38,18 @@ Each event page lists the earlier events it grows out of and the later ones it l
 
 Choosing which moments count as "core" is itself a judgement. The selection aims to cover the Old and New Testaments, and then the Latin West, the Greek and Slavic East, the churches of Africa and Asia that lay outside the Roman empire, and the churches of the Reformation and of the modern global South.
 
+## [quotations] The Old Testament in the New
+
+The New Testament quotes the Scriptures of Israel again and again, and says of many passages that they are fulfilled in Jesus and in what happened around him. The site does not count prophecies. Under Quotations it records something narrower that a reader can check: that a New Testament text quotes a passage, what it says about it, and how the passage reads where it first stands. At present there are {quotations} such entries.
+
+Each quotation has one of three labels. A *stated fulfilment* is one where the New Testament text itself says that this happened to fulfil the Scripture, as Matthew does of the stay in Egypt [[bible:Matt 2:15]]. An *applied quotation* is one where the text quotes the words and applies them without saying that they are fulfilled. A *later reading* is one that the New Testament does not make and a later writer does. The label describes what the later text does. It is not a verdict on whether the earlier text foretold the event. On that, each entry reports how the passage reads in its own setting and, where a document survives, how others have read it: see [[quotation:isa-7-14-in-matt-1-22]].
+
+A quotation is recorded only where the words quoted, or most of them, can be found. Places where a Gospel says that Scripture is fulfilled and gives no such words are therefore left out: "He will be called a Nazarene", which Matthew ascribes to "the prophets" without naming one, and for which the writers of these entries found no passage with those words [[bible:Matt 2:23]]; and sayings in Matthew, Mark and John that quote no words of Scripture [[bible:Matt 26:54, 56]] [[bible:Mark 14:49]] [[bible:John 17:12]] [[bible:John 19:28]]. Allusions are not recorded, nor are the patterns that later readers have seen between persons and institutions of the two Testaments.
+
+The words of both passages are given as the World English Bible has them. Where that translation and the one the links open differ in substance, the words are left out, in whole or for the line concerned, and the entry says which reads what.
+
+So far the page holds the quotations that Matthew and John give where they say that Scripture is fulfilled. Their other quotations, and those in the rest of the New Testament, are still to be added.
+
 ## [bible] Bible references
 
 Every reference is checked by the site's software: the book, chapter and verses must exist. References link to the passage in the New Revised Standard Version Updated Edition at BibleGateway, chosen because it is widely used across traditions and includes the deuterocanonical books. Where Scripture is quoted, the words are those of the World English Bible, which is in the public domain. Other quotations come only from public-domain translations; everything else is put in the site's own words.

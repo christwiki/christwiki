@@ -257,6 +257,72 @@ Regions: `levant` (the Levant and Arabia), `egypt`, `mesopotamia-and-persia`, `a
 
 Take coordinates of ancient places from Pleiades (`pleiades.stoa.org`) and of modern places from a standard gazetteer. Set `location` honestly: `traditional` for a site fixed by later tradition (Mount Sinai), `disputed` where scholars disagree, `approximate` for a region or an unlocated site placed in its general area.
 
+## Quotations
+
+File: `src/content/quotations/<id>.md`. A quotation records that a New Testament text quotes a passage of the Old Testament, what it says about it, and how the passage reads where it first stands. Read three finished ones before writing one:
+
+- `hos-11-1-in-matt-2-15.md` — the plain case
+- `isa-7-14-in-matt-1-22.md` — the translations differ, so the earlier words are not given; a disputed reading with a document for each side
+- `zech-11-12-in-matt-27-9.md` — the New Testament names one prophet and the words stand in another
+
+The site does not count prophecies and does not say in its own voice that a passage foretold or did not foretell anything. It reports what each text says.
+
+```yaml
+---
+title: "Out of Egypt I called my son"   # the words as the New Testament passage has them, in the World English Bible
+summary: "At most 280 characters: what the later text says is fulfilled, and what the words are about where they first stand."
+kind: stated                  # stated | applied | later
+earlier:
+  bible: "Hos 11:1"           # the passage quoted
+  event: amos-and-hosea       # the event it belongs to, if the timeline has one
+  text: |                     # its words, from the World English Bible
+    When Israel was a child, then I loved him,
+    and called my son out of Egypt.
+later:
+  bible: "Matt 2:15"          # the passage that quotes it, from the words that introduce the quotation to its end
+  event: birth-of-jesus
+  text: |
+    and was there until the death of Herod; …
+citations: {}                 # as in events
+---
+
+The note: two to four short paragraphs.
+```
+
+The id names the verse in which each passage begins, and for the later passage the verse that introduces the quotation: `<book>-<chapter>-<verse>-in-<book>-<chapter>-<verse>`. Do not set `reviewed`.
+
+### The three kinds
+
+| Value | Use when |
+|---|---|
+| `stated` | The New Testament text itself says that Scripture, or a prophet's word, is fulfilled, and quotes the words. Where one sentence that says "fulfilled" governs two quotations (John 19:36–37), the second is `stated` too, and its later passage includes the verse with that word. |
+| `applied` | The text quotes the words and applies them to Jesus, or to those around him, without saying that they are fulfilled: "as it is written", "this is he who was spoken of". A quotation that follows a stated one with an introduction of its own, without that word, is `applied` (John 12:39–40). |
+| `later` | The New Testament does not make the link. A named later writer quotes the words and reads them of Jesus. The later passage is then a `cite:` key, not a Bible reference. |
+
+A quotation is recorded only where the words quoted can be found. Where a Gospel says that Scripture is fulfilled and quotes no words that can be identified (Matthew 2:23; 26:54, 56; Mark 14:49; John 17:12; 19:28), there is no entry. Allusions and typology are not recorded.
+
+### The words of the passages
+
+- Take `text` from the World English Bible exactly, with its line breaks. Never type it from memory: fetch the chapter from `bible-api.com` and copy. The text at ebible.org has since been revised in small ways ("tunic" for "coat" at John 19:23); the text served by `bible-api.com` is the one the site quotes.
+- Compare both passages with the NRSVUE, which the links open, down to its verse numbers. **Where the two differ in substance, leave `text` out** and say in the note which reads what: Isaiah 7:14 ("the virgin", "the young woman"), Zechariah 11:13 ("to the potter", "into the treasury"), Zechariah 12:10 ("me", "the one"). Where they differ in one line only, that line may be left out and marked with "…" (Isaiah 53:1). Where they differ in wording and not in substance, keep `text` and name the difference (John 13:18, "bread with me", "my bread"). A sentence of the note must hold in both translations, or say which it follows.
+- Where the New Testament does not say which of several passages it means, give them all in `earlier.bible` (`"Exod 12:46; Ps 34:20"`) and say in the note that it does not say.
+
+### The note
+
+Say, in this order and each with its citation:
+
+1. What the later text tells and what it says of the Scripture: whether it names the prophet, who speaks the words, how the quotation is introduced.
+2. How the words read where they first stand: who is spoken of, what comes directly before and after.
+3. Where the wording of the quotation differs from the passage, and whether it agrees with the ancient Greek translation (`septuagint`, linked to the chapter at ebible.org; its psalms are numbered one lower).
+4. How others have read the passage, where a primary document says so: Trypho in Justin's *Dialogue*, the Jewish teachers whom Origen reports, another New Testament writer who uses the same verse.
+
+The mistakes listed above apply here in full. Four come up more often with quotations than elsewhere:
+
+- **The quoted author asserted.** Matthew says "Isaiah the prophet" of a passage from Isaiah 40–55 and "Jeremiah" of words that stand in Zechariah. Report it as what Matthew says. In the site's own voice write "Isaiah 53", "the book of Zechariah", "a psalm headed with David's name", and do not link the person for chapters whose authorship is disputed.
+- **"No passage has these words."** That is a sweeping negative. Say where the words that can be found stand.
+- **"Matthew follows the Hebrew."** Say what can be checked on the page: that his wording is not that of the Greek translation, and agrees with the Hebrew text as modern translations render it.
+- **A verdict in the summary.** "Wrongly applied", "clearly foretold", "out of context" are all verdicts. Describe the two passages and stop.
+
 ## Checking your work
 
 ```bash

@@ -59,4 +59,31 @@ export const de: MessageOverrides = {
   map: {
     description: 'Wo sich die Ereignisse des Zeitstrahls zutrugen. Schritt für Schritt durch die Epochen wandert die Geschichte vom Nahen Osten in alle Welt.',
   },
+  quotations: {
+    title: 'Wie das Neue Testament das Alte liest',
+    description:
+      'Wo das Neue Testament die Schriften Israels zitiert und sagt, dass sie erfüllt sind: beide Stellen nebeneinander, und wie die früheren Worte in ihrem eigenen Zusammenhang zu lesen sind.',
+    lead: {
+      one: '{count} Stelle, an der ein Evangelium die Schriften Israels zitiert und sagt, dass sie erfüllt sind. Der Eintrag stellt beide Stellen nebeneinander und sagt, wie die früheren Worte in ihrem eigenen Zusammenhang zu lesen sind.',
+      other:
+        '{count} Zitate aus den Schriften Israels bei Matthäus und Johannes, dort angeführt, wo das Evangelium sagt, die Schrift sei erfüllt. Jede Linie verbindet zwei Stellen; jeder Eintrag stellt sie nebeneinander und sagt, wie die früheren Worte in ihrem eigenen Zusammenhang zu lesen sind. Das übrige Neue Testament kommt noch hinzu.',
+    },
+    earlier: 'Altes Testament',
+    later: 'Neues Testament',
+    method: 'Was hier verzeichnet ist und was nicht',
+  },
+  quotationKind: {
+    stated: {
+      label: 'Ausdrückliche Erfüllung',
+      description: 'Der neutestamentliche Text sagt selbst, dass dies geschah, um die Schrift zu erfüllen, und zitiert sie.',
+    },
+    applied: {
+      label: 'Angewandtes Zitat',
+      description: 'Der neutestamentliche Text zitiert die Worte und wendet sie an, ohne zu sagen, dass sie erfüllt sind.',
+    },
+    later: {
+      label: 'Spätere Lesart',
+      description: 'Das Neue Testament stellt die Verbindung nicht her. Ein späterer christlicher Autor zitiert die Worte und liest sie in diesem Sinn.',
+    },
+  },
 };
