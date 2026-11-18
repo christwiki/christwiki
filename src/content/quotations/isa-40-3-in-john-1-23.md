@@ -20,4 +20,4 @@ In John, priests and Levites are sent from [[place:jerusalem]] to ask [[person:j
 
 His quotation has one command, "Make straight the way of the Lord". The other three Gospels have two, to make the way ready and to make the paths straight [[bible:John 1:23; Matt 3:3; Mark 1:3; Luke 3:4]].
 
-In John he says that he is not Elijah. In Matthew, [[person:jesus]] says of him that he is Elijah who is to come [[bible:John 1:21; Matt 11:14]]. The passage in Isaiah is described under [[quotation:isa-40-3-in-matt-3-3]].
+In John he says that he is not Elijah. In Matthew, [[person:jesus]] says that John, if they are willing to receive it, is Elijah who is to come [[bible:John 1:21; Matt 11:13-14]]. The passage in Isaiah is described under [[quotation:isa-40-3-in-matt-3-3]].

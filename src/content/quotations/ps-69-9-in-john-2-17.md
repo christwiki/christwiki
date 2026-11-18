@@ -1,6 +1,6 @@
 ---
 title: "Zeal for your house will eat me up"
-summary: "John tells that when Jesus drove the traders out of the temple his disciples remembered that it was written: zeal for your house will eat me up. The line is from Psalm 69, where the speaker says that zeal for God's house consumes him and that the insults aimed at God fall on him."
+summary: "John tells how Jesus drove the traders out of the temple, and says that his disciples remembered that it was written: zeal for your house will eat me up. The line is from Psalm 69, where the speaker is consumed by zeal for God's house and the insults aimed at God fall on him."
 kind: applied
 earlier:
   bible: "Ps 69:9"
@@ -23,4 +23,4 @@ John tells that at a Passover [[person:jesus]] went up to [[place:jerusalem]], f
 
 In the psalm the speaker is sinking in deep waters, hated without a cause, a stranger to his own brothers. Zeal for God's house consumes him, and the reproaches of those who reproach God fall on him [[bible:Ps 69:1-4, 8-9]]. There the zeal is present or past: it "consumes" in the World English Bible, and has consumed in the New Revised Standard Version Updated Edition, to which the links here lead, and in the ancient Greek translation [[bible:Ps 69:9]] [[cite:lxx]]. In John it "will" [[bible:John 2:17]].
 
-John uses the same psalm in another place: [[quotation:ps-35-19-in-john-15-25]]. [[person:paul]] applies the second half of the verse to Christ in Romans [[bible:Rom 15:3]]. The other three Gospels tell of the clearing of the temple with other words of Scripture: [[quotation:isa-56-7-in-matt-21-13]].
+Words that John quotes in another place stand in this psalm and in Psalm 35 [[bible:John 15:25; Ps 69:4; 35:19]]: see [[quotation:ps-35-19-in-john-15-25]]. [[person:paul]] applies the second half of the verse to Christ in Romans [[bible:Rom 15:3; Ps 69:9]]. The other three Gospels tell of the clearing of the temple with other words of Scripture: [[quotation:isa-56-7-in-matt-21-13]].

@@ -38,6 +38,6 @@ citations:
 
 Luke dates the coming of the word of God to [[person:john-the-baptist|John]] in the wilderness, tells that he went through the region around the Jordan preaching a baptism of repentance, and adds: "As it is written in the book of the words of Isaiah the prophet" [[bible:Luke 3:1-4]]. His quotation is three verses long. Matthew, Mark and John quote the one verse about the voice [[bible:Luke 3:4-6; Matt 3:3; Mark 1:3; John 1:23]].
 
-The added verses are the filling of valleys and the lowering of hills, and the promise of what all flesh will see [[bible:Isa 40:4-5]]. What all flesh sees differs between the versions. In the Hebrew text, as modern translations render it, the glory of the Lord is revealed and all flesh sees it. In the ancient Greek translation all flesh sees "the salvation of God" [[bible:Isa 40:5]] [[cite:lxx]]. Luke's quotation ends with the salvation of God and does not have the line about the glory [[bible:Luke 3:6]].
+The added verses speak of valleys and hills made level, and of what all flesh will see [[bible:Luke 3:5-6; Isa 40:4-5]]. What all flesh sees differs between the versions. In the Hebrew text, as modern translations render it, the glory of the Lord is revealed and all flesh sees it. In the ancient Greek translation all flesh sees "the salvation of God" [[bible:Isa 40:5]] [[cite:lxx]]. Luke's quotation ends with the salvation of God and does not have the line about the glory [[bible:Luke 3:6]].
 
 The passage in its own setting is described under [[quotation:isa-40-3-in-matt-3-3]].

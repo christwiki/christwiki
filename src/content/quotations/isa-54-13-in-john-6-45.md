@@ -23,6 +23,6 @@ citations:
 
 In John, the Jews murmur because [[person:jesus]] has said that he is the bread that came down out of heaven, though they know his father and mother. He answers that no one can come to him unless the Father who sent him draws him. "It is written in the prophets, 'They will all be taught by God.'" So, he says, everyone who has heard and learned from the Father comes to him [[bible:John 6:41-45]].
 
-John has "in the prophets" and names none [[bible:John 6:45]]. The words stand in Isaiah 54, where the Lord speaks to one who is afflicted and storm-tossed: her foundations, gates and walls will be of precious stones, and all her children will be taught by the Lord and have great peace [[bible:Isa 54:11-13]].
+John has "in the prophets" and names none [[bible:John 6:45]]. The words stand in Isaiah 54, where the Lord speaks to one who is afflicted and storm-tossed, and promises foundations, gates and walls of precious stones. All the children of the one addressed will be taught by the Lord and will have great peace, or prosperity as the New Revised Standard Version Updated Edition has it [[bible:Isa 54:11-13]].
 
 In the ancient Greek translation the children are taught "of God", as in John [[cite:lxx]] [[bible:John 6:45]]. The Hebrew text, as modern translations render it, has the Lord's name [[bible:Isa 54:13]]. John's quotation has "all" without the words "your children" [[bible:John 6:45; Isa 54:13]].
