@@ -136,6 +136,26 @@ Each row is set out in full, with its evidence, in the findings file of its batc
 | `sources/lepsius-deutschland-und-armenien` | The printed texts are presented as the diplomats' papers. Comparison with the Foreign Office originals (Gust, 2000 and 2005) found many documents abridged or altered. | Open. |
 | `sources/du-plessis-the-spirit-bade-me-go` | "First published 1963" is the date of the scanned printing; catalogues list 1960 and 1961. Medium confidence. | Open. |
 
+## Follow-up of 18 November 2026: the severity-B findings
+
+Each severity-B finding was taken up again, this time by opening the primary source or the cited edition before anything was changed. The tables above show the state on 17 November; this section records what followed. The numbers are the tickets in the repository.
+
+**Corrected** (23): the Mesha stele (#8), the crucifixion dating note (#9), 1 Clement (#10), Pliny and Trajan (#11), Columba (#12), the Third Council of Constantinople (#14), the Western Schism and Clement VII (#15), the Luther Bible (#17), Francis Xavier (#18), *Zelo domus Dei* (#19), the Uganda martyrs (#21), Wyszyński (#24), Medellín (#26), the martyrs of Libya (#27), Theodosius I (#28), Boniface VIII (#29), Ansgar and Hamburg (#31), Julian's letter to Arsacius (#32), the Hutterite Chronicle (#35), Bradford (#37), Lepsius (#38), du Plessis (#39) and Yi Byeok (#30).
+
+**Corrected in part** (9), with what is still open:
+
+- **Pelagian controversy (#13).** Zosimus's two letters of 417 now carry the account. His circular is undated in every source opened, so its place after the council of 1 May 418 is given as Augustine's report.
+- **Hesychast controversy (#16).** The synod against Akindynos, the deposition of Patriarch John and the tome of February 1347 are added. The condemnation and imprisonment of Palamas in 1344 are not in the tome of 1351, and no source for them was opened.
+- **Japan's ban of 1614 (#20).** The fifteen "rules" are no longer told as fact. The drafting by Sūden is named. The day is given as Satow's; the scholarship that could be confirmed converts the Japanese date to 31 January, not 1 February.
+- **Simon Kimbangu (#22).** The entry had reported the Kimbanguist article correctly: the exchange of the two days is in the article itself. 12 October 1951 is added from another report.
+- **Three-Self Movement (#23).** Both dates for the conference of 1954 are given. The passages in the collection of 1963 were read through a text search of a lending-only scan; the pages need checking by hand.
+- **Humanae vitae (#25).** The commission's report and its publication in 1967 are added, without numbers of votes.
+- **Henry IV's letters (#33).** Two undated letters survive, and the one translated is the longer. That it was a manifesto for circulation in Germany could not be confirmed and is not said.
+- **Albert of Aachen (#34).** Krey's dating is given as Krey's, with Edgington's earlier dating and a later one argued in 2025. "Soon after 1102" could not be confirmed in those words.
+- **Moscow patriarchate (#36).** The charter was brought to Moscow in June 1591. The council of 1593 is named only in the dating note, because its act could not be opened.
+
+Two things the second look showed about the findings themselves. In three cases the source did not say what the finding expected (the tome of 1351 on Palamas, the Japanese date, the Kimbanguist article), and the entry was changed only as far as the source went. And several corrections turned on a document the first pass had not opened: Wyszyński's own notes, Zosimus's letters, the first Life of Clement VII, the Weimar edition of Luther's Bible.
+
 ## Recurring patterns
 
 These account for most of the 388 minor findings. Each pattern is worth a pass of its own over the whole wiki, because the reviewers will not have caught every instance.

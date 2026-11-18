@@ -46,12 +46,15 @@ citations:
     source: kimbanguist-church-83-years
     at: "sections 1.2–1.3"
     url: https://web.archive.org/web/20041216081758/http://www.kimbanguisme.net:80/bibliotheque/analyses/83ansDuKisme.htm
+  acp:
+    source: acp-commemoration-of-kimbangu-at-nkamba-2022
+    at: "first paragraph and 'Brève biographie du prophète Simon Kimbangu'"
   wcc:
     source: wcc-central-committee-june-2021
     at: "New members and specialized ministries"
     url: https://www.oikoumene.org/news/wcc-shares-overview-of-june-central-committee-meeting-2021
 dating: |
-  The year is fixed by Lerrigo's report, written after a visit in August 1921 [[cite:lerrigo-270]]. The days are less secure. A Kimbanguist account published in 2004 gives 6 April 1921 as the day on which Kimbanguism was born, the day on which it says Kimbangu healed a woman named Nkiantondo [[cite:church]]; Lerrigo says the movement began in May [[cite:lerrigo-270]]. Chomé puts the arrest on 15 September and the judgment on 3 October 1921 [[cite:chome]]; the Kimbanguist account gives 12 September and 12 October [[cite:church-12]]. For Kimbangu's death Chomé gives 10 October 1951 and the Kimbanguist account 3 October 1951 [[cite:chome]] [[cite:church-12]].
+  The year is fixed by Lerrigo's report, written after a visit in August 1921 [[cite:lerrigo-270]]. The days are less secure. A Kimbanguist account published in 2004 gives 6 April 1921 as the day on which Kimbanguism was born, the day on which it says Kimbangu healed a woman named Nkiantondo [[cite:church]]; Lerrigo says the movement began in May [[cite:lerrigo-270]]. Chomé puts the arrest on 15 September and the judgment on 3 October 1921 [[cite:chome]]; the Kimbanguist account gives 12 September and 12 October [[cite:church-12]]. For Kimbangu's death Chomé gives 10 October 1951 and the Kimbanguist account 3 October 1951 [[cite:chome]] [[cite:church-12]]. The Congolese state news agency reported that members of the Kimbanguist Church met at Nkamba on 12 October 2022 to keep the seventy-first anniversary of his death; its report gives 12 September 1921 for the arrest, 3 October 1921 for the sentence, the day Chomé gives, and 12 October 1951 for the death [[cite:acp]]. The Kimbanguist account's two October days are these with the years exchanged.
 ---
 
 [[person:simon-kimbangu]] belonged to the Baptist church at Wathen, a station of the English Baptist mission in the Lower Congo [[cite:lerrigo-270]]; a Kimbanguist account of 2004 calls him a former catechist of that mission [[cite:church]]. The story of his call, as the American mission secretary P. H. J. Lerrigo heard it in 1921 from a man who had it from Kimbangu, is that a stranger came to him in dreams, gave him a Bible and told him to preach and to heal, and that he refused more than once [[cite:lerrigo-270]]. At last he was told that his soul would be required of him if he did not go to a sick child in a nearby village; he went, prayed, laid his hands on the child and shook violently, and the child recovered [[cite:lerrigo-270]].

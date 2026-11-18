@@ -7,7 +7,7 @@ written:
   start: 2004
 language: French
 url: https://web.archive.org/web/20041216081758/http://www.kimbanguisme.net:80/bibliotheque/analyses/83ansDuKisme.htm
-edition: "Article published in 2004 on kimbanguisme.net, a website run by Kimbanguists. The site is no longer online; the link is the copy kept by the Internet Archive. Paraphrased from the French."
+edition: "Article published in 2004 on kimbanguisme.net, a website run by Kimbanguists. The site is no longer online at its first address; the link is the copy kept by the Internet Archive. In November 2026 the article could also be read, under the title \"Année 2004, « Le Kimbanguisme a quatre vingt-trois ans. Rappel appel » !\", in the site's own archive at archives.kimbanguisme.net/bibliotheque/docs/docs/art_200403xx_bnf.htm, which is served over plain http only. Paraphrased from the French."
 summary: A Kimbanguist writer's account of the origins of the church, published on a Kimbanguist website for the eighty-third anniversary of Kimbangu's ministry. It is cited as a Kimbanguist telling of the events of 1921, not as an official statement of the church.
 ---
 
