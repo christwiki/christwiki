@@ -6,7 +6,7 @@ An audit of every entry of the wiki for historical validity, scriptural validity
 
 - **All 2,283 content entries were read in full**: 361 events, 631 people, 254 places and 1,037 source records.
 - **435 findings in 396 entries.** 1,887 entries (83%) have nothing to report.
-- **4 factual errors** (severity A), **43 misleading, unsupported or inconsistent statements** (B) and **388 minor imprecisions or omissions** (C).
+- **4 factual errors reported** (severity A), **43 misleading, unsupported or inconsistent statements** (B) and **388 minor imprecisions or omissions** (C). One of the four was withdrawn on 18 November 2026, when its source was opened: see the row on Ezana's inscription below.
 - More than half of all findings (211) are omissions, not mistakes: an entry that stops before the outcome, or leaves out a party, a competing reading or a key piece of evidence.
 - No map pin is on the wrong place. No Bible citation was found pointing at the wrong passage: the Scripture findings concern a detail credited to the wrong one of two parallel accounts, a range a verse or two short, or the wording of a quotation. Regnal dates, council dates and the arithmetic of the dating notes held up almost everywhere.
 - The most common cause of a real error is **a source's own slip repeated in the wiki's voice**: the entry reports its cited source accurately, but the source (a chronicler, a nineteenth-century editor, a web profile) is wrong and the entry does not say so.
@@ -83,10 +83,10 @@ Each row is set out in full, with its evidence, in the findings file of its batc
 
 | Entry | Problem | Status |
 |---|---|---|
-| `events/reformation/marian-persecutions`, `people/reginald-pole` | Cardinal Pole is said to have died "within days of" Mary I. He died on the same day, 17 November 1558, about twelve hours after her. The entries follow Machyn's diary, which enters his death under the 19th. | Wording now attributed to Machyn. Open: state 17 November with a source. |
+| `events/reformation/marian-persecutions`, `people/reginald-pole` | Cardinal Pole is said to have died "within days of" Mary I. He died on the same day, 17 November 1558, about twelve hours after her. The entries follow Machyn's diary, which enters his death under the 19th. | Corrected on 18 November 2026 from the letter of Alvise Priuli, who was with him (Calendar of State Papers, Venice, vol. 6, no. 1286). |
 | `sources/orosius-history-against-the-pagans` | Says Orosius closes his history in "the 1,168th year of Rome". That figure opens the last chapter (7.43.1, events of AD 414–415); the close (7.43.19) counts 5,618 years from the Creation. Confirmed against the cited translation. | Corrected. |
-| `sources/antioch-holy-synod-statement-6-june-2016` | "It ends with three unanimous decisions." The statement has five numbered decisions. Confirmed against the published text. The record's own `url` now returns "Page not found". | Count corrected. Open: replace the dead link. |
-| `sources/ezana-inscription-rie-271` | "Found at Aksum about 1959." The Trinitarian Greek inscription was found in 1969 and first published in 1970 (Anfray, Caquot and Nautin, *Journal des Savants*). Medium confidence: the database record the entry cites could not be opened. | Open. |
+| `sources/antioch-holy-synod-statement-6-june-2016` | "It ends with three unanimous decisions." The statement has five numbered decisions. Confirmed against the published text. The record's own `url` returned "Page not found". | Count corrected. Link replaced on 18 November 2026 with the Arabic text on the patriarchate's present site, which is the binding one. |
+| `sources/ezana-inscription-rie-271` | Reported as an error: "found at Aksum about 1959", where reference works say the inscription was discovered in 1969. | **Withdrawn.** The first publication (Anfray, Caquot and Nautin, *Journal des Savants* 1970, pp. 261–262) says that a townsman found the stelae by chance some ten years before and kept them secret, and that they were shown to archaeologists on 29 May 1969. "About 1959" for the find is right; 1969 is when scholars learned of it. The record now tells both. |
 
 ### Severity B: events
 
