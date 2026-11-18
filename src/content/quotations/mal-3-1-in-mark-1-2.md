@@ -16,7 +16,7 @@ later:
     who will prepare your way …
 ---
 
-Mark begins, "The beginning of the Good News of Jesus Christ", and goes straight to a quotation. Two passages follow one another under one introduction: the messenger sent ahead, and the voice in the wilderness. After them Mark writes that [[person:john-the-baptist|John]] came baptizing in the wilderness [[bible:Mark 1:1-4]]. The second passage has its own entry: [[quotation:isa-40-3-in-mark-1-2]].
+Mark begins, "The beginning of the Good News of Jesus Christ", and goes straight to a quotation. Two passages follow one another under one introduction: the messenger sent ahead, and the voice in the wilderness. After them Mark tells of [[person:john-the-baptist|John]] in the wilderness, preaching a baptism of repentance [[bible:Mark 1:1-4]]. The second passage has its own entry: [[quotation:isa-40-3-in-mark-1-2]].
 
 The translations differ on the introduction, which is left out of the words given above. The World English Bible has "As it is written in the prophets". The New Revised Standard Version Updated Edition, to which the links here lead, names Isaiah, and has the messenger prepare "your way" without the further "before you", which is also left out above [[bible:Mark 1:2]].
 

@@ -18,7 +18,7 @@ later:
     so that you don't dash your foot against a stone.'"
 ---
 
-In Matthew's account of the testing in the wilderness, the devil takes [[person:jesus]] to the holy city, sets him on the pinnacle of the temple and says: "If you are the Son of God, throw yourself down, for it is written", and quotes words from two verses of a psalm [[bible:Matt 4:1, 5-6]]. Here it is the tempter who quotes Scripture. Jesus answers, "Again, it is written", with the command not to test the Lord [[bible:Matt 4:7; Deut 6:16]].
+In Matthew's account of the testing in the wilderness, the devil takes [[person:jesus]] to the holy city, sets him on the pinnacle of the temple and says: "If you are the Son of God, throw yourself down, for it is written", and quotes words from two verses of a psalm [[bible:Matt 4:1, 5-6; Ps 91:11-12]]. Here it is the tempter who quotes Scripture. Jesus answers, "Again, it is written", with the command not to test the Lord [[bible:Matt 4:7; Deut 6:16]].
 
 The psalm speaks to one who has made the Lord his refuge and the Most High his dwelling place. No evil will happen to him; angels will guard him in all his ways and bear him up on their hands; he will tread on lion and serpent [[bible:Ps 91:9-13]].
 
