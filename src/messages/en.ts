@@ -62,11 +62,11 @@ export const en: MessageOverrides = {
   quotations: {
     title: 'How the New Testament reads the Old',
     description:
-      'Where the New Testament quotes the Scriptures of Israel and says that they are fulfilled: the two passages side by side, and how the earlier words read in their own setting.',
+      'Where the New Testament quotes the Scriptures of Israel, says that they are fulfilled or applies them to Jesus: the two passages side by side, and how the earlier words read in their own setting.',
     lead: {
       one: '{count} place where a Gospel quotes the Scriptures of Israel and says that they are fulfilled. The entry sets the two passages side by side and says how the earlier words read in their own setting.',
       other:
-        '{count} quotations of the Scriptures of Israel in Matthew and John, given where the Gospel says that Scripture is fulfilled. Each line joins two passages; each entry sets them side by side and says how the earlier words read in their own setting. The rest of the New Testament is still to be added.',
+        '{count} quotations of the Scriptures of Israel in the four Gospels: those given where a Gospel says that Scripture is fulfilled, and those it applies to Jesus and the people around him. Each line joins two passages; each entry sets them side by side and says how the earlier words read in their own setting. Acts and the letters are still to be added.',
     },
     earlier: 'Old Testament',
     later: 'New Testament',

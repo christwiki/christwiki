@@ -299,7 +299,19 @@ The id names the verse in which each passage begins, and for the later passage t
 | `applied` | The text quotes the words and applies them to Jesus, or to those around him, without saying that they are fulfilled: "as it is written", "this is he who was spoken of". A quotation that follows a stated one with an introduction of its own, without that word, is `applied` (John 12:39–40). |
 | `later` | The New Testament does not make the link. A named later writer quotes the words and reads them of Jesus. The later passage is then a `cite:` key, not a Bible reference. |
 
-A quotation is recorded only where the words quoted can be found. Where a Gospel says that Scripture is fulfilled and quotes no words that can be identified (Matthew 2:23; 26:54, 56; Mark 14:49; John 17:12; 19:28), there is no entry. Allusions and typology are not recorded.
+### What is recorded
+
+An entry is made where a New Testament text introduces words as Scripture, or as the words of a prophet or of David ("it is written", "Isaiah said", "have you never read", "David himself says"), and applies them to Jesus, to John the Baptist, to the disciples, to his opponents or to what is happening. Who speaks does not matter: the chief priests quote Micah to Herod, the crowd quotes the manna to Jesus, and the devil quotes Psalm 91. Each of those is an entry.
+
+Each place where a passage is quoted gets its own entry, so a saying told in three Gospels has three. Write the passage's own setting once, in the entry for the Gospel that comes first, and let the others say what is particular to them and link to it.
+
+Three kinds of quotation are not recorded:
+
+- **Scripture quoted as a rule of conduct**: the Decalogue, the two great commandments, the answers of Jesus to the tempter, "I desire mercy, and not sacrifice".
+- **Scripture quoted to settle a question of law or teaching**: the dispute about divorce (Genesis 1:27; 2:24), the argument about the resurrection from Exodus 3:6.
+- **Words of Scripture used without being introduced as Scripture**: the cry from the cross, the crowd's "Blessed is he who comes", the saying about seeing and not perceiving in Mark 4:12.
+
+A quotation is recorded only where the words quoted can be found. Where a Gospel says that Scripture is fulfilled, or has said something, and quotes no words that can be identified (Matthew 2:23; 26:54, 56; Mark 14:49; John 7:38; 17:12; 19:28), there is no entry. A verse that the linked translation does not have (Mark 15:28) gets no entry either. Allusions and typology are not recorded.
 
 ### The words of the passages
 

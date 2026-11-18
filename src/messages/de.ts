@@ -62,11 +62,11 @@ export const de: MessageOverrides = {
   quotations: {
     title: 'Wie das Neue Testament das Alte liest',
     description:
-      'Wo das Neue Testament die Schriften Israels zitiert und sagt, dass sie erfüllt sind: beide Stellen nebeneinander, und wie die früheren Worte in ihrem eigenen Zusammenhang zu lesen sind.',
+      'Wo das Neue Testament die Schriften Israels zitiert, sie erfüllt nennt oder auf Jesus anwendet: beide Stellen nebeneinander, und wie die früheren Worte in ihrem eigenen Zusammenhang zu lesen sind.',
     lead: {
       one: '{count} Stelle, an der ein Evangelium die Schriften Israels zitiert und sagt, dass sie erfüllt sind. Der Eintrag stellt beide Stellen nebeneinander und sagt, wie die früheren Worte in ihrem eigenen Zusammenhang zu lesen sind.',
       other:
-        '{count} Zitate aus den Schriften Israels bei Matthäus und Johannes, dort angeführt, wo das Evangelium sagt, die Schrift sei erfüllt. Jede Linie verbindet zwei Stellen; jeder Eintrag stellt sie nebeneinander und sagt, wie die früheren Worte in ihrem eigenen Zusammenhang zu lesen sind. Das übrige Neue Testament kommt noch hinzu.',
+        '{count} Zitate aus den Schriften Israels in den vier Evangelien: solche, die ein Evangelium dort anführt, wo es sagt, die Schrift sei erfüllt, und solche, die es auf Jesus und die Menschen um ihn anwendet. Jede Linie verbindet zwei Stellen; jeder Eintrag stellt sie nebeneinander und sagt, wie die früheren Worte in ihrem eigenen Zusammenhang zu lesen sind. Die Apostelgeschichte und die Briefe kommen noch hinzu.',
     },
     earlier: 'Altes Testament',
     later: 'Neues Testament',
