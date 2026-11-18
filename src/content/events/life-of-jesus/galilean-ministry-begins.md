@@ -6,7 +6,7 @@ reviewed: 2026-10-03
 date:
   start: 28
   circa: true
-  display: "c. AD 28–29"
+  display: "c. AD 28–31"
   confidence: estimated
 order: 30
 places:
@@ -25,7 +25,7 @@ threads:
 follows:
   - baptism-of-jesus
 dating: |
-  Mark and Matthew start the preaching in Galilee after John was imprisoned [[bible:Mark 1:14]] [[bible:Matt 4:12]], and Luke dates John's first appearance to the fifteenth year of Tiberius, AD 28–29 [[bible:Luke 3:1-2]]. That gives a beginning in about AD 28 or 29. Those who count Tiberius's years from an earlier point put it a year or two sooner; see the dating note of [[event:ministry-of-john-the-baptist]].
+  Mark and Matthew start the preaching in Galilee after John was imprisoned [[bible:Mark 1:14]] [[bible:Matt 4:12]], and Luke dates John's first appearance to the fifteenth year of Tiberius [[bible:Luke 3:1-2]], AD 28–29 by the usual count and a year or two earlier by others; see the dating note of [[event:ministry-of-john-the-baptist]]. The year depends on the year taken for the crucifixion. John's Gospel names three Passovers, the last being that of Jesus's death, and says that after the first John had not yet been imprisoned [[bible:John 2:13; 3:24; 6:4; 11:55]]. With a crucifixion in AD 30 the first of them is the Passover of AD 28, and the preaching in Galilee begins in that year, the one used here; this requires an earlier count of Tiberius's years. With the usual count and a crucifixion in AD 33 it begins between AD 29 and 31. See the dating note of [[event:crucifixion]].
 
   The Gospels do not agree on the order of what followed. Luke puts the visit to Nazareth first [[bible:Luke 4:16-30]]; Mark and Matthew tell of a rejection there at a later stage [[bible:Mark 6:1-6]] [[bible:Matt 13:54-58]]. John's Gospel has Jesus gather disciples, visit Cana and Capernaum, and work in Judea before John was put in prison [[bible:John 1:35-2:12; 3:22-24]]. The length of the whole ministry is also inferred. The first three Gospels mention one Passover during the ministry, the fourth mentions three [[bible:John 2:13; 6:4; 11:55]], which requires at least two years. The question is discussed in John P. Meier, *A Marginal Jew*, vol. 1 (1991), chapter 11, and Harold W. Hoehner, *Chronological Aspects of the Life of Christ* (1977), in the chapter on the duration of Christ's ministry.
 ---

@@ -63,6 +63,14 @@ citations:
     source: albert-of-aachen-history
     at: "on Emicho and the Jews of the Rhineland"
     url: https://sourcebooks.fordham.edu/source/1096jews.asp#emico
+  albert-krey:
+    source: albert-of-aachen-history
+    at: "in Krey, The First Crusade, introduction, p. 12"
+    url: https://archive.org/details/firstcrusadeacco00krey/page/12/mode/2up
+  albert-edgington:
+    source: albert-of-aachen-history
+    at: "in Edgington's translation, vol. 2 (2013), introduction, pp. 2–3"
+    url: https://api.pageplace.de/preview/DT0400.9781351870382_A29557969/preview-9781351870382_A29557969.pdf
   alexiad-preface:
     source: anna-komnene-alexiad
     at: "preface"
@@ -97,14 +105,16 @@ citations:
 dating: |
   Bernold, writing year by year, puts the synod of Piacenza in the middle of Lent 1095 [[cite:bernold-1095]]. Fulcher says that Urban held his council in Auvergne in November and that the first crusaders left in March 1096 [[cite:fulcher-date]]. The Gesta Francorum dates the capture of Jerusalem to Friday 15 July [[cite:gesta-after]], and Fulcher gives the year as 1099 [[cite:fulcher-capture]].
 
-  On the four versions of the sermon at Clermont, August C. Krey, *The First Crusade: The Accounts of Eye-Witnesses and Participants* (1921), judges that all were written several years afterwards, Fulcher's perhaps first, Robert's before 1107, Baldric's after 1107 and Guibert's between 1108 and 1112, and that Robert, Baldric and Guibert each reworked the Gesta Francorum. Krey also notes that Anna Komnene began her history about forty years after the crusaders had passed, and that Albert of Aachen's work was written at some point between 1120 and the middle of the century.
+  On the four versions of the sermon at Clermont, August C. Krey, *The First Crusade: The Accounts of Eye-Witnesses and Participants* (1921), judges that all were written several years afterwards, Fulcher's perhaps first, Robert's before 1107, Baldric's after 1107 and Guibert's between 1108 and 1112, and that Robert, Baldric and Guibert each reworked the Gesta Francorum. Krey also notes that Anna Komnene began her history about forty years after the crusaders had passed.
+
+  When Albert of Aachen wrote is disputed. Krey says that Albert by his own admission never visited the Holy Land and that his work had been dated between 1120 and the middle of the century [[cite:albert-krey]]. Susan B. Edgington, who edited the text (*Albert of Aachen: Historia Ierosolimitana*, Oxford Medieval Texts, 2007), argues from the prologue that its first six books, which hold the crusade and the Rhineland passage, were written soon after the events, and that the whole, which runs to 1119, is probably the work listed in a monastic library catalogue of 1128–30 [[cite:albert-edgington]]. Vedran Sulovsky, "A crusader in the twelfth-century imperial court chapel: identifying Albert of Aachen as Albert of Sponheim", *Crusades* 24 (2025), rejects the early date and puts all of the writing between 1119 and 1130. Both put the finished work no later than about 1130; they differ on whether Albert wrote of 1096 in the first decade of the twelfth century or a generation after the events.
 ---
 
 In Lent 1095, the chronicler Bernold of Constance records, envoys of the emperor of [[place:constantinople]] came to a synod that Pope [[person:urban-ii]] was holding at Piacenza and begged for help against the pagans, who had overrun the country up to the walls of the city. The pope urged many to promise on oath that they would go [[cite:bernold-1095]]. In November he held a council at [[place:clermont]] in Auvergne [[cite:fulcher-council]] [[cite:fulcher-date]].
 
 Four writers set down what Urban said there, each some years later, and they differ. Fulcher of Chartres has him ask for aid to the Christians of the East against the Turks and promise remission of sins to all who die on the way or in battle [[cite:fulcher-speech]]. Robert the Monk has him address the Franks, tell of outrages against Christians, name [[place:jerusalem]] and the Holy Sepulchre as the goal, and be answered with the shout "It is the will of God" [[cite:robert]]. Baldric of Dol has him shame the knights who prey on fellow Christians [[cite:baldric]]. Guibert of Nogent has him speak of Antichrist and the end of the age [[cite:guibert]]. Urban's own letter to Flanders, written within weeks, says that a barbaric fury had seized the churches of the East and the Holy City, and that he had enjoined an expedition to free those churches, for the remission of sins, under the bishop of Le Puy [[cite:urban-letter]].
 
-The first bands left in the spring of 1096 [[cite:fulcher-date]]. Albert of Aachen, writing some decades later, reports attacks on the Jews of Cologne and [[place:mainz]] as the bands gathered. At Mainz the men of Count Emicho stormed the bishop's hall, where the Jews had taken refuge, killed about seven hundred and carried off their goods. Albert ascribes it to greed and adds that God compels no one to the faith [[cite:albert]].
+The first bands left in the spring of 1096 [[cite:fulcher-date]]. Albert of Aachen, who by his own account never went to the Holy Land [[cite:albert-krey]] and whose date of writing is disputed (see the dating note), reports attacks on the Jews of Cologne and [[place:mainz]] as the bands gathered. At Mainz the men of Count Emicho stormed the bishop's hall, where the Jews had taken refuge, killed about seven hundred and carried off their goods. Albert ascribes it to greed and adds that God compels no one to the faith [[cite:albert]].
 
 Anna Komnene, who names herself the daughter of the emperor [[person:alexios-i-komnenos]] [[cite:alexiad-preface]], wrote the history of his reign. Her father, she says, dreaded the coming of the Franks. The simpler among them wished to worship at the Holy Sepulchre; men like Bohemond hoped to seize the capital itself [[cite:alexiad-5]]. Alexios made the leaders swear to hand over whatever towns they took that had belonged to the empire, and [[person:godfrey-of-bouillon]] swore only after a fight outside the walls [[cite:alexiad-9]].
 

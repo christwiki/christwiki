@@ -17,7 +17,7 @@ citations:
     at: "26 January 1589"
   synod:
     source: constantinople-synodal-charter-1590
-    at: "in Muravyov, under June 1590"
+    at: "in Muravyov, section on the coming of Metropolitan Dionysius of Tarnovo"
 ---
 
 Moscow, on the river of the same name, was the residence of the Russian tsars and of the metropolitans "of all Rus". The charter of 1589 calls it the "reigning city" and its cathedral of the Dormition of the Mother of God the seat of the wonder-working metropolitans Peter, Alexis and Jonah; it is there that [[person:job-of-moscow]] was installed as patriarch [[cite:charter]] [[cite:council]]. The council of Constantinople of 1590 placed the patriarch of Moscow after the patriarch of Jerusalem [[cite:synod]]. See [[event:moscow-patriarchate]].

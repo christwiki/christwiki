@@ -41,6 +41,18 @@ citations:
     source: dicastery-for-the-causes-of-saints-profiles
     at: "Stefan Wyszyński"
     url: https://www.causesanti.va/it/santi-e-beati/stefan-wyszynski.html
+  wyszynski-arrest:
+    source: wyszynski-pro-memoria
+    at: "entry for 25 September 1953, pp. 3–7"
+    url: https://ipn.gov.pl/download/1/1187010/ProMemoriat3.pdf#page=25
+  wyszynski-komancza:
+    source: wyszynski-pro-memoria
+    at: "entries for 28 and 29 October 1955, pp. 144–149"
+    url: https://ipn.gov.pl/download/1/1187010/ProMemoriat3.pdf#page=166
+  wyszynski-return:
+    source: wyszynski-pro-memoria
+    at: "entry for 26 October 1956, pp. 195–197"
+    url: https://ipn.gov.pl/download/1/1187010/ProMemoriat3.pdf#page=217
   rh-date:
     source: john-paul-ii-redemptor-hominis
     at: "22, dating clause"
@@ -66,7 +78,7 @@ citations:
 
 On 16 October 1978 the cardinals elected Karol Wojtyła, archbishop of Kraków, as pope, and on 22 October he began his ministry as [[person:john-paul-ii]] [[cite:life]]. In his homily that day in St Peter's Square in [[place:rome]] he called himself a bishop who was not a Roman, a son of Poland [[cite:inaug-3]]. He told his hearers not to be afraid and to open wide the doors for Christ: to open to his saving power the boundaries of states and economic and political systems [[cite:inaug-5]].
 
-His letter to the people of Poland is dated the next day. The church there, he wrote, had acquired a special significance for the whole church because of the system of relations in which it lived [[cite:letter-3]]. He told the cardinal primate that there would be no Polish pope on Peter's chair but for the primate's faith, which had not retreated before prison and suffering [[cite:letter-5]]. The primate was [[person:stefan-wyszynski]], archbishop of Gniezno and Warsaw, who under the communist government had been arrested on 24 September 1953 and held in isolation until 28 October 1956 [[cite:wyszynski]].
+His letter to the people of Poland is dated the next day. The church there, he wrote, had acquired a special significance for the whole church because of the system of relations in which it lived [[cite:letter-3]]. He told the cardinal primate that there would be no Polish pope on Peter's chair but for the primate's faith, which had not retreated before prison and suffering [[cite:letter-5]]. The primate was [[person:stefan-wyszynski]], archbishop of Gniezno and Warsaw [[cite:wyszynski]]. His own notes tell how officials of the communist government came to his house in Warsaw late on 25 September 1953 with a decision dated the day before, and drove him away after midnight [[cite:wyszynski-arrest]]. From 29 October 1955 he lived in a convent at Komańcza and was not allowed to leave the place [[cite:wyszynski-komancza]], and on 26 October 1956 two envoys of the new party leader came there to ask for his return to Warsaw [[cite:wyszynski-return]]. The Dicastery for the Causes of Saints gives 24 September 1953 for his arrest and 28 October 1956 for his release [[cite:wyszynski]].
 
 His encyclical *Redemptor Hominis*, dated 4 March 1979, in the first year of his pontificate [[cite:rh-date]], spoke of an atheism organised as a political system [[cite:rh-11]]. Appealing to the declaration on religious freedom of [[event:second-vatican-council|the Second Vatican Council]], it called the curtailment of religious freedom an attack on human dignity. It was hard to accept, he wrote, a position that gave only atheism the right of citizenship in public life while believers were barely tolerated or treated as second-class citizens [[cite:rh-17]].
 

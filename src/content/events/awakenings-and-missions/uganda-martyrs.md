@@ -1,10 +1,10 @@
 ---
 title: The Martyrs of Uganda
-summary: In 1885 and 1886 King Mwanga of Buganda has Christian converts killed, Anglicans and Catholics alike, many of them burned together in 1886, and an Anglican bishop put to death. Both churches honour them as martyrs.
+summary: Between 1885 and 1887 King Mwanga of Buganda has Christian converts killed, Anglicans and Catholics alike, many of them burned together in June 1886, and an Anglican bishop put to death. Both churches honour them as martyrs.
 era: awakenings-and-missions
 date:
   start: 1885
-  end: 1886
+  end: 1887
   confidence: firm
 order: 0
 reviewed: 2026-10-03
@@ -63,14 +63,23 @@ citations:
   canonized:
     source: paul-vi-homily-uganda-martyrs-1964
     at: "title and par. 7, 9"
+  span:
+    source: paul-vi-decretal-letter-uganda-martyrs-1964
+    at: "pp. 695–696"
+    url: https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf#page=695
+  muzeyi:
+    source: paul-vi-decretal-letter-uganda-martyrs-1964
+    at: "p. 699"
+    url: https://www.vatican.va/archive/aas/documents/AAS-57-1965-ocr.pdf#page=699
   anglican:
     source: church-of-england-calendar
     at: "3 June"
+    url: https://www.churchofengland.org/liturgy/common-worship/calendar-and-date-easter-and-other-variable-dates#text_5813_june
   francis:
     source: francis-homily-at-namugongo-2015
     at: "par. 2"
 dating: |
-  The deaths told here are dated by letters written in Buganda at the time, by the memoir of a missionary who was there, and by the record of the Catholic bishops of Uganda: 30 and 31 January 1885 [[cite:first-mackay]] [[cite:first-ashe]], October and November 1885 [[cite:hannington]] [[cite:mukasa]], and May and June 1886 [[cite:outbreak]] [[cite:lwanga]]. The Church of England's calendar gives the years of its Martyrs of Uganda as 1885–7 [[cite:anglican]]. None of the documents cited here records a death in 1887; Mackay wrote that in that year Christianity was still proscribed in the country [[cite:proscribed]]. The entry gives no total for the dead of either church, only the figures of the missionaries who were there.
+  The deaths told here are dated by letters written in Buganda at the time, by the memoir of a missionary who was there, and by the record of the Catholic bishops of Uganda: 30 and 31 January 1885 [[cite:first-mackay]] [[cite:first-ashe]], October and November 1885 [[cite:hannington]] [[cite:mukasa]], and May and June 1886 [[cite:outbreak]] [[cite:lwanga]]. The end of the period is fixed by the letter in which Paul VI decreed the canonization: it says that the last of the twenty-two, Jean-Marie Muzeyi, died on 27 January 1887 [[cite:muzeyi]] and that the whole persecution fell between 1885 and 1887 [[cite:span]]. The Church of England's calendar likewise gives the years of its Martyrs of Uganda as 1885–7, adding 1977 [[cite:anglican]]. Mackay wrote that in 1887 Christianity was still proscribed in the country [[cite:proscribed]]. The papal letter says that the number of those killed was not exactly recorded; it counts the twenty-two it canonizes, thirteen burned at Namugongo on 3 June 1886 and nine killed in other places, and says only that some Anglicans died with them [[cite:span]]. The entry gives no total for the Anglican dead, only the figures of the missionaries who were there.
 ---
 
 Anglican missionaries from Britain came to the kingdom of Buganda first, and the Catholic White Fathers followed two years later [[cite:missions]]. King Mutesa, who had received them, died in October 1884, and his son [[person:mwanga-ii]] succeeded him [[cite:accession]].
@@ -79,4 +88,4 @@ The first deaths came within months: the Anglican missionary Alexander Mackay wr
 
 In a letter of June 1886 Mackay reported that a violent persecution had broken out a month before: a Christian page had refused "to be made the victim of an unmentionable abomination", and the king had declared that the Christians learned disobedience from the white men and that he would kill them all [[cite:outbreak]]. About a dozen, he wrote, were hacked to pieces on the first day, and over thirty were killed by the bands sent out to seize them [[cite:outbreak]]. Ashe writes that the king killed several of the French priests' leading pupils, that the Anglican missionaries heard daily of the murder of one of their own converts, and that the blacksmith Walukaga and some thirty others were bound and burned on one great pyre [[cite:pyre]]. The Catholic bishops of Uganda record that [[person:charles-lwanga]], head of the pages, was burned at [[place:namugongo]] on 3 June 1886 [[cite:lwanga]].
 
-Paul VI canonized Lwanga, Matthias Mulumba Kalemba and twenty companions on 18 October 1964 [[cite:canonized]]. In his homily he said that Anglicans too had met death for the name of Christ, and that a long list could be drawn up of them [[cite:canonized]]. The Church of England keeps 3 June as the day of the Martyrs of Uganda, whom it dates to 1885–7 [[cite:anglican]]. Preaching at Namugongo in 2015, Pope Francis said that the deaths of the Anglican martyrs "testify to the ecumenism of blood" [[cite:francis]].
+Paul VI canonized Lwanga, Matthias Mulumba Kalemba and twenty companions on 18 October 1964 [[cite:canonized]]. The letter in which he decreed it says that thirteen of the twenty-two were burned at Namugongo on 3 June 1886 and that nine were killed in other places [[cite:span]]. The last of them, it says, was Jean-Marie Muzeyi, who would not hide, professed his faith before the king's chief minister, and was beheaded and thrown into a pool on 27 January 1887 [[cite:muzeyi]]. In his homily he said that Anglicans too had met death for the name of Christ, and that a long list could be drawn up of them [[cite:canonized]]. The Church of England keeps 3 June as the day of the Martyrs of Uganda, whom it dates to 1885–7 and 1977 [[cite:anglican]]. Preaching at Namugongo in 2015, Pope Francis said that the deaths of the Anglican martyrs "testify to the ecumenism of blood" [[cite:francis]].

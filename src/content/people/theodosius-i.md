@@ -11,6 +11,10 @@ citations:
     source: socrates-church-history
     at: "5.2"
     url: https://ccel.org/ccel/schaff/npnf202/npnf202.ii.viii.iii.html
+  accession-day:
+    source: consularia-constantinopolitana
+    at: "379 (p. 243)"
+    url: https://archive.org/details/chronicaminorasa09momm/page/243/mode/1up
   baptism:
     source: socrates-church-history
     at: "5.6"
@@ -45,6 +49,6 @@ citations:
     url: https://ccel.org/ccel/schaff/npnf202/npnf202.ii.ix.ii.html
 ---
 
-Theodosius came of a Spanish family and had made his name as a soldier when [[person:gratian]] proclaimed him emperor at Sirmium in January 379, on the 16th according to Socrates, and shared with him the war against the barbarians [[cite:accession]]. He was baptised at [[place:thessalonica]] during an illness by its bishop Ascholius [[cite:baptism]]. In February 380 he ordered all his subjects to hold the faith of the bishops of Rome and Alexandria [[cite:edict]] (see [[event:edict-of-thessalonica]]), and in 381 he summoned the eastern bishops to [[event:council-of-constantinople-i|a council at Constantinople]] [[cite:council]]. Later laws of his forbade sacrifice and the visiting of temples [[cite:sacrifice]].
+Theodosius came of a Spanish family and had made his name as a soldier when [[person:gratian]] proclaimed him emperor at Sirmium in January 379 and shared with him the war against the barbarians [[cite:accession]]. Socrates gives the day as the 16th [[cite:accession]]; the consular annals of Constantinople give the fourteenth day before the Kalends of February, which is the 19th [[cite:accession-day]]. He was baptised at [[place:thessalonica]] during an illness by its bishop Ascholius [[cite:baptism]]. In February 380 he ordered all his subjects to hold the faith of the bishops of Rome and Alexandria [[cite:edict]] (see [[event:edict-of-thessalonica]]), and in 381 he summoned the eastern bishops to [[event:council-of-constantinople-i|a council at Constantinople]] [[cite:council]]. Later laws of his forbade sacrifice and the visiting of temples [[cite:sacrifice]].
 
 After he ordered reprisals at Thessalonica that became a massacre, [[person:ambrose]] of Milan wrote that he could not celebrate the eucharist in his presence until he repented, and Theodosius did public penance [[cite:letter]] [[cite:penance]] (see [[event:ambrose-and-theodosius]]). He died at [[place:milan]] on 17 January 395, and his sons Arcadius and Honorius took the East and the West [[cite:death]] [[cite:sons]].

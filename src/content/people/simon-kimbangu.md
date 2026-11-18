@@ -20,8 +20,11 @@ citations:
     source: kimbanguist-church-83-years
     at: "section 1.1"
     url: https://web.archive.org/web/20041216081758/http://www.kimbanguisme.net:80/bibliotheque/analyses/83ansDuKisme.htm
+  acp:
+    source: acp-commemoration-of-kimbangu-at-nkamba-2022
+    at: "first paragraph and 'Brève biographie du prophète Simon Kimbangu'"
 ---
 
-Kimbangu was a member of the Baptist church at Wathen in the Lower Congo, and by his own account, as it reached the missionary P. H. J. Lerrigo in 1921, he began to heal and preach after repeated visions that he had at first resisted [[cite:lerrigo-270]]. A court-martial condemned him to death that year, and King Albert reprieved him [[cite:lerrigo-276]]. Jules Chomé's entry in the Belgian academy's biographical dictionary gives his birth as 24 September 1889, with a question mark, and his death in the prison at Elisabethville as 10 October 1951 [[cite:chome]]; the day of his death is given differently in the Kimbanguist account cited below (see [[event:simon-kimbangu]]).
+Kimbangu was a member of the Baptist church at Wathen in the Lower Congo, and by his own account, as it reached the missionary P. H. J. Lerrigo in 1921, he began to heal and preach after repeated visions that he had at first resisted [[cite:lerrigo-270]]. A court-martial condemned him to death that year, and King Albert reprieved him [[cite:lerrigo-276]]. Jules Chomé's entry in the Belgian academy's biographical dictionary gives his birth as 24 September 1889, with a question mark, and his death in the prison at Elisabethville as 10 October 1951 [[cite:chome]]. The Congolese state news agency, reporting the Kimbanguist Church's gathering at Nkamba in October 2022 for the seventy-first anniversary of his death, gives 12 September 1887 for his birth and 12 October 1951 for his death [[cite:acp]]; the Kimbanguist account cited below gives a third day for the death (see [[event:simon-kimbangu]]).
 
 A Kimbanguist account published in 2004 calls him *ntumwa*, the envoy of Jesus Christ, and says that he did not claim to be Christ's equal: asked by his judge whether he was the saviour, he is said to have answered that Jesus Christ is the saviour and that he had been sent to proclaim salvation to his own people [[cite:church]].

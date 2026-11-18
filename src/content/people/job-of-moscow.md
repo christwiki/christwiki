@@ -12,7 +12,7 @@ citations:
     at: "narrative and decrees"
   synod:
     source: constantinople-synodal-charter-1590
-    at: "in Muravyov, under June 1590"
+    at: "in Muravyov, section on the coming of Metropolitan Dionysius of Tarnovo"
 ---
 
 Job was metropolitan of [[place:moscow]] when [[person:jeremias-ii-of-constantinople]] came to Russia. The court record says that the tsar would not have him displaced by a Greek patriarch who knew neither the customs nor the language, that the council of January 1589 put his name forward with others, and that the tsar chose him. Jeremias installed him on Sunday 26 January, repeating over him the whole rite of a bishop's consecration [[cite:council]].

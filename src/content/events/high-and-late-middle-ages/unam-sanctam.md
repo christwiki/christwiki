@@ -38,6 +38,10 @@ citations:
     source: villani-chronicle
     at: "8.63"
     url: https://www.gutenberg.org/cache/epub/33022/pg33022-images.html#VIII_63
+  gui-death:
+    source: bernard-gui-flores-chronicorum
+    at: "Life of Boniface VIII (Muratori, vol. 3, p. 672)"
+    url: https://archive.org/details/RerumItalicarumScriptores3/page/n731/mode/1up
   meruit:
     source: clement-v-meruit
   lateran5:
@@ -65,6 +69,6 @@ On 18 November 1302, at the Lateran in [[place:rome]], Boniface issued a short d
 
 > Indeed we declare, announce and define, that it is altogether necessary to salvation for every human creature to be subject to the Roman pontiff. [[cite:bull]]
 
-Villani tells also of an assembly at Paris at which the king had the pope charged with heresy and other crimes [[cite:quarrel]], and reports that in September 1303 the king's agent William of Nogaret and Sciarra Colonna seized Boniface at Anagni. The townspeople freed him after three days; he died in Rome, Villani says, on 12 October [[cite:anagni]].
+Villani tells also of an assembly at Paris at which the king had the pope charged with heresy and other crimes [[cite:quarrel]], and reports that in September 1303 the king's agent William of Nogaret and Sciarra Colonna seized Boniface at Anagni. The townspeople freed him after three days; he died in Rome, Villani says, on 12 October [[cite:anagni]]. The Dominican Bernard Gui, in his catalogue of the popes, puts the death on the fifth day before the ides of October, which is the 11th, and the burial in St Peter's on the day after [[cite:gui-death]].
 
 The meaning and reach of the bull have been argued over since. In 1306 Clement V declared that it brought no prejudice to the king and kingdom of France, who were no more subject to the church than before [[cite:meruit]]. The Fifth Lateran Council renewed it in 1516, speaking of subjection to the pope as necessary for "all Christ's faithful" and saving Clement's declaration [[cite:lateran5]]. The Lutheran confessors of 1537 called the constitution of Boniface false and godless for making the pope ruler of kingdoms by divine right [[cite:treatise]]. Among Catholics, Archbishop Manning argued in 1875 that the bull claims only a spiritual power that touches rulers indirectly, against the reading, which he ascribes to Bossuet, that it claimed temporal supremacy and had been withdrawn [[cite:manning]]. The Catechism of 1992 explains that the saying "outside the Church there is no salvation" is not directed at people who, without fault of their own, do not know Christ and his church [[cite:catechism]].

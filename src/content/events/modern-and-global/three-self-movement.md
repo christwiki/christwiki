@@ -26,6 +26,12 @@ citations:
   manifesto:
     source: christian-manifesto-1950
     at: "The Task in General and Fundamental Aims (1), pp. 19–20"
+  letter-1954:
+    source: documents-of-the-three-self-movement
+    at: "Letter to the Churches (conference of 1954), opening sentence"
+  conference-editors:
+    source: documents-of-the-three-self-movement
+    at: "editors' introduction to Y. T. Wu's Report to the July 1954 Conference in Peking"
   wu-bio:
     source: documents-of-the-three-self-movement
     at: "Biographical Index, Wu Yao-tsung"
@@ -48,7 +54,7 @@ citations:
     source: pius-xii-ad-apostolorum-principis
     at: "36–38, 47–48"
 dating: |
-  The dates are those the Chinese Communist Party itself gives: the meetings with Zhou Enlai in May 1950, the manifesto in July 1950, and the national conference of 12 July to 6 August 1954 that set up the Three-Self Patriotic Movement's committee [[cite:party]]. The entry runs on to Wang Mingdao's pamphlet of June 1955 [[cite:wang-editors]] and to the papal letters of 1954 and 1958.
+  The dates are those the Chinese Communist Party itself gives: the meetings with Zhou Enlai in May 1950, the manifesto in July 1950, and the national conference of 1954 that set up the Three-Self Patriotic Movement's committee [[cite:party]]. For the days of that conference the sources differ. The Party's page prints 12 July to 6 August 1954 [[cite:party]]. The conference's own letter to the churches, as translated in the collection of 1963 from the movement's magazine of 3 September 1954, says that the delegates had gathered in Peking from 22 July to 6 August [[cite:letter-1954]], and the American editors of that translation say that the conference met for sixteen days, from 22 July to 6 August [[cite:conference-editors]]. The entry runs on to Wang Mingdao's pamphlet of June 1955 [[cite:wang-editors]] and to the papal letters of 1954 and 1958.
 
   No count of arrests or deaths is given here, because no document open to the reader supports one. The one arrest named, that of Wang Mingdao, rests on the word of the American editors of 1963 [[cite:wang-editors]]. For his arrest and imprisonment see Thomas Alan Harvey, *Acquainted with Grief: Wang Mingdao's Stand for the Persecuted Church in China* (2002); for the period as a whole, Daniel H. Bays, *A New History of Christianity in China* (2012).
 ---
