@@ -1,5 +1,5 @@
 ---
-source: "ba11c4fb72ea"
+source: "ca0c074b151c"
 translated: 2026-10-04
 title: "Methode und Quellen"
 summary: "Christwiki erzählt die Geschichte des Christentums als einen einzigen Zeitstrahl, vom Anfang der Genesis bis in die Gegenwart. Es will eines gut machen: zeigen, wann und wo etwas geschah, wie es mit dem Übrigen zusammenhängt und worauf sich das Wissen darüber stützt."
@@ -45,7 +45,7 @@ Ein Zitat wird nur verzeichnet, wo sich die zitierten Worte oder die meisten von
 
 Die Worte beider Stellen stehen in den englischen Einträgen so, wie die World English Bible sie hat. Wo diese Übersetzung und die, zu der die Verweise führen, in der Sache voneinander abweichen, fehlen die Worte ganz oder in der betreffenden Zeile, und der Eintrag sagt, welche was liest.
 
-Bisher enthält die Seite die Zitate der vier Evangelien. Ein Zitat wird verzeichnet, wo ein Evangelium Worte als Schrift oder als Worte eines Propheten oder Davids einführt und sie auf Jesus, auf Johannes den Täufer, auf die Jünger, auf seine Gegner oder auf das Geschehen anwendet. Drei Arten bleiben außer Betracht. Schriftworte, die als Regel für das Handeln zitiert werden, etwa die Antworten Jesu an den Versucher [[bible:Matt 4:4, 7, 10]]. Schriftworte, mit denen eine Lehrfrage entschieden wird, etwa im Streitgespräch über die Auferstehung [[bible:Mark 12:26]]. Und Worte der Schrift, die gebraucht werden, ohne als Schrift eingeführt zu sein, gelten nicht als Zitat, etwa der Ruf am Kreuz [[bible:Mark 15:34]]. Die Apostelgeschichte und die Briefe kommen noch hinzu.
+Bisher enthält die Seite die Zitate der vier Evangelien und der Apostelgeschichte. Ein Zitat wird verzeichnet, wo der Text Worte als Schrift oder als Worte eines Propheten, des Mose oder Davids einführt und sie auf Jesus, auf Johannes den Täufer, auf die Jünger und Apostel, auf ihre Gegner oder auf das Geschehen anwendet. Vier Arten bleiben außer Betracht. Schriftworte, die als Regel für das Handeln zitiert werden, etwa die Antworten Jesu an den Versucher [[bible:Matt 4:4, 7, 10]]. Schriftworte, mit denen eine Lehrfrage entschieden wird, etwa im Streitgespräch über die Auferstehung [[bible:Mark 12:26]]. Und Worte der Schrift, die gebraucht werden, ohne als Schrift eingeführt zu sein, gelten nicht als Zitat, etwa der Ruf am Kreuz [[bible:Mark 15:34]]. Ebenso wenig Schriftworte, die beim Nacherzählen der Geschichte Israels zitiert werden, wie in der Rede des Stephanus [[bible:Acts 6:8; 7:2-3]]. Die Briefe kommen noch hinzu.
 
 ## [bible] Bibelstellen
 
