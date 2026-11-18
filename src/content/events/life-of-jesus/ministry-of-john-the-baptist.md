@@ -5,7 +5,7 @@ era: life-of-jesus
 reviewed: 2026-10-03
 date:
   start: 28
-  display: c. AD 28–29
+  display: c. AD 26–29
   confidence: estimated
 order: 10
 places:
@@ -41,7 +41,7 @@ citations:
     at: "6.50"
     url: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/6B*.html#50
 dating: |
-  Luke gives a precise date: the word of God came to John "in the fifteenth year of the reign of Tiberius Caesar" [[bible:Luke 3:1-2]]. Augustus died on 19 August AD 14 [[cite:augustus-death]] and Tiberius succeeded him. Counted from that day, the fifteenth year runs from August AD 28 to August AD 29. If Luke used a calendar whose year began in the autumn or in January and counted the months of AD 14 as the first year, it is AD 27–28 or AD 28. A few scholars count from the powers Tiberius shared with Augustus in his last years and reach AD 26–27. The reckonings are set out in Jack Finegan, *Handbook of Biblical Chronology* (revised edition, 1998), and Harold W. Hoehner, *Chronological Aspects of the Life of Christ* (1977), in the chapter on the commencement of Christ's ministry.
+  Luke gives a precise date: the word of God came to John "in the fifteenth year of the reign of Tiberius Caesar" [[bible:Luke 3:1-2]]. Augustus died on 19 August AD 14 [[cite:augustus-death]] and Tiberius succeeded him. Counted from that day, the fifteenth year runs from August AD 28 to August AD 29. If Luke used a calendar whose year began in the autumn or in January and counted the months of AD 14 as the first year, it is AD 27–28 or AD 28. A few scholars count from the powers Tiberius shared with Augustus in his last years and reach AD 26–27. The reckonings are set out in Jack Finegan, *Handbook of Biblical Chronology* (revised edition, 1998), and Harold W. Hoehner, *Chronological Aspects of the Life of Christ* (1977), in the chapter on the commencement of Christ's ministry. The choice bears on the year of the crucifixion: with the three Passovers of John's Gospel, AD 30 requires one of the earlier reckonings; see the dating note of [[event:crucifixion]].
 
   Luke's other names fit any of these years. Pontius Pilate came to Judea as the successor of Valerius Gratus and stayed ten years, leaving shortly before Tiberius died in March AD 37 [[cite:pilate-arrives]] [[cite:pilate-leaves]] [[cite:tiberius-death]]. Luke does not say how long John preached before he was imprisoned.
 ---

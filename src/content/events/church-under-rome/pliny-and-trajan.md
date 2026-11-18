@@ -28,6 +28,10 @@ citations:
     source: pliny-letters
     at: "10.96 (Latin)"
     url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0139%3Abook%3D10%3Aletter%3D96
+  loeb:
+    source: pliny-letters
+    at: "10.96 (Loeb translation of 1915, vol. 2, p. 401)"
+    url: https://archive.org/details/letterswithengli02plinuoft/page/401/mode/2up
   trajan:
     source: pliny-letters
     at: "10.97"
@@ -75,7 +79,7 @@ dating: |
 
 [[person:pliny-the-younger]] governed [[place:bithynia-and-pontus]], on the south coast of the Black Sea, as the representative of the emperor [[person:trajan]] [[cite:mission]]. In his second year there he wrote to ask the emperor how to deal with people denounced to him as Christians. He had never been present at a trial of Christians, he says, and did not know what was usually punished or how far to inquire: whether age made a difference, whether those who gave up the faith should be pardoned, and whether "the name itself" was punishable or only crimes that went with it [[cite:pliny]].
 
-He then describes what he had done. He asked the accused three times whether they were Christians, warning them of the penalty, and ordered those who persisted to be led away. The Latin says only that he ordered them to be led off (*duci iussi*); the words "to prison" in the translation linked here are not in it [[cite:latin]]. [[person:tertullian]], citing the letter about 197, took Pliny to have condemned Christians to death [[cite:tertullian]]. Roman citizens he set aside to be sent to Rome [[cite:pliny]]. When an unsigned list of names reached him, he released those who denied the charge once they had called on the gods, offered incense and wine before the emperor's image and cursed Christ [[cite:pliny]].
+He then describes what he had done. He asked the accused whether they were Christians and put the question a second and a third time to those who said so, threatening them with punishment (*supplicium*). Those who persisted he ordered to be led away (*duci iussi*), for he did not doubt, he says, that such stubbornness ought to be punished whatever it was that they confessed [[cite:latin]]. The Latin does not say where they were led. The translation linked here adds "to prison" [[cite:pliny]]; the Loeb translation of 1915 renders the words as a death sentence, "I ordered them to be executed" [[cite:loeb]]. [[person:tertullian]], citing the letter about 197, likewise says that Pliny had condemned some Christians to death [[cite:tertullian]]. Roman citizens he set aside to be sent to Rome [[cite:pliny]]. When an unsigned list of names reached him, he released those who denied the charge once they had called on the gods, offered incense and wine before the emperor's image and cursed Christ [[cite:pliny]].
 
 Some said they had left the Christians years before, and from them Pliny learned what the group did. They met on a fixed day before dawn and sang a hymn "to Christ, as though he were a god". They bound themselves by oath to commit no theft, robbery or adultery and to break no trust. Later they met again for an ordinary, harmless meal, which they had given up after his edict against associations [[cite:pliny]]. He had two slave women who were called *ministrae* ("deaconesses" in the translation) questioned under torture, and found only "a debased superstition" [[cite:latin]] [[cite:pliny]]. The movement, he adds, had spread through towns, villages and countryside, and the temples had been almost deserted [[cite:pliny]].
 
