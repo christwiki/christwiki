@@ -1,6 +1,6 @@
 ---
 title: Ansgar's Mission to Scandinavia
-summary: The monk Ansgar is sent from the Frankish court to the Danes and then to the Swedish trading town of Birka, and becomes the first archbishop of Hamburg. His churches are few and fragile, and depend on the leave of kings.
+summary: The monk Ansgar is sent from the Frankish court to the Danes and then to the Swedish trading town of Birka, and becomes, by Rimbert's account, the first archbishop of Hamburg. His churches are few and fragile, and depend on the leave of kings.
 era: early-middle-ages
 date:
   start: 829
@@ -41,13 +41,15 @@ dating: |
   Rimbert gives no years. The Royal Frankish Annals put the baptism of the Danish king Harald at Mainz in 826 [[cite:annals]]. Rimbert says that Ansgar and his companion had worked for two years or more among the Danes when the companion fell ill [[cite:harald]], and tells next of the Swedish envoys who came to the emperor [[cite:journey]], which points to about 829 for the journey to Birka. He says that Ansgar's last illness began in the sixty-fourth year of his life, the thirty-fourth of his episcopate [[cite:death]].
 
   On this basis the translator, C. H. Robinson, dates the stay at Birka to 829–831, the consecration at Hamburg to 831, the sack of Hamburg to 845, the second visit to Birka to 852 or 853 and Ansgar's death to 3 February 865. Rimbert gives the day of his death as the one after the feast of the Purification [[cite:death]]; the year depends on annals not read for this entry.
+
+  That Louis founded an archbishopric at Hamburg and had Ansgar consecrated to it is Rimbert's statement [[cite:hamburg]], and it is disputed. Eric Knibbs, *Ansgar, Rimbert and the Forged Foundations of Hamburg-Bremen* (2011), argues that Ansgar and Rimbert were themselves forgers, that Ansgar founded no archdiocese, and that the idea of Hamburg-Bremen took root only in the tenth century. The book presents this as overturning a consensus that the foundation documents and Rimbert's Life are basically reliable; it is known here from its publisher's description, not from the text.
 ---
 
 [[person:ansgar]] was a monk of Corbie in northern Francia, sent to teach at its new daughter house of Corvey in Saxony. When the Danish king Harald, driven from his kingdom, was baptized at the court of the emperor Louis the Pious, the emperor looked for a monk to go home with him, and Abbot Wala proposed Ansgar. He went with one companion and began a school for a dozen or more boys [[cite:harald]]. The court annals record Harald's baptism at Mainz with his wife and a large following [[cite:annals]].
 
 Rimbert tells next of Swedish envoys who told Louis that many of their people wished to become Christians and that their king would allow priests to live among them. Ansgar set out with the monk Witmar. Pirates took the merchant ships they travelled in, with the emperor's gifts and nearly forty books, and they finished the journey largely on foot. At [[place:birka]] King Björn consulted his men and gave them leave to preach. Christian captives in the town could receive the sacraments again, and the town's prefect, Herigar, was baptized and built a church on his own land [[cite:journey]].
 
-On their return Louis founded an archbishopric at [[place:hamburg]], beyond the Elbe, as a base for the northern mission. Ansgar was consecrated to it, and Pope Gregory IV gave him the pallium and named him legate to the Swedes, Danes and Slavs. A bishop, Gautbert, was sent to the Swedes [[cite:hamburg]].
+On their return, Rimbert says, Louis founded an archbishopric at [[place:hamburg]], beyond the Elbe, as a base for the northern mission. Ansgar was consecrated to it, and Pope Gregory IV gave him the pallium and named him legate to the Swedes, Danes and Slavs. A bishop, Gautbert, was sent to the Swedes [[cite:hamburg]].
 
 Little of this held. Raiders from the sea burned Hamburg with its church, monastery and books, and among the Swedes a crowd killed one of Gautbert's companions and drove the bishop out [[cite:losses]]. Ansgar was given the vacant see of Bremen to live from, won leave from the Danish king Horik to build a church at Schleswig [[cite:bremen]], and went a second time to Birka. There, Rimbert says, lots were cast and the king put the matter to the assembly: an old man argued that the Christians' God had often helped Swedes in danger at sea, and the people agreed that priests might stay [[cite:assembly]].
 
