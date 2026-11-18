@@ -75,15 +75,25 @@ citations:
     source: xavier-letters
     at: "the letter from Cochin in its Spanish text, Monumenta Xaveriana vol. 1, pp. 278 and 295"
     url: https://archive.org/details/monumentaxaveria01fran/page/n330/mode/2up
+  basque:
+    source: xavier-letters
+    at: "the letter from Cochin in its Spanish text, Monumenta Xaveriana vol. 1, p. 279, with note r"
+    url: https://archive.org/details/monumentaxaveria01fran/page/n314/mode/2up
+  basque-latin:
+    source: xavier-letters
+    at: "the Latin version of the letter from Cochin, Monumenta Xaveriana vol. 1, p. 298"
+    url: https://archive.org/details/monumentaxaveria01fran/page/n333/mode/2up
 dating: |
   Xavier's own letters give the framework: he reached India on 6 May 1542 [[cite:arrival]] and Japan on the feast of the Assumption, 15 August, 1549 [[cite:landing]], and his last letters are dated from the island of San Chan (Shangchuan) on 13 November 1552 [[cite:last-letter]].
 
   His death on the island is not in his letters. H. J. Coleridge, *The Life and Letters of St. Francis Xavier* (1872), vol. 2, pp. 571–572, names the Chinese youth Antonio as one of the two who attended him and puts the death on Friday 2 December 1552. Pope Francis, in his general audience of 17 May 2023, gives 3 December 1552.
 
   The letters are cited by Coleridge's numbers and with the dates he prints. Several of those dates differ by a few days from the ones in the edition made from the manuscript copies, *Monumenta Xaveriana*, vol. 1 (Madrid, 1899–1900). The widest difference is for the letter from Cochin, his number 14: Coleridge dates it 31 December 1543, while the Spanish text closes "De Cochim á xv de Henero de 1544", 15 January 1544, and its editors note that one copy has the 12th in its heading [[cite:cochin-date]]. The letter from Kagoshima ends in Coleridge's text with 11 November 1549, though his table of contents and the manuscripts have 5 November.
+
+  The texts differ in one matter of substance in the same letter from Cochin. Coleridge's English makes Xavier say that he "spoke Castilian" [[cite:catechism]]. The Spanish text has "la mía bizcaina", and its editors note that two copies read "bascuença" and "biscayna" [[cite:basque]]; the Latin version printed after it has "celtiberica, vulgo vazquenza" [[cite:basque-latin]]. All of these mean Basque, and the narrative follows them.
 ---
 
-[[person:francis-xavier]] sailed from Lisbon on 7 April 1541 and reached India on 6 May 1542, landing at [[place:goa]] [[cite:arrival]]. A later letter finds him among the Christians of Comorin, who told him that they were Christians but knew nothing of the precepts and mysteries of their religion. He spoke Castilian and they "Malabar", so with the help of men who knew both languages he had the catechism translated, learned it by heart, and went through the villages of the coast with a bell, gathering children and adults twice a day to repeat the Creed, the commandments and the prayers [[cite:catechism]]. He writes that he often baptized whole villages in a day, until he could hardly use his hands [[cite:baptizing]]. He wished he could go round the universities of Europe, Paris above all, crying out to learned men that souls were being lost through their fault [[cite:universities]].
+[[person:francis-xavier]] sailed from Lisbon on 7 April 1541 and reached India on 6 May 1542, landing at [[place:goa]] [[cite:arrival]]. A later letter finds him among the Christians of Comorin, who told him that they were Christians but knew nothing of the precepts and mysteries of their religion. He and they could not understand each other: in the Spanish text of the letter their native language is "malauar" and his own "bizcaina", Basque [[cite:basque]]. So with the help of people who understood what he calls "our language" as well as theirs he had the catechism translated, learned it by heart, and went through the villages of the coast with a bell, gathering children and adults twice a day to repeat the Creed, the commandments and the prayers [[cite:catechism]]. He writes that he often baptized whole villages in a day, until he could hardly use his hands [[cite:baptizing]]. He wished he could go round the universities of Europe, Paris above all, crying out to learned men that souls were being lost through their fault [[cite:universities]].
 
 At Malacca, he wrote in January 1548, a Portuguese merchant brought him a Japanese named Anger, [[person:anjiro]], who had come looking for him, troubled in conscience, and who spoke some Portuguese. Xavier was struck by his eagerness to learn. Anjiro told him that the Japanese would question a preacher closely and would watch whether his life agreed with his words [[cite:anjiro]]. A year later Xavier reported three Japanese students at the college of Santa Fe in Goa, the ablest of whom he calls Paul, and said that he had determined to go to Japan [[cite:students]].
 
